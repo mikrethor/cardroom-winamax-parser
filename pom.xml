@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>cardroom-winamax-parser</artifactId>
+	<name>Cardroom winamax parser</name>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+		</dependency>
+		<dependency>
+			<groupId>fr.mikrethor</groupId>
+			<artifactId>cardroom-commons</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+			<dependency>
+			<groupId>fr.mikrethor</groupId>
+			<artifactId>cardroom-parser</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+	<parent>
+		<groupId>fr.mikrethor</groupId>
+		<artifactId>cardroom-reader</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+
+	<description>Cardroom parser specific to winamax room</description>
+</project>

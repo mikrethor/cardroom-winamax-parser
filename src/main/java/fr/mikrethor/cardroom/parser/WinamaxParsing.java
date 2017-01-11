@@ -128,7 +128,7 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 		String nextLine = null;
 		Hand hand = null;
 		final InfoSession infoSession = new InfoSession();
-		infoSession.setSite(cardRoom);
+		infoSession.setCardRoom(cardRoom);
 		// Map<String, Hand> hands = new HashMap<String, Hand>();
 		boolean firstIteration = true;
 
@@ -251,6 +251,8 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 			double buy = 0d;
 			double fee = 0d;
 			int level = 0;
+
+			setCurrency(parseCurrency(nextLine));
 			// TODO decoreller les traitement pour eviter les IF.
 			if (!GameType.CASH.getType().equals(tab[1])) {
 				// Parsing
@@ -268,6 +270,8 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 			}
 			final String handId = parseHandIdSite(nextL);
 			hand.setLabel(handId);
+			hand.setCardRoom(cardRoom);
+			hand.setId(parseHandIdSite(nextLine));
 			game.setBuyIn(buy + fee);
 			game.setFee(fee);
 			hand.setLevel(level);
@@ -302,11 +306,13 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 				LOGGER.debug("GameId : {},TableId : {}, NbPlayerByTable : {}, ButtonSeat : {}", gameIdSite, tableId,
 						numberOfPlayerByTable, buttonSeat);
 			}
+
 			infoSession.setLabel(gameIdSite);
 			infoSession.setNbPlayersOnOneTable(Integer.parseInt(numberOfPlayerByTable));
 			infoSession.setPokerType(PokerType.HOLDEM);
 			hand.setIdTable(tableId);
 			hand.setButtonSeat(buttonSeat);
+			hand.setNbPlayersOnOneTable(infoSession.getNbPlayersOnOneTable());
 
 		}
 		return nextL;
@@ -714,14 +720,20 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 
 	@Override
 	public Currency parseCurrency(String chaine) {
-		// TODO Auto-generated method stub
+
+		for (Currency currency : Currency.values()) {
+			if (chaine.contains(currency.getSymbol())) {
+				return currency;
+			}
+		}
+
 		return null;
 	}
 
 	@Override
 	public Boolean isUselesLine(String line) {
-		// TODO Auto-generated method stub
-		return null;
+		// Nerver useless on Winamax
+		return Boolean.FALSE;
 	}
 
 	@Override

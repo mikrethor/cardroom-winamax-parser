@@ -1,0 +1,327 @@
+Winamax Poker - CashGame - HandId: #9401942-10897-1483850712 - Holdem no limit (0.01€/0.02€) - 2017/01/08 04:45:12 UTC
+Table: 'Nice' 5-max (real money) Seat #5 is the button
+Seat 1: bilboquets (4.04€)
+Seat 2: papynelson08 (2€)
+Seat 3: ...Thor... (2€)
+Seat 4: Moronar (2.30€)
+Seat 5: n00bish (3.31€)
+*** ANTE/BLINDS ***
+bilboquets posts small blind 0.01€
+papynelson08 posts big blind 0.02€
+*** PRE-FLOP *** 
+Moronar folds
+n00bish folds
+bilboquets calls 0.01€
+papynelson08 raises 0.04€ to 0.06€
+bilboquets folds
+papynelson08 collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 2: papynelson08 (big blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #9401942-10898-1483850780 - Holdem no limit (0.01€/0.02€) - 2017/01/08 04:46:20 UTC
+Table: 'Nice' 5-max (real money) Seat #1 is the button
+Seat 1: bilboquets (4.02€)
+Seat 2: papynelson08 (2.02€)
+Seat 3: ...Thor... (2€)
+Seat 4: Moronar (2.30€)
+Seat 5: n00bish (3.31€)
+*** ANTE/BLINDS ***
+papynelson08 posts small blind 0.01€
+...Thor... posts big blind 0.02€
+Dealt to ...Thor... [Jh 7d]
+*** PRE-FLOP *** 
+Moronar folds
+n00bish folds
+bilboquets calls 0.02€
+papynelson08 calls 0.01€
+...Thor... checks
+*** FLOP *** [Ah Ac 5d]
+papynelson08 bets 0.05€
+...Thor... folds
+bilboquets calls 0.05€
+*** TURN *** [Ah Ac 5d][2c]
+papynelson08 bets 0.05€
+bilboquets raises 0.10€ to 0.15€
+papynelson08 calls 0.10€
+*** RIVER *** [Ah Ac 5d 2c][Ts]
+papynelson08 checks
+bilboquets bets 0.23€
+papynelson08 folds
+bilboquets collected 0.66€ from pot
+*** SUMMARY ***
+Total pot 0.66€ | Rake 0.03€
+Board: [Ah Ac 5d 2c Ts]
+Seat 1: bilboquets (button) won 0.66€
+
+
+Winamax Poker - CashGame - HandId: #9401942-10899-1483850974 - Holdem no limit (0.01€/0.02€) - 2017/01/08 04:49:34 UTC
+Table: 'Nice' 5-max (real money) Seat #2 is the button
+Seat 1: bilboquets (4.23€)
+Seat 2: papynelson08 (1.80€)
+Seat 3: ...Thor... (2€)
+Seat 4: Moronar (2.30€)
+Seat 5: n00bish (3.31€)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 0.01€
+Moronar posts big blind 0.02€
+Dealt to ...Thor... [5s 7d]
+*** PRE-FLOP *** 
+n00bish raises 0.04€ to 0.06€
+bilboquets calls 0.06€
+papynelson08 raises 0.18€ to 0.24€
+...Thor... folds
+Moronar folds
+n00bish calls 0.18€
+bilboquets calls 0.18€
+*** FLOP *** [6h 6d Ah]
+n00bish checks
+bilboquets checks
+papynelson08 bets 0.38€
+n00bish folds
+bilboquets calls 0.38€
+*** TURN *** [6h 6d Ah][Kh]
+bilboquets checks
+papynelson08 checks
+*** RIVER *** [6h 6d Ah Kh][9c]
+bilboquets checks
+papynelson08 checks
+*** SHOW DOWN ***
+papynelson08 shows [8c Tc] (One pair : 6)
+bilboquets shows [Ad 5d] (Two pairs : Aces and 6)
+bilboquets collected 1.41€ from pot
+*** SUMMARY ***
+Total pot 1.41€ | Rake 0.10€
+Board: [6h 6d Ah Kh 9c]
+Seat 1: bilboquets showed [Ad 5d] and won 1.41€ with Two pairs : Aces and 6
+Seat 2: papynelson08 (button) showed [8c Tc] and lost with One pair : 6
+
+
+Winamax Poker - CashGame - HandId: #9401942-10900-1483851118 - Holdem no limit (0.01€/0.02€) - 2017/01/08 04:51:58 UTC
+Table: 'Nice' 5-max (real money) Seat #3 is the button
+Seat 1: bilboquets (5.02€)
+Seat 2: papynelson08 (1.18€)
+Seat 3: ...Thor... (2€)
+Seat 4: Moronar (2.28€)
+Seat 5: n00bish (3.07€)
+*** ANTE/BLINDS ***
+Moronar posts small blind 0.01€
+n00bish posts big blind 0.02€
+Dealt to ...Thor... [Ts 2c]
+*** PRE-FLOP *** 
+bilboquets folds
+papynelson08 folds
+...Thor... folds
+Moronar calls 0.01€
+n00bish checks
+*** FLOP *** [Ac Jd 6d]
+Moronar checks
+n00bish checks
+*** TURN *** [Ac Jd 6d][Td]
+Moronar checks
+n00bish checks
+*** RIVER *** [Ac Jd 6d Td][3c]
+Moronar checks
+n00bish checks
+*** SHOW DOWN ***
+n00bish shows [Qd 8c] (High card : Ace)
+Moronar shows [9s 9c] (One pair : 9)
+Moronar collected 0.04€ from pot
+*** SUMMARY ***
+Total pot 0.04€ | No rake
+Board: [Ac Jd 6d Td 3c]
+Seat 4: Moronar (small blind) showed [9s 9c] and won 0.04€ with One pair : 9
+Seat 5: n00bish (big blind) showed [Qd 8c] and lost with High card : Ace
+
+
+Winamax Poker - CashGame - HandId: #9401942-10901-1483851154 - Holdem no limit (0.01€/0.02€) - 2017/01/08 04:52:34 UTC
+Table: 'Nice' 5-max (real money) Seat #4 is the button
+Seat 1: bilboquets (5.02€)
+Seat 2: papynelson08 (1.18€)
+Seat 3: ...Thor... (2€)
+Seat 4: Moronar (2.30€)
+Seat 5: n00bish (3.05€)
+*** ANTE/BLINDS ***
+n00bish posts small blind 0.01€
+bilboquets posts big blind 0.02€
+Dealt to ...Thor... [6h Ac]
+*** PRE-FLOP *** 
+papynelson08 folds
+...Thor... folds
+Moronar folds
+n00bish raises 0.04€ to 0.06€
+bilboquets folds
+n00bish collected 0.08€ from pot
+*** SUMMARY ***
+Total pot 0.08€ | No rake
+Seat 5: n00bish (small blind) won 0.08€
+
+
+Winamax Poker - CashGame - HandId: #9401942-10902-1483851231 - Holdem no limit (0.01€/0.02€) - 2017/01/08 04:53:51 UTC
+Table: 'Nice' 5-max (real money) Seat #5 is the button
+Seat 1: bilboquets (5€)
+Seat 2: papynelson08 (1.18€)
+Seat 3: ...Thor... (2€)
+Seat 4: Moronar (2.30€)
+Seat 5: n00bish (3.07€)
+*** ANTE/BLINDS ***
+bilboquets posts small blind 0.01€
+...Thor... posts big blind 0.02€
+Dealt to ...Thor... [Kh 2c]
+*** PRE-FLOP *** 
+Moronar folds
+n00bish raises 0.04€ to 0.06€
+bilboquets folds
+...Thor... folds
+n00bish collected 0.09€ from pot
+*** SUMMARY ***
+Total pot 0.09€ | No rake
+Seat 5: n00bish (button) won 0.09€
+
+
+Winamax Poker - CashGame - HandId: #9401942-10903-1483851263 - Holdem no limit (0.01€/0.02€) - 2017/01/08 04:54:23 UTC
+Table: 'Nice' 5-max (real money) Seat #1 is the button
+Seat 1: bilboquets (4.99€)
+Seat 2: papynelson08 (1.18€)
+Seat 3: ...Thor... (2€)
+Seat 4: Moronar (2.30€)
+Seat 5: n00bish (3.10€)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 0.01€
+Moronar posts big blind 0.02€
+Dealt to ...Thor... [Kd 3h]
+*** PRE-FLOP *** 
+n00bish folds
+bilboquets folds
+...Thor... folds
+Moronar collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 4: Moronar (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #9401942-10904-1483851275 - Holdem no limit (0.01€/0.02€) - 2017/01/08 04:54:35 UTC
+Table: 'Nice' 5-max (real money) Seat #3 is the button
+Seat 1: bilboquets (4.99€)
+Seat 2: papynelson08 (1.18€)
+Seat 3: ...Thor... (2€)
+Seat 4: Moronar (2.31€)
+Seat 5: n00bish (3.10€)
+*** ANTE/BLINDS ***
+Moronar posts small blind 0.01€
+n00bish posts big blind 0.02€
+Dealt to ...Thor... [As Ks]
+*** PRE-FLOP *** 
+bilboquets folds
+...Thor... raises 0.04€ to 0.06€
+Moronar folds
+n00bish calls 0.04€
+*** FLOP *** [Ac 5c 5d]
+n00bish checks
+...Thor... checks
+*** TURN *** [Ac 5c 5d][Th]
+n00bish checks
+...Thor... bets 0.07€
+n00bish folds
+...Thor... collected 0.19€ from pot
+*** SUMMARY ***
+Total pot 0.19€ | Rake 0.01€
+Board: [Ac 5c 5d Th]
+Seat 3: ...Thor... (button) won 0.19€
+
+
+Winamax Poker - CashGame - HandId: #9401942-10905-1483851360 - Holdem no limit (0.01€/0.02€) - 2017/01/08 04:56:00 UTC
+Table: 'Nice' 5-max (real money) Seat #4 is the button
+Seat 1: bilboquets (4.99€)
+Seat 2: papynelson08 (1.18€)
+Seat 3: ...Thor... (2.06€)
+Seat 4: Moronar (2.30€)
+Seat 5: n00bish (3.04€)
+*** ANTE/BLINDS ***
+n00bish posts small blind 0.01€
+bilboquets posts big blind 0.02€
+Dealt to ...Thor... [4s Jd]
+*** PRE-FLOP *** 
+...Thor... folds
+Moronar folds
+n00bish folds
+bilboquets collected 0.03€ from pot
+*** SUMMARY ***
+Total pot 0.03€ | No rake
+Seat 1: bilboquets (big blind) won 0.03€
+
+
+Winamax Poker - CashGame - HandId: #9401942-10906-1483851372 - Holdem no limit (0.01€/0.02€) - 2017/01/08 04:56:12 UTC
+Table: 'Nice' 5-max (real money) Seat #5 is the button
+Seat 1: bilboquets (5€)
+Seat 2: papynelson08 (1.18€)
+Seat 3: ...Thor... (2.06€)
+Seat 4: Moronar (2.30€)
+Seat 5: n00bish (3.03€)
+*** ANTE/BLINDS ***
+bilboquets posts small blind 0.01€
+...Thor... posts big blind 0.02€
+Dealt to ...Thor... [Ts 6d]
+*** PRE-FLOP *** 
+Moronar calls 0.02€
+n00bish raises 0.08€ to 0.10€
+bilboquets folds
+...Thor... folds
+Moronar calls 0.08€
+*** FLOP *** [Qc Kd 5d]
+Moronar checks
+n00bish bets 0.15€
+Moronar calls 0.15€
+*** TURN *** [Qc Kd 5d][7d]
+Moronar checks
+n00bish checks
+*** RIVER *** [Qc Kd 5d 7d][7s]
+Moronar bets 0.24€
+n00bish folds
+Moronar collected 0.74€ from pot
+*** SUMMARY ***
+Total pot 0.74€ | Rake 0.03€
+Board: [Qc Kd 5d 7d 7s]
+Seat 4: Moronar won 0.74€
+
+
+Winamax Poker - CashGame - HandId: #9401942-10907-1483851447 - Holdem no limit (0.01€/0.02€) - 2017/01/08 04:57:27 UTC
+Table: 'Nice' 5-max (real money) Seat #1 is the button
+Seat 1: bilboquets (4.99€)
+Seat 2: papynelson08 (1.18€)
+Seat 3: ...Thor... (2.04€)
+Seat 4: Moronar (2.55€)
+Seat 5: n00bish (2.78€)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 0.01€
+Moronar posts big blind 0.02€
+Dealt to ...Thor... [Qd Qh]
+*** PRE-FLOP *** 
+n00bish folds
+bilboquets raises 0.06€ to 0.08€
+...Thor... calls 0.07€
+Moronar folds
+*** FLOP *** [Js Kd 6c]
+...Thor... checks
+bilboquets bets 0.12€
+...Thor... calls 0.12€
+*** TURN *** [Js Kd 6c][Th]
+...Thor... checks
+bilboquets bets 0.20€
+...Thor... calls 0.20€
+*** RIVER *** [Js Kd 6c Th][Kc]
+...Thor... checks
+bilboquets bets 0.82€
+...Thor... calls 0.82€
+*** SHOW DOWN ***
+bilboquets shows [9d Td] (Two pairs : Kings and Tens)
+...Thor... shows [Qd Qh] (Two pairs : Kings and Queens)
+...Thor... collected 2.30€ from pot
+*** SUMMARY ***
+Total pot 2.30€ | Rake 0.16€
+Board: [Js Kd 6c Th Kc]
+Seat 1: bilboquets (button) showed [9d Td] and lost with Two pairs : Kings and Tens
+Seat 3: ...Thor... (small blind) showed [Qd Qh] and won 2.30€ with Two pairs : Kings and Queens
+
+

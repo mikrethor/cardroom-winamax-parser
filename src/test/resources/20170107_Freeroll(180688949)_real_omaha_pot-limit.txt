@@ -1,0 +1,287 @@
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 1 - HandId: #776053126703612144-1-1483812929 - Omaha pot limit (10/20) - 2017/01/07 18:15:29 UTC
+Table: 'Freeroll(180688949)#0239' 6-max (real money) Seat #1 is the button
+Seat 1: MG0029 (3000)
+Seat 2: daviddamae (3000)
+Seat 3: ...Thor... (3000)
+Seat 4: mika mons (3000)
+Seat 5: ewen14 (3000)
+Seat 6: de.ohnemer (3000)
+*** ANTE/BLINDS ***
+daviddamae posts small blind 10
+...Thor... posts big blind 20
+Dealt to ...Thor... [Ts 4h 9s 4s]
+*** PRE-FLOP *** 
+mika mons calls 20
+ewen14 calls 20
+de.ohnemer calls 20
+MG0029 folds
+daviddamae calls 10
+...Thor... checks
+*** FLOP *** [Kh Js Qc]
+daviddamae bets 20
+...Thor... calls 20
+mika mons folds
+ewen14 calls 20
+de.ohnemer calls 20
+*** TURN *** [Kh Js Qc][6d]
+daviddamae bets 20
+...Thor... raises 160 to 180
+ewen14 calls 180
+de.ohnemer folds
+daviddamae calls 160
+*** RIVER *** [Kh Js Qc 6d][5h]
+daviddamae bets 20
+...Thor... raises 370 to 390
+ewen14 folds
+daviddamae calls 370
+*** SHOW DOWN ***
+daviddamae shows [3s 9d 6s Qh] (Two pairs : Queens and 6)
+...Thor... shows [Ts 4h 9s 4s] (Straight King high)
+...Thor... collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | No rake
+Board: [Kh Js Qc 6d 5h]
+Seat 2: daviddamae (small blind) showed [3s 9d 6s Qh] and lost with Two pairs : Queens and 6
+Seat 3: ...Thor... (big blind) showed [Ts 4h 9s 4s] and won 1500 with Straight King high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #776053126703612144-2-1483813164 - Omaha pot limit (15/30) - 2017/01/07 18:19:24 UTC
+Table: 'Freeroll(180688949)#0239' 6-max (real money) Seat #2 is the button
+Seat 1: MG0029 (3000)
+Seat 2: daviddamae (2390)
+Seat 3: ...Thor... (3890)
+Seat 4: mika mons (2980)
+Seat 5: ewen14 (2780)
+Seat 6: de.ohnemer (2960)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 15
+mika mons posts big blind 30
+Dealt to ...Thor... [8h Jc 2d 6d]
+*** PRE-FLOP *** 
+ewen14 calls 30
+de.ohnemer raises 105 to 135
+MG0029 folds
+daviddamae raises 345 to 480
+...Thor... folds
+mika mons folds
+ewen14 folds
+de.ohnemer raises 1035 to 1515
+daviddamae raises 875 to 2390 and is all-in
+de.ohnemer calls 875
+*** FLOP *** [Jh 5c Qd]
+*** TURN *** [Jh 5c Qd][7d]
+*** RIVER *** [Jh 5c Qd 7d][8s]
+*** SHOW DOWN ***
+de.ohnemer shows [Kd Js Ks 7h] (Two pairs : Jacks and 7)
+daviddamae shows [Qc Ac Td Qs] (Trips of Queens)
+daviddamae collected 4855 from pot
+*** SUMMARY ***
+Total pot 4855 | No rake
+Board: [Jh 5c Qd 7d 8s]
+Seat 2: daviddamae (button) showed [Qc Ac Td Qs] and won 4855 with Trips of Queens
+Seat 6: de.ohnemer showed [Kd Js Ks 7h] and lost with Two pairs : Jacks and 7
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 2 - HandId: #776053126703612144-3-1483813238 - Omaha pot limit (15/30) - 2017/01/07 18:20:38 UTC
+Table: 'Freeroll(180688949)#0239' 6-max (real money) Seat #3 is the button
+Seat 1: MG0029 (3000)
+Seat 2: daviddamae (4855)
+Seat 3: ...Thor... (3875)
+Seat 4: mika mons (2950)
+Seat 5: ewen14 (2750)
+Seat 6: de.ohnemer (570)
+*** ANTE/BLINDS ***
+mika mons posts small blind 15
+ewen14 posts big blind 30
+Dealt to ...Thor... [Qs 5s 8s 7c]
+*** PRE-FLOP *** 
+de.ohnemer calls 30
+MG0029 folds
+daviddamae calls 30
+...Thor... folds
+mika mons calls 15
+ewen14 checks
+*** FLOP *** [6d As 4c]
+mika mons checks
+ewen14 checks
+de.ohnemer checks
+daviddamae checks
+*** TURN *** [6d As 4c][Kh]
+mika mons checks
+ewen14 bets 30
+de.ohnemer calls 30
+daviddamae calls 30
+mika mons calls 30
+*** RIVER *** [6d As 4c Kh][9h]
+mika mons checks
+ewen14 checks
+de.ohnemer bets 240
+daviddamae raises 240 to 480
+mika mons folds
+ewen14 folds
+de.ohnemer raises 30 to 510 and is all-in
+daviddamae calls 30
+*** SHOW DOWN ***
+de.ohnemer shows [2c Kd 8c 2d] (One pair : Kings)
+daviddamae shows [8h Qc 9d 9c] (Trips of 9)
+daviddamae collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | No rake
+Board: [6d As 4c Kh 9h]
+Seat 2: daviddamae showed [8h Qc 9d 9c] and won 1260 with Trips of 9
+Seat 6: de.ohnemer showed [2c Kd 8c 2d] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 3 - HandId: #776053126703612144-4-1483813441 - Omaha pot limit (20/40) - 2017/01/07 18:24:01 UTC
+Table: 'Freeroll(180688949)#0239' 6-max (real money) Seat #4 is the button
+Seat 1: MG0029 (3000)
+Seat 2: daviddamae (5545)
+Seat 3: ...Thor... (3875)
+Seat 4: mika mons (2890)
+Seat 5: ewen14 (2690)
+*** ANTE/BLINDS ***
+ewen14 posts small blind 20
+MG0029 posts big blind 40
+Dealt to ...Thor... [6h 4c Ah 2c]
+*** PRE-FLOP *** 
+daviddamae folds
+...Thor... raises 80 to 120
+mika mons folds
+ewen14 raises 80 to 200
+MG0029 folds
+...Thor... calls 80
+*** FLOP *** [Js 5d Ts]
+ewen14 bets 40
+...Thor... folds
+ewen14 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [Js 5d Ts]
+Seat 5: ewen14 (small blind) won 480
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #776053126703612144-5-1483813523 - Omaha pot limit (30/60) - 2017/01/07 18:25:23 UTC
+Table: 'Freeroll(180688949)#0239' 6-max (real money) Seat #5 is the button
+Seat 1: MG0029 (2960)
+Seat 2: daviddamae (5545)
+Seat 3: ...Thor... (3675)
+Seat 4: mika mons (2890)
+Seat 5: ewen14 (2930)
+Seat 6: X_76_X (3000)
+*** ANTE/BLINDS ***
+MG0029 posts small blind 30
+daviddamae posts big blind 60
+Dealt to ...Thor... [9d Ac 7s Jc]
+*** PRE-FLOP *** 
+...Thor... raises 120 to 180
+mika mons calls 180
+ewen14 calls 180
+MG0029 folds
+daviddamae folds
+*** FLOP *** [9c Js Qd]
+...Thor... checks
+mika mons checks
+ewen14 bets 60
+...Thor... raises 270 to 330
+mika mons folds
+ewen14 calls 270
+*** TURN *** [9c Js Qd][5d]
+...Thor... checks
+ewen14 bets 645
+...Thor... calls 645
+*** RIVER *** [9c Js Qd 5d][Kc]
+...Thor... checks
+ewen14 checks
+*** SHOW DOWN ***
+...Thor... shows [9d Ac 7s Jc] (Two pairs : Jacks and 9)
+ewen14 shows [8c Td 3d 4c] (Straight Queen high)
+ewen14 collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | No rake
+Board: [9c Js Qd 5d Kc]
+Seat 3: ...Thor... showed [9d Ac 7s Jc] and lost with Two pairs : Jacks and 9
+Seat 5: ewen14 (button) showed [8c Td 3d 4c] and won 2580 with Straight Queen high
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 4 - HandId: #776053126703612144-6-1483813631 - Omaha pot limit (30/60) - 2017/01/07 18:27:11 UTC
+Table: 'Freeroll(180688949)#0239' 6-max (real money) Seat #1 is the button
+Seat 1: MG0029 (2930)
+Seat 2: daviddamae (5485)
+Seat 3: ...Thor... (2520)
+Seat 4: mika mons (2710)
+Seat 5: ewen14 (4355)
+Seat 6: X_76_X (3000)
+*** ANTE/BLINDS ***
+daviddamae posts small blind 30
+...Thor... posts big blind 60
+Dealt to ...Thor... [Td 7h Qs 2h]
+*** PRE-FLOP *** 
+mika mons calls 60
+ewen14 calls 60
+X_76_X raises 270 to 330
+MG0029 folds
+daviddamae folds
+...Thor... folds
+mika mons calls 270
+ewen14 calls 270
+*** FLOP *** [Qh Th Jh]
+mika mons checks
+ewen14 checks
+X_76_X bets 1080
+mika mons folds
+ewen14 folds
+X_76_X collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | No rake
+Board: [Qh Th Jh]
+Seat 6: X_76_X won 2160
+
+
+Winamax Poker - Tournament "Freeroll" buyIn: 0€ + 0€ level: 5 - HandId: #776053126703612144-7-1483813704 - Omaha pot limit (40/80) - 2017/01/07 18:28:24 UTC
+Table: 'Freeroll(180688949)#0239' 6-max (real money) Seat #2 is the button
+Seat 1: MG0029 (2930)
+Seat 2: daviddamae (5455)
+Seat 3: ...Thor... (2460)
+Seat 4: mika mons (2380)
+Seat 5: ewen14 (4025)
+Seat 6: X_76_X (3750)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 40
+mika mons posts big blind 80
+Dealt to ...Thor... [Ah 3s Kc 6h]
+*** PRE-FLOP *** 
+ewen14 raises 80 to 160
+X_76_X calls 160
+MG0029 calls 160
+daviddamae folds
+...Thor... calls 120
+mika mons calls 80
+*** FLOP *** [6s 9s As]
+...Thor... checks
+mika mons bets 800
+ewen14 folds
+X_76_X folds
+MG0029 calls 800
+...Thor... calls 800
+*** TURN *** [6s 9s As][3h]
+...Thor... checks
+mika mons bets 1420 and is all-in
+MG0029 calls 1420
+...Thor... calls 1420
+*** RIVER *** [6s 9s As 3h][7c]
+...Thor... bets 80 and is all-in
+MG0029 calls 80
+*** SHOW DOWN ***
+...Thor... shows [Ah 3s Kc 6h] (Two pairs : Aces and 6)
+MG0029 shows [Qh Js Qc Ts] (Flush Ace high)
+mika mons shows [Qs Ad 4s 6c] (Flush Ace high)
+mika mons collected 7460 from main pot
+MG0029 collected 160 from side pot 1
+*** SUMMARY ***
+Total pot 7620 | No rake
+Board: [6s 9s As 3h 7c]
+Seat 1: MG0029 showed [Qh Js Qc Ts] and won 160 with Flush Ace high
+Seat 3: ...Thor... (small blind) showed [Ah 3s Kc 6h] and lost with Two pairs : Aces and 6
+Seat 4: mika mons (big blind) showed [Qs Ad 4s 6c] and won 7460 with Flush Ace high
+
+

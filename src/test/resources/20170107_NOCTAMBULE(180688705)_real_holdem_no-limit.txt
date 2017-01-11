@@ -1,0 +1,4024 @@
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-1-1483835405 - Holdem no limit (50/100) - 2017/01/08 00:30:05 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (20000)
+Seat 2: Gogo yubari (20000)
+Seat 3: Brocoline (20000)
+Seat 4: ...Thor... (20000)
+Seat 5: Dad-Soon (20000)
+Seat 6: iLoveFederer (20000)
+*** ANTE/BLINDS ***
+Schmorbauner posts small blind 50
+Gogo yubari posts big blind 100
+Dealt to ...Thor... [Ad Td]
+*** PRE-FLOP *** 
+Brocoline folds
+...Thor... raises 200 to 300
+Dad-Soon calls 300
+iLoveFederer calls 300
+Schmorbauner folds
+Gogo yubari folds
+*** FLOP *** [7c 2c 5s]
+...Thor... bets 550
+Dad-Soon folds
+iLoveFederer calls 550
+*** TURN *** [7c 2c 5s][9c]
+...Thor... checks
+iLoveFederer checks
+*** RIVER *** [7c 2c 5s 9c][8c]
+...Thor... checks
+iLoveFederer checks
+*** SHOW DOWN ***
+...Thor... shows [Ad Td] (High card : Ace)
+iLoveFederer shows [6h 6c] (Flush 9 high)
+iLoveFederer collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | No rake
+Board: [7c 2c 5s 9c 8c]
+Seat 4: ...Thor... showed [Ad Td] and lost with High card : Ace
+Seat 6: iLoveFederer (button) showed [6h 6c] and won 2150 with Flush 9 high
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-2-1483835484 - Holdem no limit (50/100) - 2017/01/08 00:31:24 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (19950)
+Seat 2: Gogo yubari (19900)
+Seat 3: Brocoline (20000)
+Seat 4: ...Thor... (19150)
+Seat 5: Dad-Soon (19700)
+Seat 6: iLoveFederer (21300)
+*** ANTE/BLINDS ***
+Gogo yubari posts small blind 50
+Brocoline posts big blind 100
+Dealt to ...Thor... [8d 9d]
+*** PRE-FLOP *** 
+...Thor... folds
+Dad-Soon raises 250 to 350
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari folds
+Brocoline calls 250
+*** FLOP *** [3c 8c 9h]
+Brocoline checks
+Dad-Soon bets 750
+Brocoline calls 750
+*** TURN *** [3c 8c 9h][Ks]
+Brocoline checks
+Dad-Soon bets 1900
+Brocoline calls 1900
+*** RIVER *** [3c 8c 9h Ks][Qd]
+Brocoline bets 3900
+Dad-Soon folds
+Brocoline collected 9950 from pot
+*** SUMMARY ***
+Total pot 9950 | No rake
+Board: [3c 8c 9h Ks Qd]
+Seat 3: Brocoline (big blind) won 9950
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-3-1483835526 - Holdem no limit (50/100) - 2017/01/08 00:32:06 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (19950)
+Seat 2: Gogo yubari (19850)
+Seat 3: Brocoline (23050)
+Seat 4: ...Thor... (19150)
+Seat 5: Dad-Soon (16700)
+Seat 6: iLoveFederer (21300)
+*** ANTE/BLINDS ***
+Brocoline posts small blind 50
+...Thor... posts big blind 100
+Dealt to ...Thor... [3d Kc]
+*** PRE-FLOP *** 
+Dad-Soon raises 100 to 200
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari folds
+Brocoline calls 150
+...Thor... folds
+*** FLOP *** [5s 9h 5h]
+Brocoline checks
+Dad-Soon bets 250
+Brocoline calls 250
+*** TURN *** [5s 9h 5h][Qc]
+Brocoline checks
+Dad-Soon bets 1000
+Brocoline raises 1000 to 2000
+Dad-Soon calls 1000
+*** RIVER *** [5s 9h 5h Qc][6d]
+Brocoline bets 4300
+Dad-Soon folds
+Brocoline collected 9300 from pot
+*** SUMMARY ***
+Total pot 9300 | No rake
+Board: [5s 9h 5h Qc 6d]
+Seat 3: Brocoline (small blind) won 9300
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-4-1483835569 - Holdem no limit (50/100) - 2017/01/08 00:32:49 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (19950)
+Seat 2: Gogo yubari (19850)
+Seat 3: Brocoline (25600)
+Seat 4: ...Thor... (19050)
+Seat 5: Dad-Soon (14250)
+Seat 6: iLoveFederer (21300)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 50
+Dad-Soon posts big blind 100
+Dealt to ...Thor... [9d Qd]
+*** PRE-FLOP *** 
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari raises 150 to 250
+Brocoline calls 250
+...Thor... folds
+Dad-Soon calls 150
+*** FLOP *** [4s Kd Ac]
+Dad-Soon checks
+Gogo yubari checks
+Brocoline checks
+*** TURN *** [4s Kd Ac][2h]
+Dad-Soon bets 800
+Gogo yubari calls 800
+Brocoline folds
+*** RIVER *** [4s Kd Ac 2h][7s]
+Dad-Soon bets 1900
+Gogo yubari calls 1900
+*** SHOW DOWN ***
+Gogo yubari shows [Ks 9h] (One pair : Kings)
+Dad-Soon shows [6s Ah] (One pair : Aces)
+Dad-Soon collected 6200 from pot
+*** SUMMARY ***
+Total pot 6200 | No rake
+Board: [4s Kd Ac 2h 7s]
+Seat 2: Gogo yubari showed [Ks 9h] and lost with One pair : Kings
+Seat 5: Dad-Soon (big blind) showed [6s Ah] and won 6200 with One pair : Aces
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-5-1483835618 - Holdem no limit (50/100) - 2017/01/08 00:33:38 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (19950)
+Seat 2: Gogo yubari (16900)
+Seat 3: Brocoline (25350)
+Seat 4: ...Thor... (19000)
+Seat 5: Dad-Soon (17500)
+Seat 6: iLoveFederer (21300)
+*** ANTE/BLINDS ***
+Dad-Soon posts small blind 50
+iLoveFederer posts big blind 100
+Dealt to ...Thor... [6h Ad]
+*** PRE-FLOP *** 
+Schmorbauner folds
+Gogo yubari raises 250 to 350
+Brocoline raises 550 to 900
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Gogo yubari calls 550
+*** FLOP *** [4d Qd Th]
+Gogo yubari checks
+Brocoline checks
+*** TURN *** [4d Qd Th][7s]
+Gogo yubari bets 975
+Brocoline calls 975
+*** RIVER *** [4d Qd Th 7s][4c]
+Gogo yubari bets 1950
+Brocoline folds
+Gogo yubari collected 5850 from pot
+*** SUMMARY ***
+Total pot 5850 | No rake
+Board: [4d Qd Th 7s 4c]
+Seat 2: Gogo yubari won 5850
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-6-1483835677 - Holdem no limit (50/100) - 2017/01/08 00:34:37 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (19950)
+Seat 2: Gogo yubari (18925)
+Seat 3: Brocoline (23475)
+Seat 4: ...Thor... (19000)
+Seat 5: Dad-Soon (17450)
+Seat 6: iLoveFederer (21200)
+*** ANTE/BLINDS ***
+iLoveFederer posts small blind 50
+Schmorbauner posts big blind 100
+Dealt to ...Thor... [3c Ts]
+*** PRE-FLOP *** 
+Gogo yubari raises 250 to 350
+Brocoline folds
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | No rake
+Seat 2: Gogo yubari won 500
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-7-1483835692 - Holdem no limit (50/100) - 2017/01/08 00:34:52 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (19850)
+Seat 2: Gogo yubari (19075)
+Seat 3: Brocoline (23475)
+Seat 4: ...Thor... (19000)
+Seat 5: Dad-Soon (17450)
+Seat 6: iLoveFederer (21150)
+*** ANTE/BLINDS ***
+Schmorbauner posts small blind 50
+Gogo yubari posts big blind 100
+Dealt to ...Thor... [9c Jc]
+*** PRE-FLOP *** 
+Brocoline folds
+...Thor... raises 250 to 350
+Dad-Soon calls 350
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari calls 250
+*** FLOP *** [8h 4s 8c]
+Gogo yubari checks
+...Thor... checks
+Dad-Soon checks
+*** TURN *** [8h 4s 8c][Kh]
+Gogo yubari checks
+...Thor... checks
+Dad-Soon bets 880
+Gogo yubari calls 880
+...Thor... folds
+*** RIVER *** [8h 4s 8c Kh][4c]
+Gogo yubari checks
+Dad-Soon bets 2288
+Gogo yubari folds
+Dad-Soon collected 5148 from pot
+*** SUMMARY ***
+Total pot 5148 | No rake
+Board: [8h 4s 8c Kh 4c]
+Seat 5: Dad-Soon won 5148
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-8-1483835742 - Holdem no limit (50/100) - 2017/01/08 00:35:42 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (19800)
+Seat 2: Gogo yubari (17845)
+Seat 3: Brocoline (23475)
+Seat 4: ...Thor... (18650)
+Seat 5: Dad-Soon (19080)
+Seat 6: iLoveFederer (21150)
+*** ANTE/BLINDS ***
+Gogo yubari posts small blind 50
+Brocoline posts big blind 100
+Dealt to ...Thor... [8c Th]
+*** PRE-FLOP *** 
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner raises 100 to 200
+Gogo yubari raises 400 to 600
+Brocoline folds
+Schmorbauner folds
+Gogo yubari collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | No rake
+Seat 2: Gogo yubari (small blind) won 900
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-9-1483835769 - Holdem no limit (50/100) - 2017/01/08 00:36:09 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (19600)
+Seat 2: Gogo yubari (18145)
+Seat 3: Brocoline (23375)
+Seat 4: ...Thor... (18650)
+Seat 5: Dad-Soon (19080)
+Seat 6: iLoveFederer (21150)
+*** ANTE/BLINDS ***
+Brocoline posts small blind 50
+...Thor... posts big blind 100
+Dealt to ...Thor... [Td 9d]
+*** PRE-FLOP *** 
+Dad-Soon raises 100 to 200
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari folds
+Brocoline calls 150
+...Thor... calls 100
+*** FLOP *** [Jh 2h Qd]
+Brocoline checks
+...Thor... checks
+Dad-Soon bets 420
+Brocoline folds
+...Thor... calls 420
+*** TURN *** [Jh 2h Qd][3h]
+...Thor... checks
+Dad-Soon checks
+*** RIVER *** [Jh 2h Qd 3h][Ah]
+...Thor... checks
+Dad-Soon checks
+*** SHOW DOWN ***
+...Thor... shows [Td 9d] (High card : Ace)
+Dad-Soon shows [Kd Ad] (One pair : Aces)
+Dad-Soon collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | No rake
+Board: [Jh 2h Qd 3h Ah]
+Seat 4: ...Thor... (big blind) showed [Td 9d] and lost with High card : Ace
+Seat 5: Dad-Soon showed [Kd Ad] and won 1440 with One pair : Aces
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-10-1483835806 - Holdem no limit (50/100) - 2017/01/08 00:36:46 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (19600)
+Seat 2: Gogo yubari (18145)
+Seat 3: Brocoline (23175)
+Seat 4: ...Thor... (18030)
+Seat 5: Dad-Soon (19900)
+Seat 6: iLoveFederer (21150)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 50
+Dad-Soon posts big blind 100
+Dealt to ...Thor... [2c 3c]
+*** PRE-FLOP *** 
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari raises 300 to 400
+Brocoline calls 400
+...Thor... folds
+Dad-Soon folds
+*** FLOP *** [Jh Qh 8s]
+Gogo yubari bets 475
+Brocoline raises 475 to 950
+Gogo yubari calls 475
+*** TURN *** [Jh Qh 8s][2s]
+Gogo yubari checks
+Brocoline bets 1824
+Gogo yubari folds
+Brocoline collected 4674 from pot
+*** SUMMARY ***
+Total pot 4674 | No rake
+Board: [Jh Qh 8s 2s]
+Seat 3: Brocoline (button) won 4674
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-11-1483835842 - Holdem no limit (50/100) - 2017/01/08 00:37:22 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (19600)
+Seat 2: Gogo yubari (16795)
+Seat 3: Brocoline (24675)
+Seat 4: ...Thor... (17980)
+Seat 5: Dad-Soon (19800)
+Seat 6: iLoveFederer (21150)
+*** ANTE/BLINDS ***
+Dad-Soon posts small blind 50
+iLoveFederer posts big blind 100
+Dealt to ...Thor... [9s Td]
+*** PRE-FLOP *** 
+Schmorbauner folds
+Gogo yubari folds
+Brocoline raises 200 to 300
+...Thor... folds
+Dad-Soon raises 700 to 1000
+iLoveFederer folds
+Brocoline calls 700
+*** FLOP *** [2c Tc Ad]
+Dad-Soon checks
+Brocoline checks
+*** TURN *** [2c Tc Ad][3h]
+Dad-Soon checks
+Brocoline bets 1400
+Dad-Soon calls 1400
+*** RIVER *** [2c Tc Ad 3h][8h]
+Dad-Soon checks
+Brocoline bets 3200
+Dad-Soon calls 3200
+*** SHOW DOWN ***
+Brocoline shows [4h 4d] (One pair : 4)
+Dad-Soon shows [Js Jh] (One pair : Jacks)
+Dad-Soon collected 11300 from pot
+*** SUMMARY ***
+Total pot 11300 | No rake
+Board: [2c Tc Ad 3h 8h]
+Seat 3: Brocoline showed [4h 4d] and lost with One pair : 4
+Seat 5: Dad-Soon (small blind) showed [Js Jh] and won 11300 with One pair : Jacks
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-12-1483835885 - Holdem no limit (75/150) - 2017/01/08 00:38:05 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (19600)
+Seat 2: Gogo yubari (16795)
+Seat 3: Brocoline (19075)
+Seat 4: ...Thor... (17980)
+Seat 5: Dad-Soon (25500)
+Seat 6: iLoveFederer (21050)
+*** ANTE/BLINDS ***
+iLoveFederer posts small blind 75
+Schmorbauner posts big blind 150
+Dealt to ...Thor... [4s As]
+*** PRE-FLOP *** 
+Gogo yubari folds
+Brocoline raises 150 to 300
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner calls 150
+*** FLOP *** [Ts Tc Ac]
+Schmorbauner checks
+Brocoline bets 450
+Schmorbauner calls 450
+*** TURN *** [Ts Tc Ac][6c]
+Schmorbauner checks
+Brocoline bets 1050
+Schmorbauner calls 1050
+*** RIVER *** [Ts Tc Ac 6c][Kh]
+Schmorbauner checks
+Brocoline bets 2400
+Schmorbauner calls 2400
+*** SHOW DOWN ***
+Schmorbauner shows [Qs Kc] (Two pairs : Kings and Tens)
+Brocoline shows [8c Qc] (Flush Ace high)
+Brocoline collected 8475 from pot
+*** SUMMARY ***
+Total pot 8475 | No rake
+Board: [Ts Tc Ac 6c Kh]
+Seat 1: Schmorbauner (big blind) showed [Qs Kc] and lost with Two pairs : Kings and Tens
+Seat 3: Brocoline showed [8c Qc] and won 8475 with Flush Ace high
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-13-1483835938 - Holdem no limit (75/150) - 2017/01/08 00:38:58 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (15400)
+Seat 2: Gogo yubari (16795)
+Seat 3: Brocoline (23350)
+Seat 4: ...Thor... (17980)
+Seat 5: Dad-Soon (25500)
+Seat 6: iLoveFederer (20975)
+*** ANTE/BLINDS ***
+Schmorbauner posts small blind 75
+Gogo yubari posts big blind 150
+Dealt to ...Thor... [Kc 4d]
+*** PRE-FLOP *** 
+Brocoline folds
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | No rake
+Seat 2: Gogo yubari (big blind) won 225
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-14-1483835967 - Holdem no limit (75/150) - 2017/01/08 00:39:27 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (15325)
+Seat 2: Gogo yubari (16870)
+Seat 3: Brocoline (23350)
+Seat 4: ...Thor... (17980)
+Seat 5: Dad-Soon (25500)
+Seat 6: iLoveFederer (20975)
+*** ANTE/BLINDS ***
+Gogo yubari posts small blind 75
+Brocoline posts big blind 150
+Dealt to ...Thor... [Qh Td]
+*** PRE-FLOP *** 
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner raises 225 to 375
+Gogo yubari folds
+Brocoline folds
+Schmorbauner collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 1: Schmorbauner (button) won 600
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-15-1483835984 - Holdem no limit (75/150) - 2017/01/08 00:39:44 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (15550)
+Seat 2: Gogo yubari (16795)
+Seat 3: Brocoline (23200)
+Seat 4: ...Thor... (17980)
+Seat 5: Dad-Soon (25500)
+Seat 6: iLoveFederer (20975)
+*** ANTE/BLINDS ***
+Brocoline posts small blind 75
+...Thor... posts big blind 150
+Dealt to ...Thor... [Qh Qs]
+*** PRE-FLOP *** 
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari raises 375 to 525
+Brocoline calls 450
+...Thor... raises 2100 to 2625
+Gogo yubari folds
+Brocoline folds
+...Thor... collected 3675 from pot
+*** SUMMARY ***
+Total pot 3675 | No rake
+Seat 4: ...Thor... (big blind) won 3675
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-16-1483836024 - Holdem no limit (75/150) - 2017/01/08 00:40:24 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (15550)
+Seat 2: Gogo yubari (16270)
+Seat 3: Brocoline (22675)
+Seat 4: ...Thor... (19030)
+Seat 5: Dad-Soon (25500)
+Seat 6: iLoveFederer (20975)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 75
+Dad-Soon posts big blind 150
+Dealt to ...Thor... [3h 8c]
+*** PRE-FLOP *** 
+iLoveFederer folds
+Schmorbauner raises 150 to 300
+Gogo yubari folds
+Brocoline raises 375 to 675
+...Thor... folds
+Dad-Soon folds
+Schmorbauner calls 375
+*** FLOP *** [9s 9h 4d]
+Schmorbauner checks
+Brocoline checks
+*** TURN *** [9s 9h 4d][5h]
+Schmorbauner bets 851
+Brocoline raises 2299 to 3150
+Schmorbauner calls 2299
+*** RIVER *** [9s 9h 4d 5h][2c]
+Schmorbauner bets 11725 and is all-in
+Brocoline folds
+Schmorbauner collected 19600 from pot
+*** SUMMARY ***
+Total pot 19600 | No rake
+Board: [9s 9h 4d 5h 2c]
+Seat 1: Schmorbauner won 19600
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-17-1483836087 - Holdem no limit (75/150) - 2017/01/08 00:41:27 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (19600)
+Seat 2: Gogo yubari (16270)
+Seat 3: Brocoline (18850)
+Seat 4: ...Thor... (18955)
+Seat 5: Dad-Soon (25350)
+Seat 6: iLoveFederer (20975)
+*** ANTE/BLINDS ***
+Dad-Soon posts small blind 75
+iLoveFederer posts big blind 150
+Dealt to ...Thor... [Qs 2c]
+*** PRE-FLOP *** 
+Schmorbauner folds
+Gogo yubari folds
+Brocoline raises 150 to 300
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Brocoline collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Seat 3: Brocoline won 525
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-18-1483836102 - Holdem no limit (75/150) - 2017/01/08 00:41:42 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (19600)
+Seat 2: Gogo yubari (16270)
+Seat 3: Brocoline (19075)
+Seat 4: ...Thor... (18955)
+Seat 5: Dad-Soon (25275)
+Seat 6: iLoveFederer (20825)
+*** ANTE/BLINDS ***
+iLoveFederer posts small blind 75
+Schmorbauner posts big blind 150
+Dealt to ...Thor... [4d 2h]
+*** PRE-FLOP *** 
+Gogo yubari raises 300 to 450
+Brocoline folds
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | No rake
+Seat 2: Gogo yubari won 675
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-19-1483836124 - Holdem no limit (75/150) - 2017/01/08 00:42:04 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (19450)
+Seat 2: Gogo yubari (16495)
+Seat 3: Brocoline (19075)
+Seat 4: ...Thor... (18955)
+Seat 5: Dad-Soon (25275)
+Seat 6: iLoveFederer (20750)
+*** ANTE/BLINDS ***
+Schmorbauner posts small blind 75
+Gogo yubari posts big blind 150
+Dealt to ...Thor... [Js As]
+*** PRE-FLOP *** 
+Brocoline raises 150 to 300
+...Thor... raises 750 to 1050
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari folds
+Brocoline folds
+...Thor... collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | No rake
+Seat 4: ...Thor... won 1575
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-20-1483836141 - Holdem no limit (75/150) - 2017/01/08 00:42:21 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (19375)
+Seat 2: Gogo yubari (16345)
+Seat 3: Brocoline (18775)
+Seat 4: ...Thor... (19480)
+Seat 5: Dad-Soon (25275)
+Seat 6: iLoveFederer (20750)
+*** ANTE/BLINDS ***
+Gogo yubari posts small blind 75
+Brocoline posts big blind 150
+Dealt to ...Thor... [4d 4s]
+*** PRE-FLOP *** 
+...Thor... raises 150 to 300
+Dad-Soon calls 300
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari folds
+Brocoline calls 150
+*** FLOP *** [Jc 7h Ah]
+Brocoline checks
+...Thor... checks
+Dad-Soon checks
+*** TURN *** [Jc 7h Ah][7c]
+Brocoline checks
+...Thor... bets 525
+Dad-Soon calls 525
+Brocoline folds
+*** RIVER *** [Jc 7h Ah 7c][3h]
+...Thor... checks
+Dad-Soon bets 1013
+...Thor... folds
+Dad-Soon collected 3038 from pot
+*** SUMMARY ***
+Total pot 3038 | No rake
+Board: [Jc 7h Ah 7c 3h]
+Seat 5: Dad-Soon won 3038
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-21-1483836188 - Holdem no limit (75/150) - 2017/01/08 00:43:08 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (19375)
+Seat 2: Gogo yubari (16270)
+Seat 3: Brocoline (18475)
+Seat 4: ...Thor... (18655)
+Seat 5: Dad-Soon (26475)
+Seat 6: iLoveFederer (20750)
+*** ANTE/BLINDS ***
+Brocoline posts small blind 75
+...Thor... posts big blind 150
+Dealt to ...Thor... [3h 2h]
+*** PRE-FLOP *** 
+Dad-Soon folds
+iLoveFederer raises 300 to 450
+Schmorbauner folds
+Gogo yubari folds
+Brocoline folds
+...Thor... folds
+iLoveFederer collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | No rake
+Seat 6: iLoveFederer won 675
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-22-1483836201 - Holdem no limit (75/150) - 2017/01/08 00:43:21 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (19375)
+Seat 2: Gogo yubari (16270)
+Seat 3: Brocoline (18400)
+Seat 4: ...Thor... (18505)
+Seat 5: Dad-Soon (26475)
+Seat 6: iLoveFederer (20975)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 75
+Dad-Soon posts big blind 150
+Dealt to ...Thor... [Kd 5s]
+*** PRE-FLOP *** 
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari raises 150 to 300
+Brocoline folds
+...Thor... folds
+Dad-Soon calls 150
+*** FLOP *** [6h 4d 5h]
+Dad-Soon checks
+Gogo yubari checks
+*** TURN *** [6h 4d 5h][As]
+Dad-Soon checks
+Gogo yubari checks
+*** RIVER *** [6h 4d 5h As][2s]
+Dad-Soon bets 750
+Gogo yubari calls 750
+*** SHOW DOWN ***
+Gogo yubari shows [Kh Ks] (One pair : Kings)
+Dad-Soon shows [5c 2c] (Two pairs : 5 and 2)
+Dad-Soon collected 2175 from pot
+*** SUMMARY ***
+Total pot 2175 | No rake
+Board: [6h 4d 5h As 2s]
+Seat 2: Gogo yubari showed [Kh Ks] and lost with One pair : Kings
+Seat 5: Dad-Soon (big blind) showed [5c 2c] and won 2175 with Two pairs : 5 and 2
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-23-1483836231 - Holdem no limit (75/150) - 2017/01/08 00:43:51 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (19375)
+Seat 2: Gogo yubari (15220)
+Seat 3: Brocoline (18400)
+Seat 4: ...Thor... (18430)
+Seat 5: Dad-Soon (27600)
+Seat 6: iLoveFederer (20975)
+*** ANTE/BLINDS ***
+Dad-Soon posts small blind 75
+iLoveFederer posts big blind 150
+Dealt to ...Thor... [Qc 4c]
+*** PRE-FLOP *** 
+Schmorbauner folds
+Gogo yubari folds
+Brocoline raises 150 to 300
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Brocoline collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | No rake
+Seat 3: Brocoline won 525
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-24-1483836248 - Holdem no limit (75/150) - 2017/01/08 00:44:08 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (19375)
+Seat 2: Gogo yubari (15220)
+Seat 3: Brocoline (18625)
+Seat 4: ...Thor... (18430)
+Seat 5: Dad-Soon (27525)
+Seat 6: iLoveFederer (20825)
+*** ANTE/BLINDS ***
+iLoveFederer posts small blind 75
+Schmorbauner posts big blind 150
+Dealt to ...Thor... [Qh 9d]
+*** PRE-FLOP *** 
+Gogo yubari raises 150 to 300
+Brocoline raises 675 to 975
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari calls 675
+*** FLOP *** [3d 8c 6s]
+Gogo yubari checks
+Brocoline bets 1425
+Gogo yubari calls 1425
+*** TURN *** [3d 8c 6s][Qs]
+Gogo yubari checks
+Brocoline bets 3300
+Gogo yubari raises 9520 to 12820 and is all-in
+Brocoline folds
+Gogo yubari collected 21145 from pot
+*** SUMMARY ***
+Total pot 21145 | No rake
+Board: [3d 8c 6s Qs]
+Seat 2: Gogo yubari won 21145
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-25-1483836293 - Holdem no limit (75/150) - 2017/01/08 00:44:53 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (19225)
+Seat 2: Gogo yubari (21145)
+Seat 3: Brocoline (12925)
+Seat 4: ...Thor... (18430)
+Seat 5: Dad-Soon (27525)
+Seat 6: iLoveFederer (20750)
+*** ANTE/BLINDS ***
+Schmorbauner posts small blind 75
+Gogo yubari posts big blind 150
+Dealt to ...Thor... [2c Td]
+*** PRE-FLOP *** 
+Brocoline raises 225 to 375
+...Thor... folds
+Dad-Soon calls 375
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari calls 225
+*** FLOP *** [6d 2s 3c]
+Gogo yubari checks
+Brocoline bets 996
+Dad-Soon calls 996
+Gogo yubari calls 996
+*** TURN *** [6d 2s 3c][Ad]
+Gogo yubari checks
+Brocoline checks
+Dad-Soon checks
+*** RIVER *** [6d 2s 3c Ad][As]
+Gogo yubari checks
+Brocoline checks
+Dad-Soon checks
+*** SHOW DOWN ***
+Gogo yubari shows [8c 4c] (One pair : Aces)
+Dad-Soon shows [5h 7c] (One pair : Aces)
+Brocoline shows [Jc Js] (Two pairs : Aces and Jacks)
+Brocoline collected 4188 from pot
+*** SUMMARY ***
+Total pot 4188 | No rake
+Board: [6d 2s 3c Ad As]
+Seat 2: Gogo yubari (big blind) showed [8c 4c] and lost with One pair : Aces
+Seat 3: Brocoline showed [Jc Js] and won 4188 with Two pairs : Aces and Jacks
+Seat 5: Dad-Soon showed [5h 7c] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 2 - HandId: #776052078731591685-26-1483836336 - Holdem no limit (75/150) - 2017/01/08 00:45:36 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (19150)
+Seat 2: Gogo yubari (19774)
+Seat 3: Brocoline (15742)
+Seat 4: ...Thor... (18430)
+Seat 5: Dad-Soon (26154)
+Seat 6: iLoveFederer (20750)
+*** ANTE/BLINDS ***
+Gogo yubari posts small blind 75
+Brocoline posts big blind 150
+Dealt to ...Thor... [Js Qh]
+*** PRE-FLOP *** 
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner raises 150 to 300
+Gogo yubari raises 750 to 1050
+Brocoline folds
+Schmorbauner calls 750
+*** FLOP *** [Ad 3h Qs]
+Gogo yubari bets 1125
+Schmorbauner folds
+Gogo yubari collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | No rake
+Board: [Ad 3h Qs]
+Seat 2: Gogo yubari (small blind) won 3375
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 3 - HandId: #776052078731591685-27-1483836369 - Holdem no limit (100/200) - 2017/01/08 00:46:09 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (18100)
+Seat 2: Gogo yubari (20974)
+Seat 3: Brocoline (15592)
+Seat 4: ...Thor... (18430)
+Seat 5: Dad-Soon (26154)
+Seat 6: iLoveFederer (20750)
+*** ANTE/BLINDS ***
+Brocoline posts small blind 100
+...Thor... posts big blind 200
+Dealt to ...Thor... [9s Jd]
+*** PRE-FLOP *** 
+Dad-Soon raises 300 to 500
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari calls 500
+Brocoline folds
+...Thor... folds
+*** FLOP *** [8c 6s Ad]
+Dad-Soon bets 800
+Gogo yubari calls 800
+*** TURN *** [8c 6s Ad][5h]
+Dad-Soon bets 2400
+Gogo yubari calls 2400
+*** RIVER *** [8c 6s Ad 5h][Qc]
+Dad-Soon bets 5390
+Gogo yubari folds
+Dad-Soon collected 13090 from pot
+*** SUMMARY ***
+Total pot 13090 | No rake
+Board: [8c 6s Ad 5h Qc]
+Seat 5: Dad-Soon won 13090
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 3 - HandId: #776052078731591685-28-1483836412 - Holdem no limit (100/200) - 2017/01/08 00:46:52 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (18100)
+Seat 2: Gogo yubari (17274)
+Seat 3: Brocoline (15492)
+Seat 4: ...Thor... (18230)
+Seat 5: Dad-Soon (30154)
+Seat 6: iLoveFederer (20750)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 100
+Dad-Soon posts big blind 200
+Dealt to ...Thor... [4d 7c]
+*** PRE-FLOP *** 
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari raises 400 to 600
+Brocoline raises 1000 to 1600
+...Thor... folds
+Dad-Soon folds
+Gogo yubari folds
+Brocoline collected 2500 from pot
+*** SUMMARY ***
+Total pot 2500 | No rake
+Seat 3: Brocoline (button) won 2500
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 3 - HandId: #776052078731591685-29-1483836436 - Holdem no limit (100/200) - 2017/01/08 00:47:16 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (18100)
+Seat 2: Gogo yubari (16674)
+Seat 3: Brocoline (16392)
+Seat 4: ...Thor... (18130)
+Seat 5: Dad-Soon (29954)
+Seat 6: iLoveFederer (20750)
+*** ANTE/BLINDS ***
+Dad-Soon posts small blind 100
+iLoveFederer posts big blind 200
+Dealt to ...Thor... [7h 7c]
+*** PRE-FLOP *** 
+Schmorbauner folds
+Gogo yubari folds
+Brocoline folds
+...Thor... raises 200 to 400
+Dad-Soon folds
+iLoveFederer folds
+...Thor... collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 4: ...Thor... (button) won 700
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 3 - HandId: #776052078731591685-30-1483836467 - Holdem no limit (100/200) - 2017/01/08 00:47:47 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (18100)
+Seat 2: Gogo yubari (16674)
+Seat 3: Brocoline (16392)
+Seat 4: ...Thor... (18430)
+Seat 5: Dad-Soon (29854)
+Seat 6: iLoveFederer (20550)
+*** ANTE/BLINDS ***
+iLoveFederer posts small blind 100
+Schmorbauner posts big blind 200
+Dealt to ...Thor... [Th 8c]
+*** PRE-FLOP *** 
+Gogo yubari folds
+Brocoline raises 200 to 400
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+Brocoline collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | No rake
+Seat 3: Brocoline won 700
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 3 - HandId: #776052078731591685-31-1483836488 - Holdem no limit (100/200) - 2017/01/08 00:48:08 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (17900)
+Seat 2: Gogo yubari (16674)
+Seat 3: Brocoline (16692)
+Seat 4: ...Thor... (18430)
+Seat 5: Dad-Soon (29854)
+Seat 6: iLoveFederer (20450)
+*** ANTE/BLINDS ***
+Schmorbauner posts small blind 100
+Gogo yubari posts big blind 200
+Dealt to ...Thor... [8h Kh]
+*** PRE-FLOP *** 
+Brocoline folds
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+Gogo yubari collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | No rake
+Seat 2: Gogo yubari (big blind) won 300
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 3 - HandId: #776052078731591685-32-1483836502 - Holdem no limit (100/200) - 2017/01/08 00:48:22 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (17800)
+Seat 2: Gogo yubari (16774)
+Seat 3: Brocoline (16692)
+Seat 4: ...Thor... (18430)
+Seat 5: Dad-Soon (29854)
+Seat 6: iLoveFederer (20450)
+*** ANTE/BLINDS ***
+Gogo yubari posts small blind 100
+Brocoline posts big blind 200
+Dealt to ...Thor... [3s 5s]
+*** PRE-FLOP *** 
+...Thor... folds
+Dad-Soon raises 200 to 400
+iLoveFederer folds
+Schmorbauner raises 800 to 1200
+Gogo yubari calls 1100
+Brocoline folds
+Dad-Soon calls 800
+*** FLOP *** [2h Tc 8d]
+Gogo yubari bets 1900
+Dad-Soon folds
+Schmorbauner calls 1900
+*** TURN *** [2h Tc 8d][Ah]
+Gogo yubari bets 3800
+Schmorbauner calls 3800
+*** RIVER *** [2h Tc 8d Ah][2s]
+Gogo yubari bets 7600
+Schmorbauner raises 3300 to 10900 and is all-in
+Gogo yubari folds
+Schmorbauner collected 33700 from pot
+*** SUMMARY ***
+Total pot 33700 | No rake
+Board: [2h Tc 8d Ah 2s]
+Seat 1: Schmorbauner (button) won 33700
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 3 - HandId: #776052078731591685-33-1483836630 - Holdem no limit (100/200) - 2017/01/08 00:50:30 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (33700)
+Seat 2: Gogo yubari (2274)
+Seat 3: Brocoline (16492)
+Seat 4: ...Thor... (18430)
+Seat 5: Dad-Soon (28654)
+Seat 6: iLoveFederer (20450)
+*** ANTE/BLINDS ***
+Brocoline posts small blind 100
+...Thor... posts big blind 200
+Dealt to ...Thor... [8c Tc]
+*** PRE-FLOP *** 
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner raises 300 to 500
+Gogo yubari raises 1774 to 2274 and is all-in
+Brocoline folds
+...Thor... folds
+Schmorbauner calls 1774
+*** FLOP *** [7s 7h Ks]
+*** TURN *** [7s 7h Ks][8d]
+*** RIVER *** [7s 7h Ks 8d][5d]
+*** SHOW DOWN ***
+Gogo yubari shows [Ad Qc] (One pair : 7)
+Schmorbauner shows [As Kh] (Two pairs : Kings and 7)
+Schmorbauner collected 4848 from pot
+*** SUMMARY ***
+Total pot 4848 | No rake
+Board: [7s 7h Ks 8d 5d]
+Seat 1: Schmorbauner showed [As Kh] and won 4848 with Two pairs : Kings and 7
+Seat 2: Gogo yubari (button) showed [Ad Qc] and lost with One pair : 7
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 3 - HandId: #776052078731591685-34-1483836655 - Holdem no limit (100/200) - 2017/01/08 00:50:55 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (36274)
+Seat 3: Brocoline (16392)
+Seat 4: ...Thor... (18230)
+Seat 5: Dad-Soon (28654)
+Seat 6: iLoveFederer (20450)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 100
+Dad-Soon posts big blind 200
+Dealt to ...Thor... [8h 5s]
+*** PRE-FLOP *** 
+iLoveFederer raises 200 to 400
+Schmorbauner folds
+Brocoline calls 400
+...Thor... folds
+Dad-Soon calls 200
+*** FLOP *** [Jd 8d 3d]
+Dad-Soon checks
+iLoveFederer checks
+Brocoline checks
+*** TURN *** [Jd 8d 3d][4d]
+Dad-Soon bets 200
+iLoveFederer folds
+Brocoline calls 200
+*** RIVER *** [Jd 8d 3d 4d][Th]
+Dad-Soon bets 1190
+Brocoline folds
+Dad-Soon collected 2890 from pot
+*** SUMMARY ***
+Total pot 2890 | No rake
+Board: [Jd 8d 3d 4d Th]
+Seat 5: Dad-Soon (big blind) won 2890
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 3 - HandId: #776052078731591685-35-1483836698 - Holdem no limit (100/200) - 2017/01/08 00:51:38 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (36274)
+Seat 2: blaiski1969 (20000)
+Seat 3: Brocoline (15792)
+Seat 4: ...Thor... (18130)
+Seat 5: Dad-Soon (29754)
+Seat 6: iLoveFederer (20050)
+*** ANTE/BLINDS ***
+Dad-Soon posts small blind 100
+iLoveFederer posts big blind 200
+Dealt to ...Thor... [4s Qc]
+*** PRE-FLOP *** 
+Schmorbauner folds
+blaiski1969 folds
+Brocoline raises 300 to 500
+...Thor... folds
+Dad-Soon calls 400
+iLoveFederer folds
+*** FLOP *** [5h 6c Ah]
+Dad-Soon checks
+Brocoline bets 800
+Dad-Soon calls 800
+*** TURN *** [5h 6c Ah][Jc]
+Dad-Soon checks
+Brocoline bets 1800
+Dad-Soon calls 1800
+*** RIVER *** [5h 6c Ah Jc][Qh]
+Dad-Soon checks
+Brocoline checks
+*** SHOW DOWN ***
+Brocoline shows [8s 8c] (One pair : 8)
+Dad-Soon shows [As 7d] (One pair : Aces)
+Dad-Soon collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | No rake
+Board: [5h 6c Ah Jc Qh]
+Seat 3: Brocoline showed [8s 8c] and lost with One pair : 8
+Seat 5: Dad-Soon (small blind) showed [As 7d] and won 6400 with One pair : Aces
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 3 - HandId: #776052078731591685-36-1483836752 - Holdem no limit (100/200) - 2017/01/08 00:52:32 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (36274)
+Seat 2: blaiski1969 (20000)
+Seat 3: Brocoline (12692)
+Seat 4: ...Thor... (18130)
+Seat 5: Dad-Soon (33054)
+Seat 6: iLoveFederer (19850)
+*** ANTE/BLINDS ***
+iLoveFederer posts small blind 100
+Schmorbauner posts big blind 200
+Dealt to ...Thor... [Ah Qc]
+*** PRE-FLOP *** 
+blaiski1969 folds
+Brocoline folds
+...Thor... raises 400 to 600
+Dad-Soon raises 800 to 1400
+iLoveFederer folds
+Schmorbauner folds
+...Thor... calls 800
+*** FLOP *** [Kc Th Ts]
+...Thor... checks
+Dad-Soon checks
+*** TURN *** [Kc Th Ts][7d]
+...Thor... checks
+Dad-Soon checks
+*** RIVER *** [Kc Th Ts 7d][4h]
+...Thor... checks
+Dad-Soon checks
+*** SHOW DOWN ***
+Dad-Soon shows [3d Ad] (One pair : Tens)
+...Thor... shows [Ah Qc] (One pair : Tens)
+...Thor... collected 3100 from pot
+*** SUMMARY ***
+Total pot 3100 | No rake
+Board: [Kc Th Ts 7d 4h]
+Seat 4: ...Thor... showed [Ah Qc] and won 3100 with One pair : Tens
+Seat 5: Dad-Soon (button) showed [3d Ad] and lost with One pair : Tens
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 3 - HandId: #776052078731591685-37-1483836832 - Holdem no limit (100/200) - 2017/01/08 00:53:52 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (36074)
+Seat 2: blaiski1969 (20000)
+Seat 3: Brocoline (12692)
+Seat 4: ...Thor... (19830)
+Seat 5: Dad-Soon (31654)
+Seat 6: iLoveFederer (19750)
+*** ANTE/BLINDS ***
+Schmorbauner posts small blind 100
+blaiski1969 posts big blind 200
+Dealt to ...Thor... [3h 5h]
+*** PRE-FLOP *** 
+Brocoline folds
+...Thor... calls 200
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 checks
+*** FLOP *** [3d 3s Kd]
+blaiski1969 bets 200
+...Thor... raises 200 to 400
+blaiski1969 calls 200
+*** TURN *** [3d 3s Kd][9c]
+blaiski1969 checks
+...Thor... bets 400
+blaiski1969 calls 400
+*** RIVER *** [3d 3s Kd 9c][9d]
+blaiski1969 checks
+...Thor... checks
+*** SHOW DOWN ***
+blaiski1969 shows [Kh 5c] (Two pairs : Kings and 9)
+...Thor... shows [3h 5h] (Full of 3 and 9)
+...Thor... collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Board: [3d 3s Kd 9c 9d]
+Seat 2: blaiski1969 (big blind) showed [Kh 5c] and lost with Two pairs : Kings and 9
+Seat 4: ...Thor... showed [3h 5h] and won 2100 with Full of 3 and 9
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 4 - HandId: #776052078731591685-38-1483836873 - Holdem no limit (150/300) - 2017/01/08 00:54:33 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (35974)
+Seat 2: blaiski1969 (19000)
+Seat 3: Brocoline (12692)
+Seat 4: ...Thor... (20930)
+Seat 5: Dad-Soon (31654)
+Seat 6: iLoveFederer (19750)
+*** ANTE/BLINDS ***
+blaiski1969 posts small blind 150
+Brocoline posts big blind 300
+Dealt to ...Thor... [4c 6d]
+*** PRE-FLOP *** 
+...Thor... folds
+Dad-Soon raises 600 to 900
+iLoveFederer folds
+Schmorbauner calls 900
+blaiski1969 calls 750
+Brocoline folds
+*** FLOP *** [9c 3s 2d]
+blaiski1969 checks
+Dad-Soon bets 1500
+Schmorbauner calls 1500
+blaiski1969 folds
+*** TURN *** [9c 3s 2d][Kc]
+Dad-Soon checks
+Schmorbauner bets 2520
+Dad-Soon folds
+Schmorbauner collected 8520 from pot
+*** SUMMARY ***
+Total pot 8520 | No rake
+Board: [9c 3s 2d Kc]
+Seat 1: Schmorbauner (button) won 8520
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 4 - HandId: #776052078731591685-39-1483837202 - Holdem no limit (150/300) - 2017/01/08 01:00:02 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (39574)
+Seat 2: blaiski1969 (18100)
+Seat 3: Brocoline (12392)
+Seat 4: ...Thor... (20930)
+Seat 5: Dad-Soon (29254)
+Seat 6: iLoveFederer (19750)
+*** ANTE/BLINDS ***
+Brocoline posts small blind 150
+...Thor... posts big blind 300
+Dealt to ...Thor... [Jh 5d]
+*** PRE-FLOP *** 
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 raises 450 to 750
+Brocoline raises 900 to 1650
+...Thor... folds
+blaiski1969 folds
+Brocoline collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | No rake
+Seat 3: Brocoline (small blind) won 2700
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 4 - HandId: #776052078731591685-40-1483837249 - Holdem no limit (150/300) - 2017/01/08 01:00:49 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (39574)
+Seat 2: blaiski1969 (17350)
+Seat 3: Brocoline (13442)
+Seat 4: ...Thor... (20630)
+Seat 5: Dad-Soon (29254)
+Seat 6: iLoveFederer (19750)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 150
+Dad-Soon posts big blind 300
+Dealt to ...Thor... [2c 2h]
+*** PRE-FLOP *** 
+iLoveFederer raises 300 to 600
+Schmorbauner folds
+blaiski1969 folds
+Brocoline folds
+...Thor... calls 450
+Dad-Soon calls 300
+*** FLOP *** [Ad Kc Td]
+...Thor... checks
+Dad-Soon checks
+iLoveFederer bets 720
+...Thor... folds
+Dad-Soon folds
+iLoveFederer collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | No rake
+Board: [Ad Kc Td]
+Seat 6: iLoveFederer won 2520
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 4 - HandId: #776052078731591685-41-1483837286 - Holdem no limit (150/300) - 2017/01/08 01:01:26 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (39574)
+Seat 2: blaiski1969 (17350)
+Seat 3: Brocoline (13442)
+Seat 4: ...Thor... (20030)
+Seat 5: Dad-Soon (28654)
+Seat 6: iLoveFederer (20950)
+*** ANTE/BLINDS ***
+Dad-Soon posts small blind 150
+iLoveFederer posts big blind 300
+Dealt to ...Thor... [6d 6s]
+*** PRE-FLOP *** 
+Schmorbauner folds
+blaiski1969 raises 300 to 600
+Brocoline folds
+...Thor... raises 1500 to 2100
+Dad-Soon folds
+iLoveFederer folds
+blaiski1969 folds
+...Thor... collected 3150 from pot
+*** SUMMARY ***
+Total pot 3150 | No rake
+Seat 4: ...Thor... (button) won 3150
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 4 - HandId: #776052078731591685-42-1483837351 - Holdem no limit (150/300) - 2017/01/08 01:02:31 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (39574)
+Seat 2: blaiski1969 (16750)
+Seat 3: Brocoline (13442)
+Seat 4: ...Thor... (21080)
+Seat 5: Dad-Soon (28504)
+Seat 6: iLoveFederer (20650)
+*** ANTE/BLINDS ***
+iLoveFederer posts small blind 150
+Schmorbauner posts big blind 300
+Dealt to ...Thor... [Qs 4c]
+*** PRE-FLOP *** 
+blaiski1969 calls 300
+Brocoline raises 600 to 900
+...Thor... folds
+Dad-Soon folds
+iLoveFederer calls 750
+Schmorbauner folds
+blaiski1969 calls 600
+*** FLOP *** [Jc 7d 3c]
+iLoveFederer checks
+blaiski1969 checks
+Brocoline bets 2490
+iLoveFederer folds
+blaiski1969 calls 2490
+*** TURN *** [Jc 7d 3c][3h]
+blaiski1969 checks
+Brocoline bets 5107
+blaiski1969 calls 5107
+*** RIVER *** [Jc 7d 3c 3h][6d]
+blaiski1969 checks
+Brocoline bets 4945 and is all-in
+blaiski1969 folds
+Brocoline collected 23139 from pot
+*** SUMMARY ***
+Total pot 23139 | No rake
+Board: [Jc 7d 3c 3h 6d]
+Seat 3: Brocoline won 23139
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 4 - HandId: #776052078731591685-43-1483837416 - Holdem no limit (150/300) - 2017/01/08 01:03:36 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (39274)
+Seat 2: blaiski1969 (8253)
+Seat 3: Brocoline (23139)
+Seat 4: ...Thor... (21080)
+Seat 5: Dad-Soon (28504)
+Seat 6: iLoveFederer (19750)
+*** ANTE/BLINDS ***
+Schmorbauner posts small blind 150
+blaiski1969 posts big blind 300
+Dealt to ...Thor... [Kh Ts]
+*** PRE-FLOP *** 
+Brocoline raises 300 to 600
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 raises 7653 to 8253 and is all-in
+Brocoline folds
+blaiski1969 collected 9003 from pot
+*** SUMMARY ***
+Total pot 9003 | No rake
+Seat 2: blaiski1969 (big blind) won 9003
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 4 - HandId: #776052078731591685-44-1483837451 - Holdem no limit (150/300) - 2017/01/08 01:04:11 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (39124)
+Seat 2: blaiski1969 (9003)
+Seat 3: Brocoline (22539)
+Seat 4: ...Thor... (21080)
+Seat 5: Dad-Soon (28504)
+Seat 6: iLoveFederer (19750)
+*** ANTE/BLINDS ***
+blaiski1969 posts small blind 150
+Brocoline posts big blind 300
+Dealt to ...Thor... [Ad Ks]
+*** PRE-FLOP *** 
+...Thor... raises 600 to 900
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 folds
+Brocoline calls 600
+*** FLOP *** [8d 6d Ah]
+Brocoline checks
+...Thor... bets 1200
+Brocoline raises 2400 to 3600
+...Thor... raises 16580 to 20180 and is all-in
+Brocoline calls 16580
+*** TURN *** [8d 6d Ah][Tc]
+*** RIVER *** [8d 6d Ah Tc][5h]
+*** SHOW DOWN ***
+Brocoline shows [8s Kd] (One pair : 8)
+...Thor... shows [Ad Ks] (One pair : Aces)
+...Thor... collected 42310 from pot
+*** SUMMARY ***
+Total pot 42310 | No rake
+Board: [8d 6d Ah Tc 5h]
+Seat 3: Brocoline (big blind) showed [8s Kd] and lost with One pair : 8
+Seat 4: ...Thor... showed [Ad Ks] and won 42310 with One pair : Aces
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 4 - HandId: #776052078731591685-45-1483837511 - Holdem no limit (150/300) - 2017/01/08 01:05:11 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (39124)
+Seat 2: blaiski1969 (8853)
+Seat 3: Brocoline (1459)
+Seat 4: ...Thor... (42310)
+Seat 5: Dad-Soon (28504)
+Seat 6: iLoveFederer (19750)
+*** ANTE/BLINDS ***
+Brocoline posts small blind 150
+...Thor... posts big blind 300
+Dealt to ...Thor... [Qs 6s]
+*** PRE-FLOP *** 
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 folds
+Brocoline raises 1159 to 1459 and is all-in
+...Thor... folds
+Brocoline collected 1759 from pot
+*** SUMMARY ***
+Total pot 1759 | No rake
+Seat 3: Brocoline (small blind) won 1759
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 4 - HandId: #776052078731591685-46-1483837526 - Holdem no limit (150/300) - 2017/01/08 01:05:26 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (39124)
+Seat 2: blaiski1969 (8853)
+Seat 3: Brocoline (1759)
+Seat 4: ...Thor... (42010)
+Seat 5: Dad-Soon (28504)
+Seat 6: iLoveFederer (19750)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 150
+Dad-Soon posts big blind 300
+Dealt to ...Thor... [5c 2d]
+*** PRE-FLOP *** 
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 folds
+Brocoline raises 1459 to 1759 and is all-in
+...Thor... folds
+Dad-Soon calls 1459
+*** FLOP *** [5h 3h 8c]
+*** TURN *** [5h 3h 8c][8h]
+*** RIVER *** [5h 3h 8c 8h][4d]
+*** SHOW DOWN ***
+Brocoline shows [Ac Js] (One pair : 8)
+Dad-Soon shows [Jc 4s] (Two pairs : 8 and 4)
+Dad-Soon collected 3668 from pot
+*** SUMMARY ***
+Total pot 3668 | No rake
+Board: [5h 3h 8c 8h 4d]
+Seat 3: Brocoline (button) showed [Ac Js] and lost with One pair : 8
+Seat 5: Dad-Soon (big blind) showed [Jc 4s] and won 3668 with Two pairs : 8 and 4
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 4 - HandId: #776052078731591685-47-1483837548 - Holdem no limit (150/300) - 2017/01/08 01:05:48 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (39124)
+Seat 2: blaiski1969 (8853)
+Seat 4: ...Thor... (41860)
+Seat 5: Dad-Soon (30413)
+Seat 6: iLoveFederer (19750)
+*** ANTE/BLINDS ***
+Dad-Soon posts small blind 150
+iLoveFederer posts big blind 300
+Dealt to ...Thor... [5h 7c]
+*** PRE-FLOP *** 
+Schmorbauner folds
+blaiski1969 calls 300
+...Thor... folds
+Dad-Soon folds
+iLoveFederer checks
+*** FLOP *** [Tc 3h Kh]
+iLoveFederer checks
+blaiski1969 bets 450
+iLoveFederer calls 450
+*** TURN *** [Tc 3h Kh][5d]
+iLoveFederer checks
+blaiski1969 bets 750
+iLoveFederer calls 750
+*** RIVER *** [Tc 3h Kh 5d][6c]
+iLoveFederer checks
+blaiski1969 bets 7353 and is all-in
+iLoveFederer calls 7353
+*** SHOW DOWN ***
+iLoveFederer shows [2s Kc] (One pair : Kings)
+blaiski1969 shows [4h 7h] (Straight 7 high)
+blaiski1969 collected 17856 from pot
+*** SUMMARY ***
+Total pot 17856 | No rake
+Board: [Tc 3h Kh 5d 6c]
+Seat 2: blaiski1969 showed [4h 7h] and won 17856 with Straight 7 high
+Seat 6: iLoveFederer (big blind) showed [2s Kc] and lost with One pair : Kings
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 5 - HandId: #776052078731591685-48-1483837637 - Holdem no limit (25/150/300) - 2017/01/08 01:07:17 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (39124)
+Seat 2: blaiski1969 (17856)
+Seat 3: takos54 (20450)
+Seat 4: ...Thor... (41860)
+Seat 5: Dad-Soon (30263)
+Seat 6: iLoveFederer (10897)
+*** ANTE/BLINDS ***
+iLoveFederer posts ante 25
+Schmorbauner posts ante 25
+blaiski1969 posts ante 25
+takos54 posts ante 25
+...Thor... posts ante 25
+Dad-Soon posts ante 25
+iLoveFederer posts small blind 150
+Schmorbauner posts big blind 300
+Dealt to ...Thor... [Jd 9c]
+*** PRE-FLOP *** 
+blaiski1969 calls 300
+takos54 calls 300
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner checks
+*** FLOP *** [Jh 7s 7d]
+Schmorbauner checks
+blaiski1969 checks
+takos54 checks
+*** TURN *** [Jh 7s 7d][Qs]
+Schmorbauner bets 648
+blaiski1969 folds
+takos54 folds
+Schmorbauner collected 1848 from pot
+*** SUMMARY ***
+Total pot 1848 | No rake
+Board: [Jh 7s 7d Qs]
+Seat 1: Schmorbauner (big blind) won 1848
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 5 - HandId: #776052078731591685-49-1483837768 - Holdem no limit (25/150/300) - 2017/01/08 01:09:28 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (39999)
+Seat 2: blaiski1969 (17531)
+Seat 3: takos54 (20125)
+Seat 4: ...Thor... (41835)
+Seat 5: Dad-Soon (30238)
+Seat 6: iLoveFederer (10722)
+*** ANTE/BLINDS ***
+Schmorbauner posts ante 25
+blaiski1969 posts ante 25
+takos54 posts ante 25
+...Thor... posts ante 25
+Dad-Soon posts ante 25
+iLoveFederer posts ante 25
+Schmorbauner posts small blind 150
+blaiski1969 posts big blind 300
+Dealt to ...Thor... [8s 4c]
+*** PRE-FLOP *** 
+takos54 calls 300
+...Thor... folds
+Dad-Soon folds
+iLoveFederer calls 300
+Schmorbauner folds
+blaiski1969 checks
+*** FLOP *** [3h 6d 3d]
+blaiski1969 checks
+takos54 checks
+iLoveFederer bets 480
+blaiski1969 folds
+takos54 calls 480
+*** TURN *** [3h 6d 3d][5d]
+takos54 checks
+iLoveFederer bets 1188
+takos54 folds
+iLoveFederer collected 3348 from pot
+*** SUMMARY ***
+Total pot 3348 | No rake
+Board: [3h 6d 3d 5d]
+Seat 6: iLoveFederer (button) won 3348
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 5 - HandId: #776052078731591685-50-1483837874 - Holdem no limit (25/150/300) - 2017/01/08 01:11:14 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (39824)
+Seat 2: blaiski1969 (17206)
+Seat 3: takos54 (19320)
+Seat 4: ...Thor... (41810)
+Seat 5: Dad-Soon (30213)
+Seat 6: iLoveFederer (12077)
+*** ANTE/BLINDS ***
+blaiski1969 posts ante 25
+takos54 posts ante 25
+Schmorbauner posts ante 25
+...Thor... posts ante 25
+Dad-Soon posts ante 25
+iLoveFederer posts ante 25
+blaiski1969 posts small blind 150
+takos54 posts big blind 300
+Dealt to ...Thor... [8h 3s]
+*** PRE-FLOP *** 
+...Thor... folds
+Dad-Soon raises 450 to 750
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 folds
+takos54 calls 450
+*** FLOP *** [7d Ah Td]
+takos54 checks
+Dad-Soon bets 1200
+takos54 calls 1200
+*** TURN *** [7d Ah Td][9d]
+takos54 checks
+Dad-Soon bets 2550
+takos54 folds
+Dad-Soon collected 6750 from pot
+*** SUMMARY ***
+Total pot 6750 | No rake
+Board: [7d Ah Td 9d]
+Seat 5: Dad-Soon won 6750
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 5 - HandId: #776052078731591685-51-1483837910 - Holdem no limit (25/150/300) - 2017/01/08 01:11:50 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (39799)
+Seat 2: blaiski1969 (17031)
+Seat 3: takos54 (17345)
+Seat 4: ...Thor... (41785)
+Seat 5: Dad-Soon (32438)
+Seat 6: iLoveFederer (12052)
+*** ANTE/BLINDS ***
+takos54 posts ante 25
+...Thor... posts ante 25
+Schmorbauner posts ante 25
+blaiski1969 posts ante 25
+Dad-Soon posts ante 25
+iLoveFederer posts ante 25
+takos54 posts small blind 150
+...Thor... posts big blind 300
+Dealt to ...Thor... [7d 6c]
+*** PRE-FLOP *** 
+Dad-Soon raises 500 to 800
+iLoveFederer calls 800
+Schmorbauner calls 800
+blaiski1969 folds
+takos54 calls 650
+...Thor... calls 500
+*** FLOP *** [Jc Ks Js]
+takos54 checks
+...Thor... checks
+Dad-Soon bets 2905
+iLoveFederer raises 8322 to 11227 and is all-in
+Schmorbauner folds
+takos54 folds
+...Thor... folds
+Dad-Soon calls 8322
+*** TURN *** [Jc Ks Js][Kd]
+*** RIVER *** [Jc Ks Js Kd][3d]
+*** SHOW DOWN ***
+Dad-Soon shows [6s 7s] (Two pairs : Kings and Jacks)
+iLoveFederer shows [Jd Qd] (Full of Jacks and Kings)
+iLoveFederer collected 26604 from pot
+*** SUMMARY ***
+Total pot 26604 | No rake
+Board: [Jc Ks Js Kd 3d]
+Seat 5: Dad-Soon showed [6s 7s] and lost with Two pairs : Kings and Jacks
+Seat 6: iLoveFederer showed [Jd Qd] and won 26604 with Full of Jacks and Kings
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 5 - HandId: #776052078731591685-52-1483837980 - Holdem no limit (25/150/300) - 2017/01/08 01:13:00 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (38974)
+Seat 2: blaiski1969 (17006)
+Seat 3: takos54 (16520)
+Seat 4: ...Thor... (40960)
+Seat 5: Dad-Soon (20386)
+Seat 6: iLoveFederer (26604)
+*** ANTE/BLINDS ***
+...Thor... posts ante 25
+Dad-Soon posts ante 25
+Schmorbauner posts ante 25
+blaiski1969 posts ante 25
+takos54 posts ante 25
+iLoveFederer posts ante 25
+...Thor... posts small blind 150
+Dad-Soon posts big blind 300
+Dealt to ...Thor... [Qd Tc]
+*** PRE-FLOP *** 
+iLoveFederer folds
+Schmorbauner raises 300 to 600
+blaiski1969 calls 600
+takos54 calls 600
+...Thor... folds
+Dad-Soon folds
+*** FLOP *** [2s Ac 7d]
+Schmorbauner checks
+blaiski1969 checks
+takos54 checks
+*** TURN *** [2s Ac 7d][Jd]
+Schmorbauner bets 1008
+blaiski1969 calls 1008
+takos54 folds
+*** RIVER *** [2s Ac 7d Jd][4s]
+Schmorbauner checks
+blaiski1969 checks
+*** SHOW DOWN ***
+blaiski1969 shows [8d Jc] (One pair : Jacks)
+Schmorbauner shows [Kh Jh] (One pair : Jacks)
+Schmorbauner collected 4416 from pot
+*** SUMMARY ***
+Total pot 4416 | No rake
+Board: [2s Ac 7d Jd 4s]
+Seat 1: Schmorbauner showed [Kh Jh] and won 4416 with One pair : Jacks
+Seat 2: blaiski1969 showed [8d Jc] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 5 - HandId: #776052078731591685-53-1483838032 - Holdem no limit (25/150/300) - 2017/01/08 01:13:52 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (41757)
+Seat 2: blaiski1969 (15373)
+Seat 3: takos54 (15895)
+Seat 4: ...Thor... (40785)
+Seat 5: Dad-Soon (20061)
+Seat 6: iLoveFederer (26579)
+*** ANTE/BLINDS ***
+Dad-Soon posts ante 25
+iLoveFederer posts ante 25
+Schmorbauner posts ante 25
+blaiski1969 posts ante 25
+takos54 posts ante 25
+...Thor... posts ante 25
+Dad-Soon posts small blind 150
+iLoveFederer posts big blind 300
+Dealt to ...Thor... [4c Kc]
+*** PRE-FLOP *** 
+Schmorbauner folds
+blaiski1969 folds
+takos54 folds
+...Thor... folds
+Dad-Soon folds
+iLoveFederer collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | No rake
+Seat 6: iLoveFederer (big blind) won 600
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 5 - HandId: #776052078731591685-54-1483838053 - Holdem no limit (25/150/300) - 2017/01/08 01:14:13 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (41732)
+Seat 2: blaiski1969 (15348)
+Seat 3: takos54 (15870)
+Seat 4: ...Thor... (40760)
+Seat 5: Dad-Soon (19886)
+Seat 6: iLoveFederer (26854)
+*** ANTE/BLINDS ***
+iLoveFederer posts ante 25
+Schmorbauner posts ante 25
+blaiski1969 posts ante 25
+takos54 posts ante 25
+...Thor... posts ante 25
+Dad-Soon posts ante 25
+iLoveFederer posts small blind 150
+Schmorbauner posts big blind 300
+Dealt to ...Thor... [2d Js]
+*** PRE-FLOP *** 
+blaiski1969 folds
+takos54 raises 750 to 1050
+...Thor... folds
+Dad-Soon calls 1050
+iLoveFederer calls 900
+Schmorbauner folds
+*** FLOP *** [5d 7c As]
+iLoveFederer checks
+takos54 checks
+Dad-Soon bets 1800
+iLoveFederer folds
+takos54 folds
+Dad-Soon collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | No rake
+Board: [5d 7c As]
+Seat 5: Dad-Soon (button) won 5400
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 6 - HandId: #776052078731591685-55-1483838102 - Holdem no limit (30/200/400) - 2017/01/08 01:15:02 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (41407)
+Seat 2: blaiski1969 (15323)
+Seat 3: takos54 (14795)
+Seat 4: ...Thor... (40735)
+Seat 5: Dad-Soon (22411)
+Seat 6: iLoveFederer (25779)
+*** ANTE/BLINDS ***
+Schmorbauner posts ante 30
+blaiski1969 posts ante 30
+takos54 posts ante 30
+...Thor... posts ante 30
+Dad-Soon posts ante 30
+iLoveFederer posts ante 30
+Schmorbauner posts small blind 200
+blaiski1969 posts big blind 400
+Dealt to ...Thor... [Ah 4s]
+*** PRE-FLOP *** 
+takos54 folds
+...Thor... raises 800 to 1200
+Dad-Soon calls 1200
+iLoveFederer calls 1200
+Schmorbauner folds
+blaiski1969 calls 800
+*** FLOP *** [Kh Ts 8h]
+blaiski1969 checks
+...Thor... checks
+Dad-Soon bets 2590
+iLoveFederer calls 2590
+blaiski1969 calls 2590
+...Thor... folds
+*** TURN *** [Kh Ts 8h][2d]
+blaiski1969 checks
+Dad-Soon checks
+iLoveFederer bets 4400
+blaiski1969 folds
+Dad-Soon folds
+iLoveFederer collected 17350 from pot
+*** SUMMARY ***
+Total pot 17350 | No rake
+Board: [Kh Ts 8h 2d]
+Seat 6: iLoveFederer (button) won 17350
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 6 - HandId: #776052078731591685-56-1483838193 - Holdem no limit (30/200/400) - 2017/01/08 01:16:33 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (41177)
+Seat 2: blaiski1969 (11503)
+Seat 3: takos54 (14765)
+Seat 4: ...Thor... (39505)
+Seat 5: Dad-Soon (18591)
+Seat 6: iLoveFederer (34909)
+*** ANTE/BLINDS ***
+blaiski1969 posts ante 30
+takos54 posts ante 30
+Schmorbauner posts ante 30
+...Thor... posts ante 30
+Dad-Soon posts ante 30
+iLoveFederer posts ante 30
+blaiski1969 posts small blind 200
+takos54 posts big blind 400
+Dealt to ...Thor... [Jc 6c]
+*** PRE-FLOP *** 
+...Thor... folds
+Dad-Soon raises 450 to 850
+iLoveFederer folds
+Schmorbauner calls 850
+blaiski1969 folds
+takos54 raises 13885 to 14735 and is all-in
+Dad-Soon folds
+Schmorbauner folds
+takos54 collected 16815 from pot
+*** SUMMARY ***
+Total pot 16815 | No rake
+Seat 3: takos54 (big blind) won 16815
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 6 - HandId: #776052078731591685-57-1483838225 - Holdem no limit (30/200/400) - 2017/01/08 01:17:05 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (40297)
+Seat 2: blaiski1969 (11273)
+Seat 3: takos54 (16815)
+Seat 4: ...Thor... (39475)
+Seat 5: Dad-Soon (17711)
+Seat 6: iLoveFederer (34879)
+*** ANTE/BLINDS ***
+takos54 posts ante 30
+...Thor... posts ante 30
+Schmorbauner posts ante 30
+blaiski1969 posts ante 30
+Dad-Soon posts ante 30
+iLoveFederer posts ante 30
+takos54 posts small blind 200
+...Thor... posts big blind 400
+Dealt to ...Thor... [8h 3s]
+*** PRE-FLOP *** 
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 folds
+takos54 folds
+...Thor... collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 4: ...Thor... (big blind) won 780
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 6 - HandId: #776052078731591685-58-1483838233 - Holdem no limit (30/200/400) - 2017/01/08 01:17:13 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (40267)
+Seat 2: blaiski1969 (11243)
+Seat 3: takos54 (16585)
+Seat 4: ...Thor... (39825)
+Seat 5: Dad-Soon (17681)
+Seat 6: iLoveFederer (34849)
+*** ANTE/BLINDS ***
+...Thor... posts ante 30
+Dad-Soon posts ante 30
+Schmorbauner posts ante 30
+blaiski1969 posts ante 30
+takos54 posts ante 30
+iLoveFederer posts ante 30
+...Thor... posts small blind 200
+Dad-Soon posts big blind 400
+Dealt to ...Thor... [6c 3s]
+*** PRE-FLOP *** 
+iLoveFederer folds
+Schmorbauner raises 400 to 800
+blaiski1969 calls 800
+takos54 folds
+...Thor... folds
+Dad-Soon raises 2488 to 3288
+Schmorbauner folds
+blaiski1969 folds
+Dad-Soon collected 5268 from pot
+*** SUMMARY ***
+Total pot 5268 | No rake
+Seat 5: Dad-Soon (big blind) won 5268
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 6 - HandId: #776052078731591685-59-1483838261 - Holdem no limit (30/200/400) - 2017/01/08 01:17:41 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (39437)
+Seat 2: blaiski1969 (10413)
+Seat 3: takos54 (16555)
+Seat 4: ...Thor... (39595)
+Seat 5: Dad-Soon (19631)
+Seat 6: iLoveFederer (34819)
+*** ANTE/BLINDS ***
+Dad-Soon posts ante 30
+iLoveFederer posts ante 30
+Schmorbauner posts ante 30
+blaiski1969 posts ante 30
+takos54 posts ante 30
+...Thor... posts ante 30
+Dad-Soon posts small blind 200
+iLoveFederer posts big blind 400
+Dealt to ...Thor... [8h 9s]
+*** PRE-FLOP *** 
+Schmorbauner folds
+blaiski1969 calls 400
+takos54 raises 1000 to 1400
+...Thor... folds
+Dad-Soon folds
+iLoveFederer calls 1000
+blaiski1969 calls 1000
+*** FLOP *** [6h Ts 3d]
+iLoveFederer checks
+blaiski1969 checks
+takos54 checks
+*** TURN *** [6h Ts 3d][Ad]
+iLoveFederer checks
+blaiski1969 checks
+takos54 checks
+*** RIVER *** [6h Ts 3d Ad][8c]
+iLoveFederer checks
+blaiski1969 checks
+takos54 checks
+*** SHOW DOWN ***
+blaiski1969 shows [7c 4c] (High card : Ace)
+takos54 shows [Jh 5h] (High card : Ace)
+iLoveFederer shows [Kh Qh] (High card : Ace)
+iLoveFederer collected 4580 from pot
+*** SUMMARY ***
+Total pot 4580 | No rake
+Board: [6h Ts 3d Ad 8c]
+Seat 2: blaiski1969 showed [7c 4c] and lost with High card : Ace
+Seat 3: takos54 showed [Jh 5h] and lost with High card : Ace
+Seat 6: iLoveFederer (big blind) showed [Kh Qh] and won 4580 with High card : Ace
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 6 - HandId: #776052078731591685-60-1483838313 - Holdem no limit (30/200/400) - 2017/01/08 01:18:33 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (39407)
+Seat 2: blaiski1969 (8983)
+Seat 3: takos54 (15125)
+Seat 4: ...Thor... (39565)
+Seat 5: Dad-Soon (19401)
+Seat 6: iLoveFederer (37969)
+*** ANTE/BLINDS ***
+iLoveFederer posts ante 30
+Schmorbauner posts ante 30
+blaiski1969 posts ante 30
+takos54 posts ante 30
+...Thor... posts ante 30
+Dad-Soon posts ante 30
+iLoveFederer posts small blind 200
+Schmorbauner posts big blind 400
+Dealt to ...Thor... [4d 3h]
+*** PRE-FLOP *** 
+blaiski1969 calls 400
+takos54 folds
+...Thor... folds
+Dad-Soon raises 1200 to 1600
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 raises 7353 to 8953 and is all-in
+Dad-Soon calls 7353
+*** FLOP *** [2h Td Jh]
+*** TURN *** [2h Td Jh][4h]
+*** RIVER *** [2h Td Jh 4h][6d]
+*** SHOW DOWN ***
+Dad-Soon shows [9s 8s] (High card : Jack)
+blaiski1969 shows [5d 5s] (One pair : 5)
+blaiski1969 collected 18686 from pot
+*** SUMMARY ***
+Total pot 18686 | No rake
+Board: [2h Td Jh 4h 6d]
+Seat 2: blaiski1969 showed [5d 5s] and won 18686 with One pair : 5
+Seat 5: Dad-Soon (button) showed [9s 8s] and lost with High card : Jack
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 6 - HandId: #776052078731591685-61-1483838345 - Holdem no limit (30/200/400) - 2017/01/08 01:19:05 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (38977)
+Seat 2: blaiski1969 (18686)
+Seat 3: takos54 (15095)
+Seat 4: ...Thor... (39535)
+Seat 5: Dad-Soon (10418)
+Seat 6: iLoveFederer (37739)
+*** ANTE/BLINDS ***
+Schmorbauner posts ante 30
+blaiski1969 posts ante 30
+takos54 posts ante 30
+...Thor... posts ante 30
+Dad-Soon posts ante 30
+iLoveFederer posts ante 30
+Schmorbauner posts small blind 200
+blaiski1969 posts big blind 400
+Dealt to ...Thor... [8c 2h]
+*** PRE-FLOP *** 
+takos54 folds
+...Thor... folds
+Dad-Soon raises 800 to 1200
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 folds
+Dad-Soon collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | No rake
+Seat 5: Dad-Soon won 1980
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 6 - HandId: #776052078731591685-62-1483838374 - Holdem no limit (30/200/400) - 2017/01/08 01:19:34 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (38747)
+Seat 2: blaiski1969 (18256)
+Seat 3: takos54 (15065)
+Seat 4: ...Thor... (39505)
+Seat 5: Dad-Soon (11168)
+Seat 6: iLoveFederer (37709)
+*** ANTE/BLINDS ***
+blaiski1969 posts ante 30
+takos54 posts ante 30
+Schmorbauner posts ante 30
+...Thor... posts ante 30
+Dad-Soon posts ante 30
+iLoveFederer posts ante 30
+blaiski1969 posts small blind 200
+takos54 posts big blind 400
+Dealt to ...Thor... [Qd 8h]
+*** PRE-FLOP *** 
+...Thor... folds
+Dad-Soon folds
+iLoveFederer raises 400 to 800
+Schmorbauner folds
+blaiski1969 calls 600
+takos54 raises 400 to 1200
+iLoveFederer calls 400
+blaiski1969 calls 400
+*** FLOP *** [Kc 5s Qc]
+blaiski1969 checks
+takos54 bets 2520
+iLoveFederer folds
+blaiski1969 calls 2520
+*** TURN *** [Kc 5s Qc][2d]
+blaiski1969 bets 14506 and is all-in
+takos54 folds
+blaiski1969 collected 23326 from pot
+*** SUMMARY ***
+Total pot 23326 | No rake
+Board: [Kc 5s Qc 2d]
+Seat 2: blaiski1969 (small blind) won 23326
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 6 - HandId: #776052078731591685-63-1483838411 - Holdem no limit (30/200/400) - 2017/01/08 01:20:11 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (38717)
+Seat 2: blaiski1969 (23326)
+Seat 3: takos54 (11315)
+Seat 4: ...Thor... (39475)
+Seat 5: Dad-Soon (11138)
+Seat 6: iLoveFederer (36479)
+*** ANTE/BLINDS ***
+takos54 posts ante 30
+...Thor... posts ante 30
+Schmorbauner posts ante 30
+blaiski1969 posts ante 30
+Dad-Soon posts ante 30
+iLoveFederer posts ante 30
+takos54 posts small blind 200
+...Thor... posts big blind 400
+Dealt to ...Thor... [7d Qh]
+*** PRE-FLOP *** 
+Dad-Soon folds
+iLoveFederer raises 400 to 800
+Schmorbauner raises 1600 to 2400
+blaiski1969 folds
+takos54 raises 8885 to 11285 and is all-in
+...Thor... folds
+iLoveFederer folds
+Schmorbauner calls 8885
+*** FLOP *** [Js 6d 5d]
+*** TURN *** [Js 6d 5d][2h]
+*** RIVER *** [Js 6d 5d 2h][Ad]
+*** SHOW DOWN ***
+takos54 shows [8h Ah] (One pair : Aces)
+Schmorbauner shows [Jc As] (Two pairs : Aces and Jacks)
+Schmorbauner collected 23950 from pot
+*** SUMMARY ***
+Total pot 23950 | No rake
+Board: [Js 6d 5d 2h Ad]
+Seat 1: Schmorbauner showed [Jc As] and won 23950 with Two pairs : Aces and Jacks
+Seat 3: takos54 (small blind) showed [8h Ah] and lost with One pair : Aces
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 6 - HandId: #776052078731591685-64-1483838446 - Holdem no limit (30/200/400) - 2017/01/08 01:20:46 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (51352)
+Seat 2: blaiski1969 (23296)
+Seat 4: ...Thor... (39045)
+Seat 5: Dad-Soon (11108)
+Seat 6: iLoveFederer (35649)
+*** ANTE/BLINDS ***
+...Thor... posts ante 30
+Dad-Soon posts ante 30
+Schmorbauner posts ante 30
+blaiski1969 posts ante 30
+iLoveFederer posts ante 30
+...Thor... posts small blind 200
+Dad-Soon posts big blind 400
+Dealt to ...Thor... [Qh Tc]
+*** PRE-FLOP *** 
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 calls 400
+...Thor... raises 800 to 1200
+Dad-Soon calls 800
+blaiski1969 calls 800
+*** FLOP *** [Ks 3s 3h]
+...Thor... bets 1875
+Dad-Soon folds
+blaiski1969 folds
+...Thor... collected 5625 from pot
+*** SUMMARY ***
+Total pot 5625 | No rake
+Board: [Ks 3s 3h]
+Seat 4: ...Thor... (small blind) won 5625
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 6 - HandId: #776052078731591685-65-1483838482 - Holdem no limit (30/200/400) - 2017/01/08 01:21:22 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (51322)
+Seat 2: blaiski1969 (22066)
+Seat 3: mise deal (20000)
+Seat 4: ...Thor... (41565)
+Seat 5: Dad-Soon (9878)
+Seat 6: iLoveFederer (35619)
+*** ANTE/BLINDS ***
+Dad-Soon posts ante 30
+iLoveFederer posts ante 30
+Schmorbauner posts ante 30
+blaiski1969 posts ante 30
+mise deal posts ante 30
+...Thor... posts ante 30
+Dad-Soon posts small blind 200
+iLoveFederer posts big blind 400
+Dealt to ...Thor... [Js 5s]
+*** PRE-FLOP *** 
+Schmorbauner folds
+blaiski1969 folds
+mise deal folds
+...Thor... folds
+Dad-Soon folds
+iLoveFederer collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | No rake
+Seat 6: iLoveFederer (big blind) won 780
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 6 - HandId: #776052078731591685-66-1483838518 - Holdem no limit (30/200/400) - 2017/01/08 01:21:58 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (51292)
+Seat 2: blaiski1969 (22036)
+Seat 3: mise deal (19970)
+Seat 4: ...Thor... (41535)
+Seat 5: Dad-Soon (9648)
+Seat 6: iLoveFederer (35969)
+*** ANTE/BLINDS ***
+iLoveFederer posts ante 30
+Schmorbauner posts ante 30
+blaiski1969 posts ante 30
+mise deal posts ante 30
+...Thor... posts ante 30
+Dad-Soon posts ante 30
+iLoveFederer posts small blind 200
+Schmorbauner posts big blind 400
+Dealt to ...Thor... [Kc 4d]
+*** PRE-FLOP *** 
+blaiski1969 folds
+mise deal calls 400
+...Thor... folds
+Dad-Soon raises 1400 to 1800
+iLoveFederer folds
+Schmorbauner folds
+mise deal calls 1400
+*** FLOP *** [8h Ad 2c]
+mise deal checks
+Dad-Soon bets 3400
+mise deal calls 3400
+*** TURN *** [8h Ad 2c][Ts]
+mise deal checks
+Dad-Soon bets 4418 and is all-in
+mise deal folds
+Dad-Soon collected 15598 from pot
+*** SUMMARY ***
+Total pot 15598 | No rake
+Board: [8h Ad 2c Ts]
+Seat 5: Dad-Soon (button) won 15598
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 7 - HandId: #776052078731591685-67-1483838614 - Holdem no limit (40/250/500) - 2017/01/08 01:23:34 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (50862)
+Seat 2: blaiski1969 (22006)
+Seat 3: mise deal (14740)
+Seat 4: ...Thor... (41505)
+Seat 5: Dad-Soon (15598)
+Seat 6: iLoveFederer (35739)
+*** ANTE/BLINDS ***
+Schmorbauner posts ante 40
+blaiski1969 posts ante 40
+mise deal posts ante 40
+...Thor... posts ante 40
+Dad-Soon posts ante 40
+iLoveFederer posts ante 40
+Schmorbauner posts small blind 250
+blaiski1969 posts big blind 500
+Dealt to ...Thor... [Ks 2c]
+*** PRE-FLOP *** 
+mise deal folds
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Seat 2: blaiski1969 (big blind) won 990
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 7 - HandId: #776052078731591685-68-1483838700 - Holdem no limit (40/250/500) - 2017/01/08 01:25:00 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (50572)
+Seat 2: blaiski1969 (22456)
+Seat 3: mise deal (14700)
+Seat 4: ...Thor... (41465)
+Seat 5: Dad-Soon (15558)
+Seat 6: iLoveFederer (35699)
+*** ANTE/BLINDS ***
+blaiski1969 posts ante 40
+mise deal posts ante 40
+Schmorbauner posts ante 40
+...Thor... posts ante 40
+Dad-Soon posts ante 40
+iLoveFederer posts ante 40
+blaiski1969 posts small blind 250
+mise deal posts big blind 500
+Dealt to ...Thor... [5s Jd]
+*** PRE-FLOP *** 
+...Thor... folds
+Dad-Soon folds
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 folds
+mise deal collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | No rake
+Seat 3: mise deal (big blind) won 990
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 7 - HandId: #776052078731591685-69-1483838719 - Holdem no limit (40/250/500) - 2017/01/08 01:25:19 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (50532)
+Seat 2: blaiski1969 (22166)
+Seat 3: mise deal (15150)
+Seat 4: ...Thor... (41425)
+Seat 5: Dad-Soon (15518)
+Seat 6: iLoveFederer (35659)
+*** ANTE/BLINDS ***
+mise deal posts ante 40
+...Thor... posts ante 40
+Schmorbauner posts ante 40
+blaiski1969 posts ante 40
+Dad-Soon posts ante 40
+iLoveFederer posts ante 40
+mise deal posts small blind 250
+...Thor... posts big blind 500
+Dealt to ...Thor... [Jd 4c]
+*** PRE-FLOP *** 
+Dad-Soon folds
+iLoveFederer raises 665 to 1165
+Schmorbauner folds
+blaiski1969 folds
+mise deal folds
+...Thor... folds
+iLoveFederer collected 2155 from pot
+*** SUMMARY ***
+Total pot 2155 | No rake
+Seat 6: iLoveFederer won 2155
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 7 - HandId: #776052078731591685-70-1483838759 - Holdem no limit (40/250/500) - 2017/01/08 01:25:59 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (50492)
+Seat 2: blaiski1969 (22126)
+Seat 3: mise deal (14860)
+Seat 4: ...Thor... (40885)
+Seat 5: Dad-Soon (15478)
+Seat 6: iLoveFederer (36609)
+*** ANTE/BLINDS ***
+...Thor... posts ante 40
+Dad-Soon posts ante 40
+Schmorbauner posts ante 40
+blaiski1969 posts ante 40
+mise deal posts ante 40
+iLoveFederer posts ante 40
+...Thor... posts small blind 250
+Dad-Soon posts big blind 500
+Dealt to ...Thor... [Ks 8d]
+*** PRE-FLOP *** 
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 raises 750 to 1250
+mise deal calls 1250
+...Thor... folds
+Dad-Soon calls 750
+*** FLOP *** [Jd 9s Qs]
+Dad-Soon checks
+blaiski1969 bets 1750
+mise deal calls 1750
+Dad-Soon raises 12438 to 14188 and is all-in
+blaiski1969 calls 12438
+mise deal folds
+*** TURN *** [Jd 9s Qs][2s]
+*** RIVER *** [Jd 9s Qs 2s][8c]
+*** SHOW DOWN ***
+Dad-Soon shows [Kd Js] (One pair : Jacks)
+blaiski1969 shows [Ts Td] (Straight Queen high)
+blaiski1969 collected 34366 from pot
+*** SUMMARY ***
+Total pot 34366 | No rake
+Board: [Jd 9s Qs 2s 8c]
+Seat 2: blaiski1969 showed [Ts Td] and won 34366 with Straight Queen high
+Seat 5: Dad-Soon (big blind) showed [Kd Js] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 7 - HandId: #776052078731591685-71-1483838836 - Holdem no limit (40/250/500) - 2017/01/08 01:27:16 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (50452)
+Seat 2: blaiski1969 (41014)
+Seat 3: mise deal (11820)
+Seat 4: ...Thor... (40595)
+Seat 6: iLoveFederer (36569)
+*** ANTE/BLINDS ***
+iLoveFederer posts ante 40
+Schmorbauner posts ante 40
+blaiski1969 posts ante 40
+mise deal posts ante 40
+...Thor... posts ante 40
+iLoveFederer posts big blind 500
+Dealt to ...Thor... [7h 4c]
+*** PRE-FLOP *** 
+Schmorbauner raises 730 to 1230
+blaiski1969 folds
+mise deal folds
+...Thor... folds
+iLoveFederer folds
+Schmorbauner collected 1930 from pot
+*** SUMMARY ***
+Total pot 1930 | No rake
+Seat 1: Schmorbauner won 1930
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 7 - HandId: #776052078731591685-72-1483838855 - Holdem no limit (40/250/500) - 2017/01/08 01:27:35 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (51112)
+Seat 2: blaiski1969 (40974)
+Seat 3: mise deal (11780)
+Seat 4: ...Thor... (40555)
+Seat 5: Lemassacre (20000)
+Seat 6: iLoveFederer (36029)
+*** ANTE/BLINDS ***
+iLoveFederer posts ante 40
+Schmorbauner posts ante 40
+blaiski1969 posts ante 40
+mise deal posts ante 40
+...Thor... posts ante 40
+iLoveFederer posts small blind 250
+Schmorbauner posts big blind 500
+Dealt to ...Thor... [Kc 5h]
+*** PRE-FLOP *** 
+blaiski1969 calls 500
+mise deal calls 500
+...Thor... folds
+iLoveFederer calls 250
+Schmorbauner checks
+*** FLOP *** [8s Tc 4c]
+iLoveFederer checks
+Schmorbauner checks
+blaiski1969 checks
+mise deal bets 500
+iLoveFederer calls 500
+Schmorbauner calls 500
+blaiski1969 calls 500
+*** TURN *** [8s Tc 4c][6d]
+iLoveFederer checks
+Schmorbauner checks
+blaiski1969 checks
+mise deal bets 4200
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 calls 4200
+*** RIVER *** [8s Tc 4c 6d][8h]
+blaiski1969 checks
+mise deal checks
+*** SHOW DOWN ***
+blaiski1969 shows [9c Jc] (One pair : 8)
+mise deal shows [9h Ts] (Two pairs : Tens and 8)
+mise deal collected 12600 from pot
+*** SUMMARY ***
+Total pot 12600 | No rake
+Board: [8s Tc 4c 6d 8h]
+Seat 2: blaiski1969 showed [9c Jc] and lost with One pair : 8
+Seat 3: mise deal showed [9h Ts] and won 12600 with Two pairs : Tens and 8
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 7 - HandId: #776052078731591685-73-1483838962 - Holdem no limit (40/250/500) - 2017/01/08 01:29:22 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (50072)
+Seat 2: blaiski1969 (35734)
+Seat 3: mise deal (19140)
+Seat 4: ...Thor... (40515)
+Seat 5: Lemassacre (20000)
+Seat 6: iLoveFederer (34989)
+*** ANTE/BLINDS ***
+Schmorbauner posts ante 40
+blaiski1969 posts ante 40
+mise deal posts ante 40
+...Thor... posts ante 40
+Lemassacre posts ante 40
+iLoveFederer posts ante 40
+Schmorbauner posts small blind 250
+blaiski1969 posts big blind 500
+Dealt to ...Thor... [4c Qc]
+*** PRE-FLOP *** 
+mise deal folds
+...Thor... folds
+Lemassacre raises 500 to 1000
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 folds
+Lemassacre collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | No rake
+Seat 5: Lemassacre won 1990
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 7 - HandId: #776052078731591685-74-1483838983 - Holdem no limit (40/250/500) - 2017/01/08 01:29:43 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (49782)
+Seat 2: blaiski1969 (35194)
+Seat 3: mise deal (19100)
+Seat 4: ...Thor... (40475)
+Seat 5: Lemassacre (20950)
+Seat 6: iLoveFederer (34949)
+*** ANTE/BLINDS ***
+blaiski1969 posts ante 40
+mise deal posts ante 40
+Schmorbauner posts ante 40
+...Thor... posts ante 40
+Lemassacre posts ante 40
+iLoveFederer posts ante 40
+blaiski1969 posts small blind 250
+mise deal posts big blind 500
+Dealt to ...Thor... [5h 6s]
+*** PRE-FLOP *** 
+...Thor... folds
+Lemassacre folds
+iLoveFederer folds
+Schmorbauner raises 730 to 1230
+blaiski1969 calls 980
+mise deal calls 730
+*** FLOP *** [Qd 8h Qh]
+blaiski1969 checks
+mise deal bets 17830 and is all-in
+Schmorbauner folds
+blaiski1969 folds
+mise deal collected 21760 from pot
+*** SUMMARY ***
+Total pot 21760 | No rake
+Board: [Qd 8h Qh]
+Seat 3: mise deal (big blind) won 21760
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 7 - HandId: #776052078731591685-75-1483839016 - Holdem no limit (40/250/500) - 2017/01/08 01:30:16 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (48512)
+Seat 2: blaiski1969 (33924)
+Seat 3: mise deal (21760)
+Seat 4: ...Thor... (40435)
+Seat 5: Lemassacre (20910)
+Seat 6: iLoveFederer (34909)
+*** ANTE/BLINDS ***
+mise deal posts ante 40
+...Thor... posts ante 40
+Schmorbauner posts ante 40
+blaiski1969 posts ante 40
+Lemassacre posts ante 40
+iLoveFederer posts ante 40
+mise deal posts small blind 250
+...Thor... posts big blind 500
+Dealt to ...Thor... [7s 8c]
+*** PRE-FLOP *** 
+Lemassacre folds
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 folds
+mise deal raises 500 to 1000
+...Thor... raises 500 to 1500
+mise deal raises 3240 to 4740
+...Thor... folds
+mise deal collected 6480 from pot
+*** SUMMARY ***
+Total pot 6480 | No rake
+Seat 3: mise deal (small blind) won 6480
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 7 - HandId: #776052078731591685-76-1483839042 - Holdem no limit (40/250/500) - 2017/01/08 01:30:42 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (48472)
+Seat 2: blaiski1969 (33884)
+Seat 3: mise deal (23460)
+Seat 4: ...Thor... (38895)
+Seat 5: Lemassacre (20870)
+Seat 6: iLoveFederer (34869)
+*** ANTE/BLINDS ***
+...Thor... posts ante 40
+Lemassacre posts ante 40
+Schmorbauner posts ante 40
+blaiski1969 posts ante 40
+mise deal posts ante 40
+iLoveFederer posts ante 40
+...Thor... posts small blind 250
+Lemassacre posts big blind 500
+Dealt to ...Thor... [7s 8h]
+*** PRE-FLOP *** 
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 folds
+mise deal raises 500 to 1000
+...Thor... calls 750
+Lemassacre calls 500
+*** FLOP *** [6d Ad 4s]
+...Thor... bets 1000
+Lemassacre calls 1000
+mise deal folds
+*** TURN *** [6d Ad 4s][3d]
+...Thor... checks
+Lemassacre bets 5240
+...Thor... folds
+Lemassacre collected 10480 from pot
+*** SUMMARY ***
+Total pot 10480 | No rake
+Board: [6d Ad 4s 3d]
+Seat 5: Lemassacre (big blind) won 10480
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 8 - HandId: #776052078731591685-77-1483839106 - Holdem no limit (60/300/600) - 2017/01/08 01:31:46 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (48432)
+Seat 2: blaiski1969 (33844)
+Seat 3: mise deal (22420)
+Seat 4: ...Thor... (36855)
+Seat 5: Lemassacre (24070)
+Seat 6: iLoveFederer (34829)
+*** ANTE/BLINDS ***
+Lemassacre posts ante 60
+iLoveFederer posts ante 60
+Schmorbauner posts ante 60
+blaiski1969 posts ante 60
+mise deal posts ante 60
+...Thor... posts ante 60
+Lemassacre posts small blind 300
+iLoveFederer posts big blind 600
+Dealt to ...Thor... [Js 7d]
+*** PRE-FLOP *** 
+Schmorbauner raises 600 to 1200
+blaiski1969 folds
+mise deal raises 600 to 1800
+...Thor... folds
+Lemassacre folds
+iLoveFederer folds
+Schmorbauner calls 600
+*** FLOP *** [8s Ad Qh]
+Schmorbauner checks
+mise deal checks
+*** TURN *** [8s Ad Qh][9d]
+Schmorbauner bets 2624
+mise deal calls 2624
+*** RIVER *** [8s Ad Qh 9d][2c]
+Schmorbauner checks
+mise deal bets 10108
+Schmorbauner folds
+mise deal collected 20216 from pot
+*** SUMMARY ***
+Total pot 20216 | No rake
+Board: [8s Ad Qh 9d 2c]
+Seat 3: mise deal won 20216
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 8 - HandId: #776052078731591685-78-1483839209 - Holdem no limit (60/300/600) - 2017/01/08 01:33:29 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (43948)
+Seat 2: blaiski1969 (33784)
+Seat 3: mise deal (28044)
+Seat 4: ...Thor... (36795)
+Seat 5: Lemassacre (23710)
+Seat 6: iLoveFederer (34169)
+*** ANTE/BLINDS ***
+iLoveFederer posts ante 60
+Schmorbauner posts ante 60
+blaiski1969 posts ante 60
+mise deal posts ante 60
+...Thor... posts ante 60
+Lemassacre posts ante 60
+iLoveFederer posts small blind 300
+Schmorbauner posts big blind 600
+Dealt to ...Thor... [Td 6h]
+*** PRE-FLOP *** 
+blaiski1969 calls 600
+mise deal calls 600
+...Thor... folds
+Lemassacre folds
+iLoveFederer folds
+Schmorbauner checks
+*** FLOP *** [Js 6c Qc]
+Schmorbauner checks
+blaiski1969 bets 1200
+mise deal calls 1200
+Schmorbauner folds
+*** TURN *** [Js 6c Qc][5s]
+blaiski1969 bets 1500
+mise deal raises 24684 to 26184 and is all-in
+blaiski1969 folds
+mise deal collected 32544 from pot
+*** SUMMARY ***
+Total pot 32544 | No rake
+Board: [Js 6c Qc 5s]
+Seat 3: mise deal won 32544
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 8 - HandId: #776052078731591685-79-1483839288 - Holdem no limit (60/300/600) - 2017/01/08 01:34:48 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (43288)
+Seat 2: blaiski1969 (30424)
+Seat 3: mise deal (32544)
+Seat 4: ...Thor... (36735)
+Seat 5: Lemassacre (23650)
+Seat 6: iLoveFederer (33809)
+*** ANTE/BLINDS ***
+Schmorbauner posts ante 60
+blaiski1969 posts ante 60
+mise deal posts ante 60
+...Thor... posts ante 60
+Lemassacre posts ante 60
+iLoveFederer posts ante 60
+Schmorbauner posts small blind 300
+blaiski1969 posts big blind 600
+Dealt to ...Thor... [Qc Qd]
+*** PRE-FLOP *** 
+mise deal folds
+...Thor... raises 1200 to 1800
+Lemassacre folds
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 folds
+...Thor... collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | No rake
+Seat 4: ...Thor... won 3060
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 8 - HandId: #776052078731591685-80-1483839317 - Holdem no limit (60/300/600) - 2017/01/08 01:35:17 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (42928)
+Seat 2: blaiski1969 (29764)
+Seat 3: mise deal (32484)
+Seat 4: ...Thor... (37935)
+Seat 5: Lemassacre (23590)
+Seat 6: iLoveFederer (33749)
+*** ANTE/BLINDS ***
+blaiski1969 posts ante 60
+mise deal posts ante 60
+Schmorbauner posts ante 60
+...Thor... posts ante 60
+Lemassacre posts ante 60
+iLoveFederer posts ante 60
+blaiski1969 posts small blind 300
+mise deal posts big blind 600
+Dealt to ...Thor... [2s 3s]
+*** PRE-FLOP *** 
+...Thor... folds
+Lemassacre folds
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 calls 300
+mise deal checks
+*** FLOP *** [Kd 6c Tc]
+blaiski1969 checks
+mise deal checks
+*** TURN *** [Kd 6c Tc][Ah]
+blaiski1969 bets 900
+mise deal folds
+blaiski1969 collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Board: [Kd 6c Tc Ah]
+Seat 2: blaiski1969 (small blind) won 2460
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 8 - HandId: #776052078731591685-81-1483839366 - Holdem no limit (60/300/600) - 2017/01/08 01:36:06 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (42868)
+Seat 2: blaiski1969 (30664)
+Seat 3: mise deal (31824)
+Seat 4: ...Thor... (37875)
+Seat 5: Lemassacre (23530)
+Seat 6: iLoveFederer (33689)
+*** ANTE/BLINDS ***
+mise deal posts ante 60
+...Thor... posts ante 60
+Schmorbauner posts ante 60
+blaiski1969 posts ante 60
+Lemassacre posts ante 60
+iLoveFederer posts ante 60
+mise deal posts small blind 300
+...Thor... posts big blind 600
+Dealt to ...Thor... [Th 9d]
+*** PRE-FLOP *** 
+Lemassacre calls 600
+iLoveFederer folds
+Schmorbauner folds
+blaiski1969 folds
+mise deal folds
+...Thor... checks
+*** FLOP *** [5c 6c 3s]
+...Thor... checks
+Lemassacre checks
+*** TURN *** [5c 6c 3s][9c]
+...Thor... bets 900
+Lemassacre calls 900
+*** RIVER *** [5c 6c 3s 9c][7h]
+...Thor... bets 900
+Lemassacre calls 900
+*** SHOW DOWN ***
+...Thor... shows [Th 9d] (One pair : 9)
+Lemassacre shows [Jh 9h] (One pair : 9)
+Lemassacre collected 5460 from pot
+*** SUMMARY ***
+Total pot 5460 | No rake
+Board: [5c 6c 3s 9c 7h]
+Seat 4: ...Thor... (big blind) showed [Th 9d] and lost with One pair : 9
+Seat 5: Lemassacre showed [Jh 9h] and won 5460 with One pair : 9
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 8 - HandId: #776052078731591685-82-1483839403 - Holdem no limit (60/300/600) - 2017/01/08 01:36:43 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (42808)
+Seat 2: blaiski1969 (30604)
+Seat 3: mise deal (31464)
+Seat 4: ...Thor... (35415)
+Seat 5: Lemassacre (26530)
+Seat 6: iLoveFederer (33629)
+*** ANTE/BLINDS ***
+...Thor... posts ante 60
+Lemassacre posts ante 60
+Schmorbauner posts ante 60
+blaiski1969 posts ante 60
+mise deal posts ante 60
+iLoveFederer posts ante 60
+...Thor... posts small blind 300
+Lemassacre posts big blind 600
+Dealt to ...Thor... [Ts 2h]
+*** PRE-FLOP *** 
+iLoveFederer raises 600 to 1200
+Schmorbauner folds
+blaiski1969 folds
+mise deal folds
+...Thor... folds
+Lemassacre folds
+iLoveFederer collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | No rake
+Seat 6: iLoveFederer won 2460
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 8 - HandId: #776052078731591685-83-1483839421 - Holdem no limit (60/300/600) - 2017/01/08 01:37:01 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (42748)
+Seat 2: blaiski1969 (30544)
+Seat 3: mise deal (31404)
+Seat 4: ...Thor... (35055)
+Seat 5: Lemassacre (25870)
+Seat 6: iLoveFederer (34829)
+*** ANTE/BLINDS ***
+Lemassacre posts ante 60
+iLoveFederer posts ante 60
+Schmorbauner posts ante 60
+blaiski1969 posts ante 60
+mise deal posts ante 60
+...Thor... posts ante 60
+Lemassacre posts small blind 300
+iLoveFederer posts big blind 600
+Dealt to ...Thor... [2h 8h]
+*** PRE-FLOP *** 
+Schmorbauner folds
+blaiski1969 raises 600 to 1200
+mise deal calls 1200
+...Thor... folds
+Lemassacre folds
+iLoveFederer raises 3000 to 4200
+blaiski1969 calls 3000
+mise deal calls 3000
+*** FLOP *** [7h 5c 5h]
+iLoveFederer bets 7293
+blaiski1969 calls 7293
+mise deal folds
+*** TURN *** [7h 5c 5h][9s]
+iLoveFederer bets 23276 and is all-in
+blaiski1969 calls 18991 and is all-in
+*** RIVER *** [7h 5c 5h 9s][4s]
+*** SHOW DOWN ***
+blaiski1969 shows [6h 6d] (Two pairs : 6 and 5)
+iLoveFederer shows [Qh Ah] (One pair : 5)
+iLoveFederer collected 4285 from side pot 1
+blaiski1969 collected 65828 from main pot
+*** SUMMARY ***
+Total pot 70113 | No rake
+Board: [7h 5c 5h 9s 4s]
+Seat 2: blaiski1969 showed [6h 6d] and won 65828 with Two pairs : 6 and 5
+Seat 6: iLoveFederer (big blind) showed [Qh Ah] and won 4285 with One pair : 5
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 8 - HandId: #776052078731591685-84-1483839490 - Holdem no limit (60/300/600) - 2017/01/08 01:38:10 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (42688)
+Seat 2: blaiski1969 (65828)
+Seat 3: mise deal (27144)
+Seat 4: ...Thor... (34995)
+Seat 5: Lemassacre (25510)
+Seat 6: iLoveFederer (4285)
+*** ANTE/BLINDS ***
+iLoveFederer posts ante 60
+Schmorbauner posts ante 60
+blaiski1969 posts ante 60
+mise deal posts ante 60
+...Thor... posts ante 60
+Lemassacre posts ante 60
+iLoveFederer posts small blind 300
+Schmorbauner posts big blind 600
+Dealt to ...Thor... [2c 7s]
+*** PRE-FLOP *** 
+blaiski1969 folds
+mise deal folds
+...Thor... raises 1200 to 1800
+Lemassacre calls 1800
+iLoveFederer folds
+Schmorbauner folds
+*** FLOP *** [8h 7c Ac]
+...Thor... bets 2430
+Lemassacre folds
+...Thor... collected 7290 from pot
+*** SUMMARY ***
+Total pot 7290 | No rake
+Board: [8h 7c Ac]
+Seat 4: ...Thor... won 7290
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 8 - HandId: #776052078731591685-85-1483839533 - Holdem no limit (60/300/600) - 2017/01/08 01:38:53 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (42028)
+Seat 2: blaiski1969 (65768)
+Seat 3: mise deal (27084)
+Seat 4: ...Thor... (37995)
+Seat 5: Lemassacre (23650)
+Seat 6: iLoveFederer (3925)
+*** ANTE/BLINDS ***
+Schmorbauner posts ante 60
+blaiski1969 posts ante 60
+mise deal posts ante 60
+...Thor... posts ante 60
+Lemassacre posts ante 60
+iLoveFederer posts ante 60
+Schmorbauner posts small blind 300
+blaiski1969 posts big blind 600
+Dealt to ...Thor... [3c 8s]
+*** PRE-FLOP *** 
+mise deal calls 600
+...Thor... folds
+Lemassacre folds
+iLoveFederer folds
+Schmorbauner calls 300
+blaiski1969 checks
+*** FLOP *** [5c Ad 2d]
+Schmorbauner checks
+blaiski1969 checks
+mise deal bets 600
+Schmorbauner folds
+blaiski1969 folds
+mise deal collected 2760 from pot
+*** SUMMARY ***
+Total pot 2760 | No rake
+Board: [5c Ad 2d]
+Seat 3: mise deal won 2760
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 9 - HandId: #776052078731591685-86-1483839592 - Holdem no limit (75/400/800) - 2017/01/08 01:39:52 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (41368)
+Seat 2: blaiski1969 (65108)
+Seat 3: mise deal (28584)
+Seat 4: ...Thor... (37935)
+Seat 5: Lemassacre (23590)
+Seat 6: iLoveFederer (3865)
+*** ANTE/BLINDS ***
+blaiski1969 posts ante 75
+mise deal posts ante 75
+Schmorbauner posts ante 75
+...Thor... posts ante 75
+Lemassacre posts ante 75
+iLoveFederer posts ante 75
+blaiski1969 posts small blind 400
+mise deal posts big blind 800
+Dealt to ...Thor... [9s 8d]
+*** PRE-FLOP *** 
+...Thor... raises 1600 to 2400
+Lemassacre folds
+iLoveFederer folds
+Schmorbauner calls 2400
+blaiski1969 folds
+mise deal calls 1600
+*** FLOP *** [Ac 4h Jd]
+mise deal checks
+...Thor... checks
+Schmorbauner bets 4347
+mise deal folds
+...Thor... folds
+Schmorbauner collected 12397 from pot
+*** SUMMARY ***
+Total pot 12397 | No rake
+Board: [Ac 4h Jd]
+Seat 1: Schmorbauner (button) won 12397
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 9 - HandId: #776052078731591685-87-1483839644 - Holdem no limit (75/400/800) - 2017/01/08 01:40:44 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (46943)
+Seat 2: blaiski1969 (64633)
+Seat 3: mise deal (26109)
+Seat 4: ...Thor... (35460)
+Seat 5: Lemassacre (23515)
+Seat 6: iLoveFederer (3790)
+*** ANTE/BLINDS ***
+mise deal posts ante 75
+...Thor... posts ante 75
+Schmorbauner posts ante 75
+blaiski1969 posts ante 75
+Lemassacre posts ante 75
+iLoveFederer posts ante 75
+mise deal posts small blind 400
+...Thor... posts big blind 800
+Dealt to ...Thor... [3c 7d]
+*** PRE-FLOP *** 
+Lemassacre folds
+iLoveFederer raises 2915 to 3715 and is all-in
+Schmorbauner folds
+blaiski1969 folds
+mise deal folds
+...Thor... folds
+iLoveFederer collected 5365 from pot
+*** SUMMARY ***
+Total pot 5365 | No rake
+Seat 6: iLoveFederer won 5365
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 9 - HandId: #776052078731591685-88-1483839680 - Holdem no limit (75/400/800) - 2017/01/08 01:41:20 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (46868)
+Seat 2: blaiski1969 (64558)
+Seat 3: mise deal (25634)
+Seat 4: ...Thor... (34585)
+Seat 5: Lemassacre (23440)
+Seat 6: iLoveFederer (5365)
+*** ANTE/BLINDS ***
+...Thor... posts ante 75
+Lemassacre posts ante 75
+Schmorbauner posts ante 75
+blaiski1969 posts ante 75
+mise deal posts ante 75
+iLoveFederer posts ante 75
+...Thor... posts small blind 400
+Lemassacre posts big blind 800
+Dealt to ...Thor... [Ah 4h]
+*** PRE-FLOP *** 
+iLoveFederer raises 4490 to 5290 and is all-in
+Schmorbauner folds
+blaiski1969 folds
+mise deal folds
+...Thor... calls 4890
+Lemassacre folds
+*** FLOP *** [As 8c Qh]
+*** TURN *** [As 8c Qh][4c]
+*** RIVER *** [As 8c Qh 4c][7h]
+*** SHOW DOWN ***
+iLoveFederer shows [7s 8s] (Two pairs : 8 and 7)
+...Thor... shows [Ah 4h] (Two pairs : Aces and 4)
+...Thor... collected 11830 from pot
+*** SUMMARY ***
+Total pot 11830 | No rake
+Board: [As 8c Qh 4c 7h]
+Seat 4: ...Thor... (small blind) showed [Ah 4h] and won 11830 with Two pairs : Aces and 4
+Seat 6: iLoveFederer showed [7s 8s] and lost with Two pairs : 8 and 7
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 9 - HandId: #776052078731591685-89-1483839726 - Holdem no limit (75/400/800) - 2017/01/08 01:42:06 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (46793)
+Seat 2: blaiski1969 (64483)
+Seat 3: mise deal (25559)
+Seat 4: ...Thor... (41050)
+Seat 5: Lemassacre (22565)
+Seat 6: catabana (20000)
+*** ANTE/BLINDS ***
+Lemassacre posts ante 75
+catabana posts ante 75
+Schmorbauner posts ante 75
+blaiski1969 posts ante 75
+mise deal posts ante 75
+...Thor... posts ante 75
+Lemassacre posts small blind 400
+catabana posts big blind 800
+Dealt to ...Thor... [Th 5c]
+*** PRE-FLOP *** 
+Schmorbauner folds
+blaiski1969 calls 800
+mise deal calls 800
+...Thor... folds
+Lemassacre calls 400
+catabana checks
+*** FLOP *** [7s 5s Ah]
+Lemassacre bets 2738
+catabana folds
+blaiski1969 folds
+mise deal folds
+Lemassacre collected 6388 from pot
+*** SUMMARY ***
+Total pot 6388 | No rake
+Board: [7s 5s Ah]
+Seat 5: Lemassacre (small blind) won 6388
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 9 - HandId: #776052078731591685-90-1483839768 - Holdem no limit (75/400/800) - 2017/01/08 01:42:48 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (46718)
+Seat 2: blaiski1969 (63608)
+Seat 3: mise deal (24684)
+Seat 4: ...Thor... (40975)
+Seat 5: Lemassacre (25340)
+Seat 6: catabana (19125)
+*** ANTE/BLINDS ***
+catabana posts ante 75
+Schmorbauner posts ante 75
+blaiski1969 posts ante 75
+mise deal posts ante 75
+...Thor... posts ante 75
+Lemassacre posts ante 75
+catabana posts small blind 400
+Schmorbauner posts big blind 800
+Dealt to ...Thor... [3d Ts]
+*** PRE-FLOP *** 
+blaiski1969 folds
+mise deal folds
+...Thor... folds
+Lemassacre raises 800 to 1600
+catabana folds
+Schmorbauner folds
+Lemassacre collected 3250 from pot
+*** SUMMARY ***
+Total pot 3250 | No rake
+Seat 5: Lemassacre (button) won 3250
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 9 - HandId: #776052078731591685-91-1483839800 - Holdem no limit (75/400/800) - 2017/01/08 01:43:20 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (45843)
+Seat 2: blaiski1969 (63533)
+Seat 3: mise deal (24609)
+Seat 4: ...Thor... (40900)
+Seat 5: Lemassacre (26915)
+Seat 6: catabana (18650)
+*** ANTE/BLINDS ***
+Schmorbauner posts ante 75
+blaiski1969 posts ante 75
+mise deal posts ante 75
+...Thor... posts ante 75
+Lemassacre posts ante 75
+catabana posts ante 75
+Schmorbauner posts small blind 400
+blaiski1969 posts big blind 800
+Dealt to ...Thor... [2c Th]
+*** PRE-FLOP *** 
+mise deal calls 800
+...Thor... folds
+Lemassacre folds
+catabana raises 1600 to 2400
+Schmorbauner folds
+blaiski1969 folds
+mise deal calls 1600
+*** FLOP *** [8c 2d Qh]
+mise deal bets 800
+catabana raises 5100 to 5900
+mise deal raises 16234 to 22134 and is all-in
+catabana folds
+mise deal collected 34484 from pot
+*** SUMMARY ***
+Total pot 34484 | No rake
+Board: [8c 2d Qh]
+Seat 3: mise deal won 34484
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 9 - HandId: #776052078731591685-92-1483839892 - Holdem no limit (75/400/800) - 2017/01/08 01:44:52 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (45368)
+Seat 2: blaiski1969 (62658)
+Seat 3: mise deal (34484)
+Seat 4: ...Thor... (40825)
+Seat 5: Lemassacre (26840)
+Seat 6: catabana (10275)
+*** ANTE/BLINDS ***
+blaiski1969 posts ante 75
+mise deal posts ante 75
+Schmorbauner posts ante 75
+...Thor... posts ante 75
+Lemassacre posts ante 75
+catabana posts ante 75
+blaiski1969 posts small blind 400
+mise deal posts big blind 800
+Dealt to ...Thor... [8h 3s]
+*** PRE-FLOP *** 
+...Thor... folds
+Lemassacre folds
+catabana raises 1200 to 2000
+Schmorbauner folds
+blaiski1969 calls 1600
+mise deal folds
+*** FLOP *** [Qc Th Ah]
+blaiski1969 bets 60583 and is all-in
+catabana folds
+blaiski1969 collected 65833 from pot
+*** SUMMARY ***
+Total pot 65833 | No rake
+Board: [Qc Th Ah]
+Seat 2: blaiski1969 (small blind) won 65833
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 9 - HandId: #776052078731591685-93-1483839915 - Holdem no limit (75/400/800) - 2017/01/08 01:45:15 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (45293)
+Seat 2: blaiski1969 (65833)
+Seat 3: mise deal (33609)
+Seat 4: ...Thor... (40750)
+Seat 5: Lemassacre (26765)
+Seat 6: catabana (8200)
+*** ANTE/BLINDS ***
+mise deal posts ante 75
+...Thor... posts ante 75
+Schmorbauner posts ante 75
+blaiski1969 posts ante 75
+Lemassacre posts ante 75
+catabana posts ante 75
+mise deal posts small blind 400
+...Thor... posts big blind 800
+Dealt to ...Thor... [8s 6s]
+*** PRE-FLOP *** 
+Lemassacre folds
+catabana folds
+Schmorbauner folds
+blaiski1969 folds
+mise deal calls 400
+...Thor... checks
+*** FLOP *** [2c 7s Kc]
+mise deal checks
+...Thor... checks
+*** TURN *** [2c 7s Kc][6h]
+mise deal checks
+...Thor... checks
+*** RIVER *** [2c 7s Kc 6h][2h]
+mise deal checks
+...Thor... bets 800
+mise deal folds
+...Thor... collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | No rake
+Board: [2c 7s Kc 6h 2h]
+Seat 4: ...Thor... (big blind) won 2850
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 9 - HandId: #776052078731591685-94-1483839979 - Holdem no limit (75/400/800) - 2017/01/08 01:46:19 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (45218)
+Seat 2: blaiski1969 (65758)
+Seat 3: mise deal (32734)
+Seat 4: ...Thor... (41925)
+Seat 5: Lemassacre (26690)
+Seat 6: catabana (8125)
+*** ANTE/BLINDS ***
+...Thor... posts ante 75
+Lemassacre posts ante 75
+Schmorbauner posts ante 75
+blaiski1969 posts ante 75
+mise deal posts ante 75
+catabana posts ante 75
+...Thor... posts small blind 400
+Lemassacre posts big blind 800
+Dealt to ...Thor... [8c 9h]
+*** PRE-FLOP *** 
+catabana folds
+Schmorbauner raises 1168 to 1968
+blaiski1969 folds
+mise deal raises 1168 to 3136
+...Thor... folds
+Lemassacre folds
+Schmorbauner calls 1168
+*** FLOP *** [5h 6h 6d]
+Schmorbauner checks
+mise deal checks
+*** TURN *** [5h 6h 6d][As]
+Schmorbauner checks
+mise deal checks
+*** RIVER *** [5h 6h 6d As][3s]
+Schmorbauner checks
+mise deal bets 7922
+Schmorbauner calls 7922
+*** SHOW DOWN ***
+mise deal shows [7c 7s] (Two pairs : 7 and 6)
+Schmorbauner shows [Ts Th] (Two pairs : Tens and 6)
+Schmorbauner collected 23766 from pot
+*** SUMMARY ***
+Total pot 23766 | No rake
+Board: [5h 6h 6d As 3s]
+Seat 1: Schmorbauner showed [Ts Th] and won 23766 with Two pairs : Tens and 6
+Seat 3: mise deal (button) showed [7c 7s] and lost with Two pairs : 7 and 6
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 10 - HandId: #776052078731591685-95-1483840028 - Holdem no limit (100/500/1000) - 2017/01/08 01:47:08 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (57851)
+Seat 2: blaiski1969 (65683)
+Seat 3: mise deal (21601)
+Seat 4: ...Thor... (41450)
+Seat 5: Lemassacre (25815)
+Seat 6: catabana (8050)
+*** ANTE/BLINDS ***
+Lemassacre posts ante 100
+catabana posts ante 100
+Schmorbauner posts ante 100
+blaiski1969 posts ante 100
+mise deal posts ante 100
+...Thor... posts ante 100
+Lemassacre posts small blind 500
+catabana posts big blind 1000
+Dealt to ...Thor... [Kd 3s]
+*** PRE-FLOP *** 
+Schmorbauner folds
+blaiski1969 calls 1000
+mise deal folds
+...Thor... folds
+Lemassacre folds
+catabana checks
+*** FLOP *** [Qs Jh 2d]
+catabana checks
+blaiski1969 bets 1500
+catabana folds
+blaiski1969 collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | No rake
+Board: [Qs Jh 2d]
+Seat 2: blaiski1969 won 4600
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 10 - HandId: #776052078731591685-96-1483840063 - Holdem no limit (100/500/1000) - 2017/01/08 01:47:43 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (57751)
+Seat 2: blaiski1969 (67683)
+Seat 3: mise deal (21501)
+Seat 4: ...Thor... (41350)
+Seat 5: Lemassacre (25215)
+Seat 6: catabana (6950)
+*** ANTE/BLINDS ***
+catabana posts ante 100
+Schmorbauner posts ante 100
+blaiski1969 posts ante 100
+mise deal posts ante 100
+...Thor... posts ante 100
+Lemassacre posts ante 100
+catabana posts small blind 500
+Schmorbauner posts big blind 1000
+Dealt to ...Thor... [3c 5d]
+*** PRE-FLOP *** 
+blaiski1969 calls 1000
+mise deal folds
+...Thor... folds
+Lemassacre folds
+catabana raises 5850 to 6850 and is all-in
+Schmorbauner calls 5850
+blaiski1969 folds
+*** FLOP *** [8d 5h Td]
+*** TURN *** [8d 5h Td][Js]
+*** RIVER *** [8d 5h Td Js][Qh]
+*** SHOW DOWN ***
+catabana shows [Ah 2s] (High card : Ace)
+Schmorbauner shows [Ks Kc] (One pair : Kings)
+Schmorbauner collected 15300 from pot
+*** SUMMARY ***
+Total pot 15300 | No rake
+Board: [8d 5h Td Js Qh]
+Seat 1: Schmorbauner (big blind) showed [Ks Kc] and won 15300 with One pair : Kings
+Seat 6: catabana (small blind) showed [Ah 2s] and lost with High card : Ace
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 10 - HandId: #776052078731591685-97-1483840111 - Holdem no limit (100/500/1000) - 2017/01/08 01:48:31 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (66101)
+Seat 2: blaiski1969 (66583)
+Seat 3: mise deal (21401)
+Seat 4: ...Thor... (41250)
+Seat 5: Lemassacre (25115)
+*** ANTE/BLINDS ***
+Schmorbauner posts ante 100
+blaiski1969 posts ante 100
+mise deal posts ante 100
+...Thor... posts ante 100
+Lemassacre posts ante 100
+Schmorbauner posts small blind 500
+blaiski1969 posts big blind 1000
+Dealt to ...Thor... [7d Kc]
+*** PRE-FLOP *** 
+mise deal calls 1000
+...Thor... raises 3000 to 4000
+Lemassacre folds
+Schmorbauner folds
+blaiski1969 folds
+mise deal calls 3000
+*** FLOP *** [As 7h Ts]
+mise deal bets 10000
+...Thor... folds
+mise deal collected 20000 from pot
+*** SUMMARY ***
+Total pot 20000 | No rake
+Board: [As 7h Ts]
+Seat 3: mise deal won 20000
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 10 - HandId: #776052078731591685-98-1483840180 - Holdem no limit (100/500/1000) - 2017/01/08 01:49:40 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (65501)
+Seat 2: blaiski1969 (65483)
+Seat 3: mise deal (27301)
+Seat 4: ...Thor... (37150)
+Seat 5: Lemassacre (25015)
+Seat 6: Barksdale934 (20000)
+*** ANTE/BLINDS ***
+blaiski1969 posts ante 100
+mise deal posts ante 100
+Schmorbauner posts ante 100
+...Thor... posts ante 100
+Lemassacre posts ante 100
+Barksdale934 posts ante 100
+blaiski1969 posts small blind 500
+mise deal posts big blind 1000
+Dealt to ...Thor... [Qc 2s]
+*** PRE-FLOP *** 
+...Thor... folds
+Lemassacre folds
+Barksdale934 folds
+Schmorbauner raises 1460 to 2460
+blaiski1969 folds
+mise deal folds
+Schmorbauner collected 4560 from pot
+*** SUMMARY ***
+Total pot 4560 | No rake
+Seat 1: Schmorbauner (button) won 4560
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 10 - HandId: #776052078731591685-99-1483840223 - Holdem no limit (100/500/1000) - 2017/01/08 01:50:23 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (67501)
+Seat 2: blaiski1969 (64883)
+Seat 3: mise deal (26201)
+Seat 4: ...Thor... (37050)
+Seat 5: Lemassacre (24915)
+Seat 6: Barksdale934 (19900)
+*** ANTE/BLINDS ***
+mise deal posts ante 100
+...Thor... posts ante 100
+Schmorbauner posts ante 100
+blaiski1969 posts ante 100
+Lemassacre posts ante 100
+Barksdale934 posts ante 100
+mise deal posts small blind 500
+...Thor... posts big blind 1000
+Dealt to ...Thor... [4d 5d]
+*** PRE-FLOP *** 
+Lemassacre raises 1000 to 2000
+Barksdale934 folds
+Schmorbauner folds
+blaiski1969 folds
+mise deal calls 1500
+...Thor... calls 1000
+*** FLOP *** [Td 8h 7c]
+mise deal checks
+...Thor... checks
+Lemassacre checks
+*** TURN *** [Td 8h 7c][Ah]
+mise deal checks
+...Thor... checks
+Lemassacre bets 6600
+mise deal folds
+...Thor... folds
+Lemassacre collected 13200 from pot
+*** SUMMARY ***
+Total pot 13200 | No rake
+Board: [Td 8h 7c Ah]
+Seat 5: Lemassacre won 13200
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 10 - HandId: #776052078731591685-100-1483840287 - Holdem no limit (100/500/1000) - 2017/01/08 01:51:27 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (67401)
+Seat 2: blaiski1969 (64783)
+Seat 3: mise deal (24101)
+Seat 4: ...Thor... (34950)
+Seat 5: Lemassacre (29415)
+Seat 6: Barksdale934 (19800)
+*** ANTE/BLINDS ***
+...Thor... posts ante 100
+Lemassacre posts ante 100
+Schmorbauner posts ante 100
+blaiski1969 posts ante 100
+mise deal posts ante 100
+Barksdale934 posts ante 100
+...Thor... posts small blind 500
+Lemassacre posts big blind 1000
+Dealt to ...Thor... [3d 2h]
+*** PRE-FLOP *** 
+Barksdale934 folds
+Schmorbauner folds
+blaiski1969 folds
+mise deal folds
+...Thor... folds
+Lemassacre collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | No rake
+Seat 5: Lemassacre (big blind) won 2100
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 10 - HandId: #776052078731591685-101-1483840308 - Holdem no limit (100/500/1000) - 2017/01/08 01:51:48 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (67301)
+Seat 2: blaiski1969 (64683)
+Seat 3: mise deal (24001)
+Seat 4: ...Thor... (34350)
+Seat 5: Lemassacre (30415)
+Seat 6: Barksdale934 (19700)
+*** ANTE/BLINDS ***
+Lemassacre posts ante 100
+Barksdale934 posts ante 100
+Schmorbauner posts ante 100
+blaiski1969 posts ante 100
+mise deal posts ante 100
+...Thor... posts ante 100
+Lemassacre posts small blind 500
+Barksdale934 posts big blind 1000
+Dealt to ...Thor... [Kh Js]
+*** PRE-FLOP *** 
+Schmorbauner folds
+blaiski1969 folds
+mise deal folds
+...Thor... raises 2000 to 3000
+Lemassacre folds
+Barksdale934 folds
+...Thor... collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | No rake
+Seat 4: ...Thor... (button) won 5100
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 10 - HandId: #776052078731591685-102-1483840350 - Holdem no limit (100/500/1000) - 2017/01/08 01:52:30 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (67201)
+Seat 2: blaiski1969 (64583)
+Seat 3: mise deal (23901)
+Seat 4: ...Thor... (36350)
+Seat 5: Lemassacre (29815)
+Seat 6: Barksdale934 (18600)
+*** ANTE/BLINDS ***
+Barksdale934 posts ante 100
+Schmorbauner posts ante 100
+blaiski1969 posts ante 100
+mise deal posts ante 100
+...Thor... posts ante 100
+Lemassacre posts ante 100
+Barksdale934 posts small blind 500
+Schmorbauner posts big blind 1000
+Dealt to ...Thor... [7s 7d]
+*** PRE-FLOP *** 
+blaiski1969 folds
+mise deal folds
+...Thor... raises 2000 to 3000
+Lemassacre folds
+Barksdale934 calls 2500
+Schmorbauner folds
+*** FLOP *** [4c Jd Ad]
+Barksdale934 bets 1000
+...Thor... raises 2000 to 3000
+Barksdale934 calls 2000
+*** TURN *** [4c Jd Ad][2d]
+Barksdale934 checks
+...Thor... checks
+*** RIVER *** [4c Jd Ad 2d][6s]
+Barksdale934 checks
+...Thor... checks
+*** SHOW DOWN ***
+...Thor... shows [7s 7d] (One pair : 7)
+Barksdale934 shows [Jc 8c] (One pair : Jacks)
+Barksdale934 collected 13600 from pot
+*** SUMMARY ***
+Total pot 13600 | No rake
+Board: [4c Jd Ad 2d 6s]
+Seat 4: ...Thor... showed [7s 7d] and lost with One pair : 7
+Seat 6: Barksdale934 (small blind) showed [Jc 8c] and won 13600 with One pair : Jacks
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 10 - HandId: #776052078731591685-103-1483840435 - Holdem no limit (100/500/1000) - 2017/01/08 01:53:55 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (66101)
+Seat 2: blaiski1969 (64483)
+Seat 3: mise deal (23801)
+Seat 4: ...Thor... (30250)
+Seat 5: Lemassacre (29715)
+Seat 6: Barksdale934 (26100)
+*** ANTE/BLINDS ***
+Schmorbauner posts ante 100
+blaiski1969 posts ante 100
+mise deal posts ante 100
+...Thor... posts ante 100
+Lemassacre posts ante 100
+Barksdale934 posts ante 100
+Schmorbauner posts small blind 500
+blaiski1969 posts big blind 1000
+Dealt to ...Thor... [2c Qd]
+*** PRE-FLOP *** 
+mise deal folds
+...Thor... folds
+Lemassacre folds
+Barksdale934 calls 1000
+Schmorbauner raises 2500 to 3500
+blaiski1969 folds
+Barksdale934 calls 2500
+*** FLOP *** [9s Kh 3c]
+Schmorbauner checks
+Barksdale934 checks
+*** TURN *** [9s Kh 3c][Kc]
+Schmorbauner checks
+Barksdale934 bets 6450
+Schmorbauner folds
+Barksdale934 collected 15050 from pot
+*** SUMMARY ***
+Total pot 15050 | No rake
+Board: [9s Kh 3c Kc]
+Seat 6: Barksdale934 (button) won 15050
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 10 - HandId: #776052078731591685-104-1483840801 - Holdem no limit (100/500/1000) - 2017/01/08 02:00:01 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (62501)
+Seat 2: blaiski1969 (63383)
+Seat 3: mise deal (23701)
+Seat 4: ...Thor... (30150)
+Seat 5: Lemassacre (29615)
+Seat 6: Barksdale934 (31100)
+*** ANTE/BLINDS ***
+blaiski1969 posts ante 100
+mise deal posts ante 100
+Schmorbauner posts ante 100
+...Thor... posts ante 100
+Lemassacre posts ante 100
+Barksdale934 posts ante 100
+blaiski1969 posts small blind 500
+mise deal posts big blind 1000
+Dealt to ...Thor... [7s 9c]
+*** PRE-FLOP *** 
+...Thor... folds
+Lemassacre folds
+Barksdale934 calls 1000
+Schmorbauner folds
+blaiski1969 raises 2500 to 3500
+mise deal folds
+Barksdale934 calls 2500
+*** FLOP *** [Jd 8d 7h]
+blaiski1969 bets 5733
+Barksdale934 folds
+blaiski1969 collected 14333 from pot
+*** SUMMARY ***
+Total pot 14333 | No rake
+Board: [Jd 8d 7h]
+Seat 2: blaiski1969 (small blind) won 14333
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 10 - HandId: #776052078731591685-105-1483840851 - Holdem no limit (100/500/1000) - 2017/01/08 02:00:51 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (62401)
+Seat 2: blaiski1969 (68383)
+Seat 3: mise deal (22601)
+Seat 4: ...Thor... (30050)
+Seat 5: Lemassacre (29515)
+Seat 6: Barksdale934 (27500)
+*** ANTE/BLINDS ***
+mise deal posts ante 100
+...Thor... posts ante 100
+Schmorbauner posts ante 100
+blaiski1969 posts ante 100
+Lemassacre posts ante 100
+Barksdale934 posts ante 100
+mise deal posts small blind 500
+...Thor... posts big blind 1000
+Dealt to ...Thor... [4c Js]
+*** PRE-FLOP *** 
+Lemassacre folds
+Barksdale934 folds
+Schmorbauner folds
+blaiski1969 calls 1000
+mise deal calls 500
+...Thor... checks
+*** FLOP *** [Ks Kh 2h]
+mise deal checks
+...Thor... checks
+blaiski1969 checks
+*** TURN *** [Ks Kh 2h][Kd]
+mise deal checks
+...Thor... checks
+blaiski1969 bets 1500
+mise deal calls 1500
+...Thor... folds
+*** RIVER *** [Ks Kh 2h Kd][9c]
+mise deal checks
+blaiski1969 bets 3500
+mise deal calls 3500
+*** SHOW DOWN ***
+blaiski1969 shows [6c Tc] (Trips of Kings)
+mise deal shows [5h Ac] (Trips of Kings)
+mise deal collected 13600 from pot
+*** SUMMARY ***
+Total pot 13600 | No rake
+Board: [Ks Kh 2h Kd 9c]
+Seat 2: blaiski1969 (button) showed [6c Tc] and lost with Trips of Kings
+Seat 3: mise deal (small blind) showed [5h Ac] and won 13600 with Trips of Kings
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 11 - HandId: #776052078731591685-106-1483840951 - Holdem no limit (150/600/1200) - 2017/01/08 02:02:31 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (62301)
+Seat 2: blaiski1969 (62283)
+Seat 3: mise deal (30101)
+Seat 4: ...Thor... (28950)
+Seat 5: Lemassacre (29415)
+Seat 6: Barksdale934 (27400)
+*** ANTE/BLINDS ***
+...Thor... posts ante 150
+Lemassacre posts ante 150
+Schmorbauner posts ante 150
+blaiski1969 posts ante 150
+mise deal posts ante 150
+Barksdale934 posts ante 150
+...Thor... posts small blind 600
+Lemassacre posts big blind 1200
+Dealt to ...Thor... [7s Ad]
+*** PRE-FLOP *** 
+Barksdale934 folds
+Schmorbauner raises 1344 to 2544
+blaiski1969 folds
+mise deal folds
+...Thor... folds
+Lemassacre calls 1344
+*** FLOP *** [Ks 6d 9c]
+Lemassacre checks
+Schmorbauner checks
+*** TURN *** [Ks 6d 9c][Tc]
+Lemassacre bets 3294
+Schmorbauner folds
+Lemassacre collected 9882 from pot
+*** SUMMARY ***
+Total pot 9882 | No rake
+Board: [Ks 6d 9c Tc]
+Seat 5: Lemassacre (big blind) won 9882
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 11 - HandId: #776052078731591685-107-1483840984 - Holdem no limit (150/600/1200) - 2017/01/08 02:03:04 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #4 is the button
+Seat 1: Schmorbauner (59607)
+Seat 2: blaiski1969 (62133)
+Seat 3: mise deal (29951)
+Seat 4: ...Thor... (28200)
+Seat 5: Lemassacre (33309)
+Seat 6: Barksdale934 (27250)
+*** ANTE/BLINDS ***
+Lemassacre posts ante 150
+Barksdale934 posts ante 150
+Schmorbauner posts ante 150
+blaiski1969 posts ante 150
+mise deal posts ante 150
+...Thor... posts ante 150
+Lemassacre posts small blind 600
+Barksdale934 posts big blind 1200
+Dealt to ...Thor... [9c Qd]
+*** PRE-FLOP *** 
+Schmorbauner folds
+blaiski1969 folds
+mise deal folds
+...Thor... raises 2400 to 3600
+Lemassacre folds
+Barksdale934 folds
+...Thor... collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | No rake
+Seat 4: ...Thor... (button) won 6300
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 11 - HandId: #776052078731591685-108-1483841024 - Holdem no limit (150/600/1200) - 2017/01/08 02:03:44 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #5 is the button
+Seat 1: Schmorbauner (59457)
+Seat 2: blaiski1969 (61983)
+Seat 3: mise deal (29801)
+Seat 4: ...Thor... (30750)
+Seat 5: Lemassacre (32559)
+Seat 6: Barksdale934 (25900)
+*** ANTE/BLINDS ***
+Barksdale934 posts ante 150
+Schmorbauner posts ante 150
+blaiski1969 posts ante 150
+mise deal posts ante 150
+...Thor... posts ante 150
+Lemassacre posts ante 150
+Barksdale934 posts small blind 600
+Schmorbauner posts big blind 1200
+Dealt to ...Thor... [4h 8h]
+*** PRE-FLOP *** 
+blaiski1969 folds
+mise deal raises 2400 to 3600
+...Thor... folds
+Lemassacre folds
+Barksdale934 folds
+Schmorbauner folds
+mise deal collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | No rake
+Seat 3: mise deal won 6300
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 11 - HandId: #776052078731591685-109-1483841069 - Holdem no limit (150/600/1200) - 2017/01/08 02:04:29 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button
+Seat 1: Schmorbauner (58107)
+Seat 2: blaiski1969 (61833)
+Seat 3: mise deal (32351)
+Seat 4: ...Thor... (30600)
+Seat 5: Lemassacre (32409)
+Seat 6: Barksdale934 (25150)
+*** ANTE/BLINDS ***
+Schmorbauner posts ante 150
+blaiski1969 posts ante 150
+mise deal posts ante 150
+...Thor... posts ante 150
+Lemassacre posts ante 150
+Barksdale934 posts ante 150
+Schmorbauner posts small blind 600
+blaiski1969 posts big blind 1200
+Dealt to ...Thor... [3d 4h]
+*** PRE-FLOP *** 
+mise deal calls 1200
+...Thor... folds
+Lemassacre folds
+Barksdale934 calls 1200
+Schmorbauner calls 600
+blaiski1969 checks
+*** FLOP *** [Js As 2s]
+Schmorbauner checks
+blaiski1969 checks
+mise deal checks
+Barksdale934 bets 3000
+Schmorbauner calls 3000
+blaiski1969 folds
+mise deal calls 3000
+*** TURN *** [Js As 2s][8s]
+Schmorbauner checks
+mise deal bets 1200
+Barksdale934 calls 1200
+Schmorbauner calls 1200
+*** RIVER *** [Js As 2s 8s][8h]
+Schmorbauner checks
+mise deal bets 1200
+Barksdale934 calls 1200
+Schmorbauner calls 1200
+*** SHOW DOWN ***
+mise deal shows [Ah 3s] (Flush Ace high)
+Barksdale934 shows [7s 7c] (Flush Ace high)
+Schmorbauner shows [Qs Jd] (Flush Ace high)
+Schmorbauner collected 21900 from pot
+*** SUMMARY ***
+Total pot 21900 | No rake
+Board: [Js As 2s 8s 8h]
+Seat 1: Schmorbauner (small blind) showed [Qs Jd] and won 21900 with Flush Ace high
+Seat 3: mise deal showed [Ah 3s] and lost with Flush Ace high
+Seat 6: Barksdale934 (button) showed [7s 7c] and lost with Flush Ace high
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 11 - HandId: #776052078731591685-110-1483841198 - Holdem no limit (150/600/1200) - 2017/01/08 02:06:38 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button
+Seat 1: Schmorbauner (73257)
+Seat 2: blaiski1969 (60483)
+Seat 3: mise deal (25601)
+Seat 4: ...Thor... (30450)
+Seat 5: Lemassacre (32259)
+Seat 6: Barksdale934 (18400)
+*** ANTE/BLINDS ***
+blaiski1969 posts ante 150
+mise deal posts ante 150
+Schmorbauner posts ante 150
+...Thor... posts ante 150
+Lemassacre posts ante 150
+Barksdale934 posts ante 150
+blaiski1969 posts small blind 600
+mise deal posts big blind 1200
+Dealt to ...Thor... [Jd 9c]
+*** PRE-FLOP *** 
+...Thor... folds
+Lemassacre folds
+Barksdale934 raises 1200 to 2400
+Schmorbauner folds
+blaiski1969 calls 1800
+mise deal raises 4800 to 7200
+Barksdale934 folds
+blaiski1969 folds
+mise deal collected 12900 from pot
+*** SUMMARY ***
+Total pot 12900 | No rake
+Seat 3: mise deal (big blind) won 12900
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 11 - HandId: #776052078731591685-111-1483841248 - Holdem no limit (150/600/1200) - 2017/01/08 02:07:28 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the button
+Seat 1: Schmorbauner (73107)
+Seat 2: blaiski1969 (57933)
+Seat 3: mise deal (31151)
+Seat 4: ...Thor... (30300)
+Seat 5: Lemassacre (32109)
+Seat 6: Barksdale934 (15850)
+*** ANTE/BLINDS ***
+mise deal posts ante 150
+...Thor... posts ante 150
+Schmorbauner posts ante 150
+blaiski1969 posts ante 150
+Lemassacre posts ante 150
+Barksdale934 posts ante 150
+mise deal posts small blind 600
+...Thor... posts big blind 1200
+Dealt to ...Thor... [Ts 8d]
+*** PRE-FLOP *** 
+Lemassacre folds
+Barksdale934 folds
+Schmorbauner raises 1200 to 2400
+blaiski1969 calls 2400
+mise deal folds
+...Thor... calls 1200
+*** FLOP *** [4h Tc 5c]
+...Thor... bets 4350
+Schmorbauner calls 4350
+blaiski1969 folds
+*** TURN *** [4h Tc 5c][3s]
+...Thor... bets 8400
+Schmorbauner calls 8400
+*** RIVER *** [4h Tc 5c 3s][6s]
+...Thor... checks
+Schmorbauner bets 15600
+...Thor... folds
+Schmorbauner collected 49800 from pot
+*** SUMMARY ***
+Total pot 49800 | No rake
+Board: [4h Tc 5c 3s 6s]
+Seat 1: Schmorbauner won 49800
+
+
+Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 11 - HandId: #776052078731591685-112-1483841302 - Holdem no limit (150/600/1200) - 2017/01/08 02:08:22 UTC
+Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #3 is the button
+Seat 1: Schmorbauner (92007)
+Seat 2: blaiski1969 (55383)
+Seat 3: mise deal (30401)
+Seat 4: ...Thor... (15000)
+Seat 5: Lemassacre (31959)
+Seat 6: Barksdale934 (15700)
+*** ANTE/BLINDS ***
+...Thor... posts ante 150
+Lemassacre posts ante 150
+Schmorbauner posts ante 150
+blaiski1969 posts ante 150
+mise deal posts ante 150
+Barksdale934 posts ante 150
+...Thor... posts small blind 600
+Lemassacre posts big blind 1200
+Dealt to ...Thor... [As 8c]
+*** PRE-FLOP *** 
+Barksdale934 calls 1200
+Schmorbauner folds
+blaiski1969 folds
+mise deal folds
+...Thor... raises 13650 to 14850 and is all-in
+Lemassacre folds
+Barksdale934 calls 13650
+*** FLOP *** [Qh Ts Qc]
+*** TURN *** [Qh Ts Qc][5d]
+*** RIVER *** [Qh Ts Qc 5d][9d]
+*** SHOW DOWN ***
+...Thor... shows [As 8c] (One pair : Queens)
+Barksdale934 shows [6c 6d] (Two pairs : Queens and 6)
+Barksdale934 collected 31800 from pot
+*** SUMMARY ***
+Total pot 31800 | No rake
+Board: [Qh Ts Qc 5d 9d]
+Seat 4: ...Thor... (small blind) showed [As 8c] and lost with One pair : Queens
+Seat 6: Barksdale934 showed [6c 6d] and won 31800 with Two pairs : Queens and 6
+
+

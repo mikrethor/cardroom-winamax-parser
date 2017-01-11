@@ -14,7 +14,7 @@
 			<artifactId>cardroom-commons</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-			<dependency>
+		<dependency>
 			<groupId>fr.mikrethor</groupId>
 			<artifactId>cardroom-parser</artifactId>
 			<version>0.0.1-SNAPSHOT</version>

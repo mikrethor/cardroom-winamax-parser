@@ -1,0 +1,602 @@
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #776063344430809092-1-1483812904 - Holdem no limit (10/20) - 2017/01/07 18:15:04 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #1 is the button
+Seat 1: FredTeahupoo (1500)
+Seat 2: leguiton (1500)
+Seat 3: ...Thor... (1500)
+Seat 4: madriidd2014 (1500)
+Seat 5: rastaquouere (1500)
+Seat 6: ZAZARI2233 (1500)
+*** ANTE/BLINDS ***
+leguiton posts small blind 10
+...Thor... posts big blind 20
+Dealt to ...Thor... [3s 2h]
+*** PRE-FLOP *** 
+madriidd2014 calls 20
+rastaquouere raises 1480 to 1500 and is all-in
+ZAZARI2233 folds
+FredTeahupoo folds
+leguiton calls 1490 and is all-in
+...Thor... folds
+madriidd2014 calls 1480 and is all-in
+*** FLOP *** [8h Ks Jh]
+*** TURN *** [8h Ks Jh][4h]
+*** RIVER *** [8h Ks Jh 4h][Jc]
+*** SHOW DOWN ***
+madriidd2014 shows [5d 5h] (Two pairs : Jacks and 5)
+rastaquouere shows [Th Ac] (One pair : Jacks)
+leguiton shows [Ad As] (Two pairs : Aces and Jacks)
+leguiton collected 4520 from pot
+*** SUMMARY ***
+Total pot 4520 | No rake
+Board: [8h Ks Jh 4h Jc]
+Seat 2: leguiton (small blind) showed [Ad As] and won 4520 with Two pairs : Aces and Jacks
+Seat 4: madriidd2014 showed [5d 5h] and lost with Two pairs : Jacks and 5
+Seat 5: rastaquouere showed [Th Ac] and lost with One pair : Jacks
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #776063344430809092-2-1483812965 - Holdem no limit (10/20) - 2017/01/07 18:16:05 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #2 is the button
+Seat 1: FredTeahupoo (1500)
+Seat 2: leguiton (4520)
+Seat 3: ...Thor... (1480)
+Seat 6: ZAZARI2233 (1500)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 10
+ZAZARI2233 posts big blind 20
+Dealt to ...Thor... [Qs 6s]
+*** PRE-FLOP *** 
+FredTeahupoo calls 20
+leguiton calls 20
+...Thor... folds
+ZAZARI2233 checks
+*** FLOP *** [7d 6c 5s]
+ZAZARI2233 checks
+FredTeahupoo checks
+leguiton bets 70
+ZAZARI2233 calls 70
+FredTeahupoo calls 70
+*** TURN *** [7d 6c 5s][4d]
+ZAZARI2233 checks
+FredTeahupoo checks
+leguiton bets 4430 and is all-in
+ZAZARI2233 folds
+FredTeahupoo folds
+leguiton collected 4710 from pot
+*** SUMMARY ***
+Total pot 4710 | No rake
+Board: [7d 6c 5s 4d]
+Seat 2: leguiton (button) won 4710
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #776063344430809092-3-1483813020 - Holdem no limit (10/20) - 2017/01/07 18:17:00 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #3 is the button
+Seat 1: FredTeahupoo (1410)
+Seat 2: leguiton (4710)
+Seat 3: ...Thor... (1470)
+Seat 6: ZAZARI2233 (1410)
+*** ANTE/BLINDS ***
+ZAZARI2233 posts small blind 10
+FredTeahupoo posts big blind 20
+Dealt to ...Thor... [4s 4h]
+*** PRE-FLOP *** 
+leguiton calls 20
+...Thor... calls 20
+ZAZARI2233 folds
+FredTeahupoo raises 109 to 129
+leguiton folds
+...Thor... calls 109
+*** FLOP *** [6h 7c 3c]
+FredTeahupoo bets 288
+...Thor... folds
+FredTeahupoo collected 576 from pot
+*** SUMMARY ***
+Total pot 576 | No rake
+Board: [6h 7c 3c]
+Seat 1: FredTeahupoo (big blind) won 576
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 1 - HandId: #776063344430809092-4-1483813050 - Holdem no limit (10/20) - 2017/01/07 18:17:30 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #6 is the button
+Seat 1: FredTeahupoo (1569)
+Seat 2: leguiton (4690)
+Seat 3: ...Thor... (1341)
+Seat 6: ZAZARI2233 (1400)
+*** ANTE/BLINDS ***
+FredTeahupoo posts small blind 10
+leguiton posts big blind 20
+Dealt to ...Thor... [9d 9s]
+*** PRE-FLOP *** 
+...Thor... raises 40 to 60
+ZAZARI2233 folds
+FredTeahupoo calls 50
+leguiton calls 40
+*** FLOP *** [4d 7d Ad]
+FredTeahupoo bets 20
+leguiton folds
+...Thor... calls 20
+*** TURN *** [4d 7d Ad][Ac]
+FredTeahupoo bets 20
+...Thor... raises 110 to 130
+FredTeahupoo calls 110
+*** RIVER *** [4d 7d Ad Ac][4h]
+FredTeahupoo checks
+...Thor... checks
+*** SHOW DOWN ***
+...Thor... shows [9d 9s] (Two pairs : Aces and 9)
+FredTeahupoo shows [4c 5d] (Full of 4 and Aces)
+FredTeahupoo collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | No rake
+Board: [4d 7d Ad Ac 4h]
+Seat 1: FredTeahupoo (small blind) showed [4c 5d] and won 480 with Full of 4 and Aces
+Seat 3: ...Thor... showed [9d 9s] and lost with Two pairs : Aces and 9
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #776063344430809092-5-1483813122 - Holdem no limit (15/30) - 2017/01/07 18:18:42 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #1 is the button
+Seat 1: FredTeahupoo (1839)
+Seat 2: leguiton (4630)
+Seat 3: ...Thor... (1131)
+Seat 6: ZAZARI2233 (1400)
+*** ANTE/BLINDS ***
+leguiton posts small blind 15
+...Thor... posts big blind 30
+Dealt to ...Thor... [Ad Th]
+*** PRE-FLOP *** 
+ZAZARI2233 folds
+FredTeahupoo calls 30
+leguiton calls 15
+...Thor... raises 1101 to 1131 and is all-in
+FredTeahupoo folds
+leguiton folds
+...Thor... collected 1191 from pot
+*** SUMMARY ***
+Total pot 1191 | No rake
+Seat 3: ...Thor... (big blind) won 1191
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #776063344430809092-6-1483813138 - Holdem no limit (15/30) - 2017/01/07 18:18:58 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #2 is the button
+Seat 1: FredTeahupoo (1809)
+Seat 2: leguiton (4600)
+Seat 3: ...Thor... (1191)
+Seat 6: ZAZARI2233 (1400)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 15
+ZAZARI2233 posts big blind 30
+Dealt to ...Thor... [5h 6h]
+*** PRE-FLOP *** 
+FredTeahupoo folds
+leguiton folds
+...Thor... raises 60 to 90
+ZAZARI2233 folds
+...Thor... collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | No rake
+Seat 3: ...Thor... (small blind) won 120
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #776063344430809092-7-1483813166 - Holdem no limit (15/30) - 2017/01/07 18:19:26 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #3 is the button
+Seat 1: FredTeahupoo (1809)
+Seat 2: leguiton (4600)
+Seat 3: ...Thor... (1221)
+Seat 6: ZAZARI2233 (1370)
+*** ANTE/BLINDS ***
+ZAZARI2233 posts small blind 15
+FredTeahupoo posts big blind 30
+Dealt to ...Thor... [Tc 5c]
+*** PRE-FLOP *** 
+leguiton folds
+...Thor... folds
+ZAZARI2233 raises 75 to 105
+FredTeahupoo folds
+ZAZARI2233 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | No rake
+Seat 6: ZAZARI2233 (small blind) won 135
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #776063344430809092-8-1483813186 - Holdem no limit (15/30) - 2017/01/07 18:19:46 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #6 is the button
+Seat 1: FredTeahupoo (1779)
+Seat 2: leguiton (4600)
+Seat 3: ...Thor... (1221)
+Seat 6: ZAZARI2233 (1400)
+*** ANTE/BLINDS ***
+FredTeahupoo posts small blind 15
+leguiton posts big blind 30
+Dealt to ...Thor... [Qs 3c]
+*** PRE-FLOP *** 
+...Thor... folds
+ZAZARI2233 folds
+FredTeahupoo calls 15
+leguiton checks
+*** FLOP *** [3d 2h 5h]
+FredTeahupoo bets 30
+leguiton calls 30
+*** TURN *** [3d 2h 5h][Ah]
+FredTeahupoo checks
+leguiton checks
+*** RIVER *** [3d 2h 5h Ah][Kc]
+FredTeahupoo bets 114
+leguiton folds
+FredTeahupoo collected 234 from pot
+*** SUMMARY ***
+Total pot 234 | No rake
+Board: [3d 2h 5h Ah Kc]
+Seat 1: FredTeahupoo (small blind) won 234
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 2 - HandId: #776063344430809092-9-1483813215 - Holdem no limit (15/30) - 2017/01/07 18:20:15 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #1 is the button
+Seat 1: FredTeahupoo (1839)
+Seat 2: leguiton (4540)
+Seat 3: ...Thor... (1221)
+Seat 6: ZAZARI2233 (1400)
+*** ANTE/BLINDS ***
+leguiton posts small blind 15
+...Thor... posts big blind 30
+Dealt to ...Thor... [Td 8c]
+*** PRE-FLOP *** 
+ZAZARI2233 calls 30
+FredTeahupoo calls 30
+leguiton calls 15
+...Thor... checks
+*** FLOP *** [8s 5d 7c]
+leguiton bets 30
+...Thor... calls 30
+ZAZARI2233 calls 30
+FredTeahupoo calls 30
+*** TURN *** [8s 5d 7c][8d]
+leguiton checks
+...Thor... bets 120
+ZAZARI2233 calls 120
+FredTeahupoo calls 120
+leguiton calls 120
+*** RIVER *** [8s 5d 7c 8d][Jh]
+leguiton checks
+...Thor... bets 300
+ZAZARI2233 calls 300
+FredTeahupoo folds
+leguiton folds
+*** SHOW DOWN ***
+...Thor... shows [Td 8c] (Trips of 8)
+ZAZARI2233 shows [8h Ac] (Trips of 8)
+ZAZARI2233 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | No rake
+Board: [8s 5d 7c 8d Jh]
+Seat 3: ...Thor... (big blind) showed [Td 8c] and lost with Trips of 8
+Seat 6: ZAZARI2233 showed [8h Ac] and won 1320 with Trips of 8
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #776063344430809092-10-1483813278 - Holdem no limit (20/40) - 2017/01/07 18:21:18 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #2 is the button
+Seat 1: FredTeahupoo (1659)
+Seat 2: leguiton (4360)
+Seat 3: ...Thor... (741)
+Seat 6: ZAZARI2233 (2240)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 20
+ZAZARI2233 posts big blind 40
+Dealt to ...Thor... [Qs 2d]
+*** PRE-FLOP *** 
+FredTeahupoo calls 40
+leguiton folds
+...Thor... folds
+ZAZARI2233 checks
+*** FLOP *** [9s Qc As]
+ZAZARI2233 bets 40
+FredTeahupoo calls 40
+*** TURN *** [9s Qc As][6h]
+ZAZARI2233 checks
+FredTeahupoo bets 40
+ZAZARI2233 folds
+FredTeahupoo collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | No rake
+Board: [9s Qc As 6h]
+Seat 1: FredTeahupoo won 220
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #776063344430809092-11-1483813315 - Holdem no limit (20/40) - 2017/01/07 18:21:55 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #3 is the button
+Seat 1: FredTeahupoo (1759)
+Seat 2: leguiton (4360)
+Seat 3: ...Thor... (721)
+Seat 6: ZAZARI2233 (2160)
+*** ANTE/BLINDS ***
+ZAZARI2233 posts small blind 20
+FredTeahupoo posts big blind 40
+Dealt to ...Thor... [Qh 6s]
+*** PRE-FLOP *** 
+leguiton folds
+...Thor... folds
+ZAZARI2233 folds
+FredTeahupoo collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | No rake
+Seat 1: FredTeahupoo (big blind) won 60
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #776063344430809092-12-1483813337 - Holdem no limit (20/40) - 2017/01/07 18:22:17 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #6 is the button
+Seat 1: FredTeahupoo (1779)
+Seat 2: leguiton (4360)
+Seat 3: ...Thor... (721)
+Seat 6: ZAZARI2233 (2140)
+*** ANTE/BLINDS ***
+FredTeahupoo posts small blind 20
+leguiton posts big blind 40
+Dealt to ...Thor... [6h 8s]
+*** PRE-FLOP *** 
+...Thor... folds
+ZAZARI2233 raises 160 to 200
+FredTeahupoo folds
+leguiton folds
+ZAZARI2233 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | No rake
+Seat 6: ZAZARI2233 (button) won 260
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #776063344430809092-13-1483813358 - Holdem no limit (20/40) - 2017/01/07 18:22:38 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #1 is the button
+Seat 1: FredTeahupoo (1759)
+Seat 2: leguiton (4320)
+Seat 3: ...Thor... (721)
+Seat 6: ZAZARI2233 (2200)
+*** ANTE/BLINDS ***
+leguiton posts small blind 20
+...Thor... posts big blind 40
+Dealt to ...Thor... [6c Jh]
+*** PRE-FLOP *** 
+ZAZARI2233 folds
+FredTeahupoo calls 40
+leguiton calls 20
+...Thor... checks
+*** FLOP *** [Kc 2d Ad]
+leguiton checks
+...Thor... checks
+FredTeahupoo checks
+*** TURN *** [Kc 2d Ad][9h]
+leguiton bets 40
+...Thor... folds
+FredTeahupoo calls 40
+*** RIVER *** [Kc 2d Ad 9h][Kd]
+leguiton checks
+FredTeahupoo checks
+*** SHOW DOWN ***
+FredTeahupoo shows [Qc Td] (One pair : Kings)
+leguiton shows [2h 6h] (Two pairs : Kings and 2)
+leguiton collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | No rake
+Board: [Kc 2d Ad 9h Kd]
+Seat 1: FredTeahupoo (button) showed [Qc Td] and lost with One pair : Kings
+Seat 2: leguiton (small blind) showed [2h 6h] and won 200 with Two pairs : Kings and 2
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #776063344430809092-14-1483813399 - Holdem no limit (20/40) - 2017/01/07 18:23:19 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #2 is the button
+Seat 1: FredTeahupoo (1679)
+Seat 2: leguiton (4440)
+Seat 3: ...Thor... (681)
+Seat 6: ZAZARI2233 (2200)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 20
+ZAZARI2233 posts big blind 40
+Dealt to ...Thor... [3s 3d]
+*** PRE-FLOP *** 
+FredTeahupoo calls 40
+leguiton folds
+...Thor... raises 641 to 681 and is all-in
+ZAZARI2233 folds
+FredTeahupoo folds
+...Thor... collected 761 from pot
+*** SUMMARY ***
+Total pot 761 | No rake
+Seat 3: ...Thor... (small blind) won 761
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 3 - HandId: #776063344430809092-15-1483813415 - Holdem no limit (20/40) - 2017/01/07 18:23:35 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #3 is the button
+Seat 1: FredTeahupoo (1639)
+Seat 2: leguiton (4440)
+Seat 3: ...Thor... (761)
+Seat 6: ZAZARI2233 (2160)
+*** ANTE/BLINDS ***
+ZAZARI2233 posts small blind 20
+FredTeahupoo posts big blind 40
+Dealt to ...Thor... [7s Kc]
+*** PRE-FLOP *** 
+leguiton calls 40
+...Thor... folds
+ZAZARI2233 folds
+FredTeahupoo checks
+*** FLOP *** [2s 7c 8h]
+FredTeahupoo checks
+leguiton bets 40
+FredTeahupoo calls 40
+*** TURN *** [2s 7c 8h][6c]
+FredTeahupoo checks
+leguiton checks
+*** RIVER *** [2s 7c 8h 6c][Qd]
+FredTeahupoo bets 180
+leguiton folds
+FredTeahupoo collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | No rake
+Board: [2s 7c 8h 6c Qd]
+Seat 1: FredTeahupoo (big blind) won 360
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #776063344430809092-16-1483813463 - Holdem no limit (30/60) - 2017/01/07 18:24:23 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #6 is the button
+Seat 1: FredTeahupoo (1739)
+Seat 2: leguiton (4360)
+Seat 3: ...Thor... (761)
+Seat 6: ZAZARI2233 (2140)
+*** ANTE/BLINDS ***
+FredTeahupoo posts small blind 30
+leguiton posts big blind 60
+Dealt to ...Thor... [2s Qh]
+*** PRE-FLOP *** 
+...Thor... folds
+ZAZARI2233 folds
+FredTeahupoo raises 156 to 216
+leguiton calls 156
+*** FLOP *** [Jd 8s 3h]
+FredTeahupoo checks
+leguiton bets 432
+FredTeahupoo folds
+leguiton collected 864 from pot
+*** SUMMARY ***
+Total pot 864 | No rake
+Board: [Jd 8s 3h]
+Seat 2: leguiton (big blind) won 864
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #776063344430809092-17-1483813487 - Holdem no limit (30/60) - 2017/01/07 18:24:47 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #1 is the button
+Seat 1: FredTeahupoo (1523)
+Seat 2: leguiton (4576)
+Seat 3: ...Thor... (761)
+Seat 6: ZAZARI2233 (2140)
+*** ANTE/BLINDS ***
+leguiton posts small blind 30
+...Thor... posts big blind 60
+Dealt to ...Thor... [8s Tc]
+*** PRE-FLOP *** 
+ZAZARI2233 calls 60
+FredTeahupoo calls 60
+leguiton folds
+...Thor... checks
+*** FLOP *** [8c Js Kd]
+...Thor... checks
+ZAZARI2233 checks
+FredTeahupoo bets 210
+...Thor... folds
+ZAZARI2233 folds
+FredTeahupoo collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | No rake
+Board: [8c Js Kd]
+Seat 1: FredTeahupoo (button) won 420
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #776063344430809092-18-1483813527 - Holdem no limit (30/60) - 2017/01/07 18:25:27 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #2 is the button
+Seat 1: FredTeahupoo (1673)
+Seat 2: leguiton (4546)
+Seat 3: ...Thor... (701)
+Seat 6: ZAZARI2233 (2080)
+*** ANTE/BLINDS ***
+...Thor... posts small blind 30
+ZAZARI2233 posts big blind 60
+Dealt to ...Thor... [2s 6h]
+*** PRE-FLOP *** 
+FredTeahupoo calls 60
+leguiton folds
+...Thor... folds
+ZAZARI2233 checks
+*** FLOP *** [Qd 4s Td]
+ZAZARI2233 checks
+FredTeahupoo bets 60
+ZAZARI2233 calls 60
+*** TURN *** [Qd 4s Td][2d]
+ZAZARI2233 checks
+FredTeahupoo bets 60
+ZAZARI2233 folds
+FredTeahupoo collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | No rake
+Board: [Qd 4s Td 2d]
+Seat 1: FredTeahupoo won 330
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 4 - HandId: #776063344430809092-19-1483813569 - Holdem no limit (30/60) - 2017/01/07 18:26:09 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #3 is the button
+Seat 1: FredTeahupoo (1823)
+Seat 2: leguiton (4546)
+Seat 3: ...Thor... (671)
+Seat 6: ZAZARI2233 (1960)
+*** ANTE/BLINDS ***
+ZAZARI2233 posts small blind 30
+FredTeahupoo posts big blind 60
+Dealt to ...Thor... [4d 5c]
+*** PRE-FLOP *** 
+leguiton raises 60 to 120
+...Thor... folds
+ZAZARI2233 folds
+FredTeahupoo calls 60
+*** FLOP *** [7h Kc Td]
+FredTeahupoo checks
+leguiton bets 95
+FredTeahupoo calls 95
+*** TURN *** [7h Kc Td][6d]
+FredTeahupoo checks
+leguiton bets 230
+FredTeahupoo folds
+leguiton collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | No rake
+Board: [7h Kc Td 6d]
+Seat 2: leguiton won 690
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #776063344430809092-20-1483813642 - Holdem no limit (40/80) - 2017/01/07 18:27:22 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #6 is the button
+Seat 1: FredTeahupoo (1608)
+Seat 2: leguiton (4791)
+Seat 3: ...Thor... (671)
+Seat 6: ZAZARI2233 (1930)
+*** ANTE/BLINDS ***
+FredTeahupoo posts small blind 40
+leguiton posts big blind 80
+Dealt to ...Thor... [7d 7s]
+*** PRE-FLOP *** 
+...Thor... raises 160 to 240
+ZAZARI2233 folds
+FredTeahupoo calls 200
+leguiton raises 960 to 1200
+...Thor... folds
+FredTeahupoo folds
+leguiton collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | No rake
+Seat 2: leguiton (big blind) won 1680
+
+
+Winamax Poker - Tournament "Fish&Ship" buyIn: 0.22€ + 0.03€ level: 5 - HandId: #776063344430809092-21-1483813677 - Holdem no limit (40/80) - 2017/01/07 18:27:57 UTC
+Table: 'Fish&Ship(180691328)#003' 6-max (real money) Seat #1 is the button
+Seat 1: FredTeahupoo (1368)
+Seat 2: leguiton (5271)
+Seat 3: ...Thor... (431)
+Seat 6: ZAZARI2233 (1930)
+*** ANTE/BLINDS ***
+leguiton posts small blind 40
+...Thor... posts big blind 80
+Dealt to ...Thor... [9s Ah]
+*** PRE-FLOP *** 
+ZAZARI2233 folds
+FredTeahupoo calls 80
+leguiton calls 40
+...Thor... raises 351 to 431 and is all-in
+FredTeahupoo folds
+leguiton calls 351
+*** FLOP *** [Td Js 4h]
+*** TURN *** [Td Js 4h][Kc]
+*** RIVER *** [Td Js 4h Kc][5c]
+*** SHOW DOWN ***
+...Thor... shows [9s Ah] (High card : Ace)
+leguiton shows [Tc 8h] (One pair : Tens)
+leguiton collected 942 from pot
+*** SUMMARY ***
+Total pot 942 | No rake
+Board: [Td Js 4h Kc 5c]
+Seat 2: leguiton (small blind) showed [Tc 8h] and won 942 with One pair : Tens
+Seat 3: ...Thor... (big blind) showed [9s Ah] and lost with High card : Ace
+
+

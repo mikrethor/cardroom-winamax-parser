@@ -29,16 +29,16 @@ import fr.mikrethor.cardroom.utils.DateUtils;
  * @author Thor
  * 
  */
-public class WinamaxParsing extends CardroomFileParser implements ICardroomParser {
+public class WinamaxParser extends CardroomFileParser implements ICardroomParser {
 
-	public WinamaxParsing(File fileToParse) {
+	public WinamaxParser(File fileToParse) {
 		super(fileToParse);
 	}
 
 	/**
 	 * LOGGER.
 	 */
-	private static final Logger LOGGER = LoggerFactory.getLogger(WinamaxParsing.class);
+	private static final Logger LOGGER = LoggerFactory.getLogger(WinamaxParser.class);
 
 	protected static final String ANTE_BLIND = "*** ANTE/BLINDS ***";
 	protected static final String PRE_FLOP = "*** PRE-FLOP ***";
@@ -70,8 +70,8 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 	protected static final String MAX = "max";
 
 	@Override
-	public Action parseAction(String chaine, Map<String, Player> players) {
-		final String[] tab = chaine.split(SPACE);
+	public Action parseAction(String currentLine, Map<String, Player> players) {
+		final String[] tab = currentLine.split(SPACE);
 		String action = "";
 		String joueur = "";
 		String entre = "";
@@ -101,7 +101,7 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 
 				}
 				if (EAction.SHOWS.getValue().equals(tab[i])) {
-					main = parseCards(chaine);
+					main = parseCards(currentLine);
 					if (LOGGER.isDebugEnabled()) {
 						LOGGER.debug(" main : {}", main.toString());
 					}
@@ -125,7 +125,7 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 			LOGGER.error(e.getMessage(), e);
 			return null;
 		}
-		String nextLine = null;
+		String currentLine = null;
 		Hand hand = null;
 		final InfoSession infoSession = new InfoSession();
 		infoSession.setCardRoom(cardRoom);
@@ -135,24 +135,24 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 		while (input.hasNext()) {
 			// Sinon le parsing ne fonctionne pas
 			if (firstIteration) {
-				nextLine = input.nextLine();
+				currentLine = input.nextLine();
 				firstIteration = false;
 			}
 
 			// Demarrage de la lecture d'une main
-			if (nextLine.startsWith(NEW_HAND)) {
+			if (currentLine.startsWith(NEW_HAND)) {
 				hand = new Hand();
 
-				nextLine = parseNewHandLine(nextLine, input, NEW_HAND, null, infoSession, hand);
+				currentLine = parseNewHandLine(currentLine, input, NEW_HAND, null, infoSession, hand);
 			}
 			// Passage a la ligne suivante pour les infos TABLE (evite les tours
 			// de boucle inutiles)
-			nextLine = input.nextLine();
+			currentLine = input.nextLine();
 
-			nextLine = parseTableLine(nextLine, input, TABLE, null, infoSession, hand);
+			currentLine = parseTableLine(currentLine, input, TABLE, null, infoSession, hand);
 			// Passage a la ligne suivante pour les infos SEAT(evite les tours
 			// de boucle inutiles)
-			nextLine = input.nextLine();
+			currentLine = input.nextLine();
 
 			// Remise � off des joueurs
 			for (final Player playerTemp : infoSession.getPlayers().values()) {
@@ -164,22 +164,22 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 
 			// TODO prendre en compte le siege favoris (affichage)
 			// Attention a bien positionnela lecture des seat
-			nextLine = parseSeatLine(nextLine, input, SEAT, new String[] { ANTE_BLIND }, infoSession, hand);
+			currentLine = parseSeatLine(currentLine, input, SEAT, new String[] { ANTE_BLIND }, infoSession, hand);
 
-			nextLine = parseAntesAndBlinds(nextLine, input, ANTE_BLIND, new String[] { PRE_FLOP, SUMMARY }, infoSession,
-					hand);
+			currentLine = parseAntesAndBlinds(currentLine, input, ANTE_BLIND, new String[] { PRE_FLOP, SUMMARY },
+					infoSession, hand);
 
-			nextLine = parsePreflop(nextLine, input, hand);
+			currentLine = parsePreflop(currentLine, input, hand);
 
-			nextLine = parseFlop(nextLine, input, hand);
+			currentLine = parseFlop(currentLine, input, hand);
 
-			nextLine = parseTurn(nextLine, input, hand);
+			currentLine = parseTurn(currentLine, input, hand);
 
-			nextLine = parseRiver(nextLine, input, hand);
+			currentLine = parseRiver(currentLine, input, hand);
 
-			nextLine = parseShowdown(nextLine, input, hand);
+			currentLine = parseShowdown(currentLine, input, hand);
 
-			nextLine = parseSummary(nextLine, input, infoSession, SUMMARY, new String[] { NEW_HAND }, hand);
+			currentLine = parseSummary(currentLine, input, infoSession, SUMMARY, new String[] { NEW_HAND }, hand);
 
 		}
 		// Fermeture du scanner
@@ -189,9 +189,9 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 	}
 
 	@Override
-	public String parseActionsByPhase(String nextLine, Scanner input, Hand hand, String phase, String[] nextPhases,
+	public String parseActionsByPhase(String currentLine, Scanner input, Hand hand, String phase, String[] nextPhases,
 			List<Action> actions) {
-		String nextL = nextLine;
+		String nextL = currentLine;
 		if (LOGGER.isDebugEnabled()) {
 			LOGGER.debug("Lecture de la phase : {}", phase);
 
@@ -240,9 +240,9 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 	}
 
 	@Override
-	public String parseNewHandLine(String nextLine, Scanner input, String phase, String[] nextPhases, InfoSession game,
-			Hand hand) {
-		final String nextL = nextLine;
+	public String parseNewHandLine(String currentLine, Scanner input, String phase, String[] nextPhases,
+			InfoSession game, Hand hand) {
+		final String nextL = currentLine;
 		if (nextL.startsWith(phase)) {
 			if (LOGGER.isDebugEnabled()) {
 				LOGGER.debug("Demarrage {} -> {}", NEW_HAND, nextL);
@@ -252,7 +252,7 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 			double fee = 0d;
 			int level = 0;
 
-			setCurrency(parseCurrency(nextLine));
+			setCurrency(parseCurrency(currentLine));
 			// TODO decoreller les traitement pour eviter les IF.
 			if (!GameType.CASH.getType().equals(tab[1])) {
 				// Parsing
@@ -271,7 +271,7 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 			final String handId = parseHandIdSite(nextL);
 			hand.setLabel(handId);
 			hand.setCardRoom(cardRoom);
-			hand.setId(parseHandIdSite(nextLine));
+			hand.setId(parseHandIdSite(currentLine));
 			game.setBuyIn(buy + fee);
 			game.setFee(fee);
 			hand.setLevel(level);
@@ -290,9 +290,9 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 	}
 
 	@Override
-	public String parseTableLine(String nextLine, Scanner input, String phase, String[] nextPhases,
+	public String parseTableLine(String currentLine, Scanner input, String phase, String[] nextPhases,
 			InfoSession infoSession, Hand hand) {
-		final String nextL = nextLine;
+		final String nextL = currentLine;
 		if (nextL.startsWith(phase)) {
 			if (LOGGER.isDebugEnabled()) {
 				LOGGER.debug("Lecture de la {} -> {}, ", TABLE, nextL);
@@ -468,7 +468,7 @@ public class WinamaxParsing extends CardroomFileParser implements ICardroomParse
 					} else {
 						joueur = this.getPlayerBlind(tab);
 						if (SMALL.equals(blind)) {
-							hand.setSmallBlindPlayer(hand.getPlayers().get(joueur));
+							hand.setSmallBlindPlayer(hand.getPlayersByName().get(joueur));
 						} else {
 							hand.setBigBlindPlayer(hand.getPlayersByName().get(joueur));
 						}

@@ -19,12 +19,12 @@ import fr.mikrethor.cardroom.pojo.Cardroom;
 import fr.mikrethor.cardroom.pojo.Hand;
 import fr.mikrethor.cardroom.pojo.Player;
 
-public class WinamaxParsingTest {
+public class WinamaxParserTest {
 
 	@Test
 	public void testGetCards() {
 		final String nextLine = "9h Ks As";
-		final WinamaxParsing siteParsing = new WinamaxParsing(null);
+		final WinamaxParser siteParsing = new WinamaxParser(null);
 		final String[] tab = siteParsing.getCards(nextLine);
 		assertStringTab(new String[] { "9h", "Ks", "As" }, tab);
 
@@ -33,7 +33,7 @@ public class WinamaxParsingTest {
 	@Test
 	public void testToCards() {
 		final String nextLine = "9h Ks As";
-		final WinamaxParsing siteParsing = new WinamaxParsing(null);
+		final WinamaxParser siteParsing = new WinamaxParser(null);
 		final String[] tab = siteParsing.getCards(nextLine);
 		final Card[] tabCard = siteParsing.toECards(tab);
 		assertCardTab(new Card[] { Card.C_9H, Card.C_KS, Card.C_AS }, tabCard);
@@ -43,7 +43,7 @@ public class WinamaxParsingTest {
 	@Test
 	public void testStringToCards() {
 		final String nextLine = "9h";
-		final WinamaxParsing siteParsing = new WinamaxParsing(null);
+		final WinamaxParser siteParsing = new WinamaxParser(null);
 		final Card eCard = siteParsing.stringToECards(nextLine);
 		Assert.assertEquals(Card.C_9H, eCard);
 
@@ -114,7 +114,7 @@ public class WinamaxParsingTest {
 		// Seat 3: Brocoline (small blind) won 9300
 
 		final File file = new File(fileName);
-		final WinamaxParsing siteParsing = new WinamaxParsing(file);
+		final WinamaxParser siteParsing = new WinamaxParser(file);
 		siteParsing.setCardroom(new Cardroom("Winamax", Domain.FR));
 		Map<String, Hand> hands = null;
 
@@ -128,17 +128,12 @@ public class WinamaxParsingTest {
 		Assert.assertNotNull(hands);
 		final long fin = System.currentTimeMillis();
 
-		// Assert.assertEquals(97, hands.values().size());
+		Assert.assertEquals(112, hands.values().size());
 		// Check fisrt hand
 		String handId = "776052078731591685-3";
 		Hand main1 = hands.get(handId);
 		Assert.assertEquals(6, main1.getNbPlayersOnOneTable());
-		// Seat 1: Schmorbauner (19950)
-		// Seat 2: Gogo yubari (19850)
-		// Seat 3: Brocoline (23050)
-		// Seat 4: ...Thor... (19150)
-		// Seat 5: Dad-Soon (16700)
-		// Seat 6: iLoveFederer (21300)
+
 		final Player schmorbauner = main1.getPlayers().get(1);
 		final Player gogoyubari = main1.getPlayers().get(2);
 		final Player brocoline = main1.getPlayers().get(3);
@@ -171,17 +166,14 @@ public class WinamaxParsingTest {
 		Assert.assertEquals(new Double(16700), new Double(dadsoon.getStack()));
 		Assert.assertEquals(new Double(21300), new Double(iLoveFederer.getStack()));
 
-		// final Hand hand = game.getHands().get(1);
-		// Assert.assertEquals(handId, main1.getLabel());
-		//
-		// Assert.assertEquals(Double.valueOf(20),
-		// Double.valueOf(main1.getBigBlind()));
-		// Assert.assertEquals(Double.valueOf(10),
-		// Double.valueOf(main1.getSmallBlind()));
-		//
-		// Assert.assertEquals(acrisdu11, main1.getBigBlindPlayer());
-		// Assert.assertEquals(sirius369, main1.getSmallBlindPlayer());
-		// Assert.assertEquals(dragoonnhead, main1.getDealerPlayer());
+		Assert.assertEquals(handId, main1.getLabel());
+
+		Assert.assertEquals(Double.valueOf(100), Double.valueOf(main1.getBigBlind()));
+		Assert.assertEquals(Double.valueOf(50), Double.valueOf(main1.getSmallBlind()));
+
+		Assert.assertEquals(thor, main1.getBigBlindPlayer());
+		Assert.assertEquals(brocoline, main1.getSmallBlindPlayer());
+		// Assert.assertEquals(thor, main1.getDealerPlayer());
 		// Assert.assertEquals(mikrethor, main1.getPlayer());
 		//
 		// Assert.assertEquals("1", main1.getIdTable());
@@ -297,7 +289,7 @@ public class WinamaxParsingTest {
 
 	public void testParseTableId() {
 		String nextLine = "Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #1 is the button";
-		final WinamaxParsing siteParsing = new WinamaxParsing(null);
+		final WinamaxParser siteParsing = new WinamaxParser(null);
 
 		Assert.assertEquals("004", siteParsing.parseTableId(nextLine));
 		nextLine = "Table: 'Freeroll(180688949)#0239' 6-max (real money) Seat #1 is the button";
@@ -309,7 +301,7 @@ public class WinamaxParsingTest {
 	public void testParseLevel() {
 		// Cas heads-up with rebuy
 		String nextLine = "Winamax Poker - Tournament \"NOCTAMBULE\" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-1-1483835405 - Holdem no limit (50/100) - 2017/01/08 00:30:05 UTC";
-		final WinamaxParsing siteParsing = new WinamaxParsing(null);
+		final WinamaxParser siteParsing = new WinamaxParser(null);
 
 		Assert.assertEquals(1, siteParsing.parseLevel(nextLine));
 		nextLine = "Winamax Poker - Tournament \"NOCTAMBULE\" buyIn: 9€ + 1€ level: 10 - HandId: #776052078731591685-96-1483840063 - Holdem no limit (100/500/1000) - 2017/01/08 01:47:43 UTC";
@@ -362,7 +354,7 @@ public class WinamaxParsingTest {
 	@Test
 	public void testSetDevise() {
 		String nextLine = "Winamax Poker - Tournament \"NOCTAMBULE\" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-1-1483835405 - Holdem no limit (50/100) - 2017/01/08 00:30:05 UTC";
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.EURO);
 		Assert.assertEquals(Double.valueOf(9), siteParsing.parseBuyIn(nextLine));
 		nextLine = "Winamax Poker - Tournament \"Freeroll\" buyIn: 0€ + 0€ level: 1 - HandId: #776053126703612144-1-1483812929 - Omaha pot limit (10/20) - 2017/01/07 18:15:29 UTC";
@@ -450,7 +442,7 @@ public class WinamaxParsingTest {
 	@Test
 	public void testParseBuyIn() {
 		String nextLine = "Winamax Poker - Tournament \"NOCTAMBULE\" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-1-1483835405 - Holdem no limit (50/100) - 2017/01/08 00:30:05 UTC";
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.EURO);
 		Assert.assertEquals(Double.valueOf(9), siteParsing.parseBuyIn(nextLine));
 		nextLine = "Winamax Poker - Tournament \"Freeroll\" buyIn: 0€ + 0€ level: 1 - HandId: #776053126703612144-1-1483812929 - Omaha pot limit (10/20) - 2017/01/07 18:15:29 UTC";
@@ -462,7 +454,7 @@ public class WinamaxParsingTest {
 	public void testParseFee() {
 		String nextLine = "Winamax Poker - Tournament \"NOCTAMBULE\" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-1-1483835405 - Holdem no limit (50/100) - 2017/01/08 00:30:05 UTC";
 
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.EURO);
 		Assert.assertEquals(Double.valueOf(1.0), siteParsing.parseFee(nextLine));
 		nextLine = "Winamax Poker - Tournament \"Freeroll\" buyIn: 0€ + 0€ level: 1 - HandId: #776053126703612144-1-1483812929 - Omaha pot limit (10/20) - 2017/01/07 18:15:29 UTC";
@@ -474,7 +466,7 @@ public class WinamaxParsingTest {
 	public void testParseHandIdSite() {
 		String nextLine = "Winamax Poker - Tournament \"NOCTAMBULE\" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-1-1483835405 - Holdem no limit (50/100) - 2017/01/08 00:30:05 UTC";
 
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.EURO);
 		Assert.assertEquals("776052078731591685-1", siteParsing.parseHandIdSite(nextLine));
 		nextLine = "Winamax Poker - Tournament \"Freeroll\" buyIn: 0€ + 0€ level: 1 - HandId: #776053126703612144-1-1483812929 - Omaha pot limit (10/20) - 2017/01/07 18:15:29 UTC";
@@ -485,7 +477,7 @@ public class WinamaxParsingTest {
 	@Test
 	public void testParseSmallBlind() {
 		String nextLine = "Winamax Poker - Tournament \"NOCTAMBULE\" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-1-1483835405 - Holdem no limit (50/100) - 2017/01/08 00:30:05 UTC";
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.EURO);
 		Assert.assertEquals(Double.valueOf(50), siteParsing.parseSmallBlind(nextLine));
 		nextLine = "Winamax Poker - Tournament \"Freeroll\" buyIn: 0€ + 0€ level: 1 - HandId: #776053126703612144-1-1483812929 - Omaha pot limit (10/20) - 2017/01/07 18:15:29 UTC";
@@ -495,7 +487,7 @@ public class WinamaxParsingTest {
 	@Test
 	public void testParseBigBlind() {
 		String nextLine = "Winamax Poker - Tournament \"NOCTAMBULE\" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-1-1483835405 - Holdem no limit (50/100) - 2017/01/08 00:30:05 UTC";
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.EURO);
 		Assert.assertEquals(Double.valueOf(100), siteParsing.parseBigBlind(nextLine));
 		nextLine = "Winamax Poker - Tournament \"Freeroll\" buyIn: 0€ + 0€ level: 1 - HandId: #776053126703612144-1-1483812929 - Omaha pot limit (10/20) - 2017/01/07 18:15:29 UTC";
@@ -505,7 +497,7 @@ public class WinamaxParsingTest {
 	@Test
 	public void testParseNumberOfPlayerByTable() {
 		String nextLine = "Table '945696315 1' 9-max Seat #1 is the button";
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.EURO);
 		Assert.assertEquals("9", siteParsing.parseNumberOfPlayerByTable(nextLine));
 		nextLine = "Table '939130332 1' 9-max Seat #1 is the button";
@@ -517,7 +509,7 @@ public class WinamaxParsingTest {
 
 		String nextLine = "Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #6 is the button";
 
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.EURO);
 		Assert.assertEquals("180688705", siteParsing.parseGameIdSite(nextLine));
 		nextLine = "Table: 'Freeroll(180688949)#0239' 6-max (real money) Seat #1 is the button";
@@ -528,7 +520,7 @@ public class WinamaxParsingTest {
 	@Test
 	public void testParseButtonSeat() {
 		String nextLine = "Table '945696315 1' 9-max Seat #1 is the button";
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.EURO);
 		Assert.assertEquals(Integer.valueOf(1), siteParsing.parseButtonSeat(nextLine));
 		nextLine = "Table '939130332 1' 9-max Seat #9 is the button";
@@ -540,7 +532,7 @@ public class WinamaxParsingTest {
 	@Test
 	public void testParsePlayerSeat() {
 		String nextLine = "Seat 1: Schmorbauner (19950)";
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCardroom(new Cardroom("Winamax", Domain.FR));
 		Assert.assertEquals("Schmorbauner", siteParsing.parsePlayerSeat(nextLine).getName());
 		nextLine = "Seat 5: n00bish (645465465465)";
@@ -597,7 +589,7 @@ public class WinamaxParsingTest {
 	@Test
 	public void testParseTotalPot() {
 		String nextLine = "Total pot 2150 | No rake";
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.EURO);
 		Assert.assertEquals(Double.valueOf(2150), siteParsing.parseTotalPot(nextLine));
 
@@ -606,7 +598,7 @@ public class WinamaxParsingTest {
 	@Test
 	public void testParseRake() {
 		String nextLine = "Total pot 2150 | No rake";
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.EURO);
 		Assert.assertEquals(Double.valueOf(0), siteParsing.parseRake(nextLine));
 
@@ -620,7 +612,7 @@ public class WinamaxParsingTest {
 
 	@Test
 	public void testGetGameTypeFromFilename() {
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.EURO);
 		String fileName = "20170107_NOCTAMBULE(180688705)_real_holdem_no-limit.txt";
 		Assert.assertEquals(GameType.TOURNAMENT, siteParsing.getGameTypeFromFilename(fileName));
@@ -632,7 +624,7 @@ public class WinamaxParsingTest {
 
 	@Test
 	public void testIsUselesLine() {
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.USD);
 
 		Assert.assertFalse(siteParsing.isUselesLine("will be allowed to play after the button"));
@@ -657,7 +649,7 @@ public class WinamaxParsingTest {
 	public void testParseHandDate() {
 		String nextLine = "Winamax Poker - Tournament \"NOCTAMBULE\" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-1-1483835405 - Holdem no limit (50/100) - 2017/01/08 00:30:05 UTC";
 
-		final ICardroomParser siteParsing = new WinamaxParsing(null);
+		final ICardroomParser siteParsing = new WinamaxParser(null);
 		Date date = siteParsing.parseHandDate(nextLine);
 		final Calendar calendar = Calendar.getInstance();
 		calendar.setTime(date);
@@ -683,7 +675,7 @@ public class WinamaxParsingTest {
 	public void testFileToMap() {
 
 		final File fichier = new File("./target/test-classes/20170107_NOCTAMBULE(180688705)_real_holdem_no-limit.txt");
-		final WinamaxParsing parser = new WinamaxParsing(fichier);
+		final WinamaxParser parser = new WinamaxParser(fichier);
 		parser.setCardroom(new Cardroom("Winamax", Domain.FR));
 		final Map<String, Hand> result = parser.parsing().getHands();
 
@@ -699,7 +691,7 @@ public class WinamaxParsingTest {
 	public void testParseCurrency() {
 
 		String nextLine = "Winamax Poker - Tournament \"NOCTAMBULE\" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-1-1483835405 - Holdem no limit (50/100) - 2017/01/08 00:30:05 UTC";
-		final WinamaxParsing parser = new WinamaxParsing(null);
+		final WinamaxParser parser = new WinamaxParser(null);
 		Assert.assertEquals(Currency.EURO, parser.parseCurrency(nextLine));
 
 		nextLine = "Winamax Poker - Tournament \"Freeroll\" buyIn: 0€ + 0€ level: 1 - HandId: #776053126703612144-1-1483812929 - Omaha pot limit (10/20) - 2017/01/07 18:15:29 UTC";

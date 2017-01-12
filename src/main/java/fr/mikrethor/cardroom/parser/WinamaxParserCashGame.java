@@ -19,15 +19,15 @@ import fr.mikrethor.cardroom.pojo.InfoSession;
  * @author Thor
  * 
  */
-public class WinamaxParsingCashGame extends WinamaxParsing implements ICardroomParser {
-	public WinamaxParsingCashGame(File fileToParse) {
+public class WinamaxParserCashGame extends WinamaxParser implements ICardroomParser {
+	public WinamaxParserCashGame(File fileToParse) {
 		super(fileToParse);
 	}
 
 	/**
 	 * LOGGER.
 	 */
-	private static final Logger LOGGER = LoggerFactory.getLogger(WinamaxParsingCashGame.class);
+	private static final Logger LOGGER = LoggerFactory.getLogger(WinamaxParserCashGame.class);
 
 	@Override
 	public String parseNewHandLine(String nextLine, Scanner input, String phase, String[] nextPhases, InfoSession game,

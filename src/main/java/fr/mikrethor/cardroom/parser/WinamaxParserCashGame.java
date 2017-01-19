@@ -27,7 +27,7 @@ public class WinamaxParserCashGame extends WinamaxParser implements ICardroomPar
 	/**
 	 * LOGGER.
 	 */
-	private static final Logger LOGGER = LoggerFactory.getLogger(WinamaxParserCashGame.class);
+	private static final Logger LOGGER = LoggerFactory.getLogger(WinamaxParserCashGameTest.class);
 
 	@Override
 	public String parseNewHandLine(String nextLine, Scanner input, String phase, String[] nextPhases, InfoSession game,

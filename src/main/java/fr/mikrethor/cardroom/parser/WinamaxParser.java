@@ -79,10 +79,7 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 		Card[] main = null;
 
 		for (int i = 0; i < tab.length; i++) {
-			if (EAction.FOLDS.getValue().equals(tab[i]) || EAction.CALLS.getValue().equals(tab[i])
-					|| EAction.RAISES.getValue().equals(tab[i]) || EAction.CHECKS.getValue().equals(tab[i])
-					|| EAction.COLLECTED.getValue().equals(tab[i]) || EAction.BETS.getValue().equals(tab[i])
-					|| EAction.SHOWS.getValue().equals(tab[i])) {
+			if (isAction(tab[i])) {
 				joueur = "";
 				action = tab[i];
 				if (EAction.CALLS.getValue().equals(tab[i]) || EAction.RAISES.getValue().equals(tab[i])
@@ -129,32 +126,29 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 		Hand hand = null;
 		final InfoSession infoSession = new InfoSession();
 		infoSession.setCardRoom(cardRoom);
-		// Map<String, Hand> hands = new HashMap<String, Hand>();
 		boolean firstIteration = true;
 
 		while (input.hasNext()) {
-			// Sinon le parsing ne fonctionne pas
+			// detect first iteration
 			if (firstIteration) {
 				currentLine = input.nextLine();
 				firstIteration = false;
 			}
 
-			// Demarrage de la lecture d'une main
+			// Start hand reading
 			if (currentLine.startsWith(NEW_HAND)) {
 				hand = new Hand();
 
 				currentLine = parseNewHandLine(currentLine, input, NEW_HAND, null, infoSession, hand);
 			}
-			// Passage a la ligne suivante pour les infos TABLE (evite les tours
-			// de boucle inutiles)
+			// Go to next line to parse table line
 			currentLine = input.nextLine();
 
 			currentLine = parseTableLine(currentLine, input, TABLE, null, infoSession, hand);
-			// Passage a la ligne suivante pour les infos SEAT(evite les tours
-			// de boucle inutiles)
+			// Go to next line to parse seats
 			currentLine = input.nextLine();
 
-			// Remise � off des joueurs
+			// Set player to off
 			for (final Player playerTemp : infoSession.getPlayers().values()) {
 				playerTemp.setOn(false);
 				if (LOGGER.isDebugEnabled()) {
@@ -162,23 +156,24 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 				}
 			}
 
-			// TODO prendre en compte le siege favoris (affichage)
-			// Attention a bien positionnela lecture des seat
+			// Seats reading
 			currentLine = parseSeatLine(currentLine, input, SEAT, new String[] { ANTE_BLIND }, infoSession, hand);
 
+			// Parsing antes and blinds
 			currentLine = parseAntesAndBlinds(currentLine, input, ANTE_BLIND, new String[] { PRE_FLOP, SUMMARY },
 					infoSession, hand);
 
+			// Preflop reading
 			currentLine = parsePreflop(currentLine, input, hand);
-
+			// Flop reading
 			currentLine = parseFlop(currentLine, input, hand);
-
+			// Turn reading
 			currentLine = parseTurn(currentLine, input, hand);
-
+			// River reading
 			currentLine = parseRiver(currentLine, input, hand);
-
+			// Showdown reading
 			currentLine = parseShowdown(currentLine, input, hand);
-
+			// Summary reading
 			currentLine = parseSummary(currentLine, input, infoSession, SUMMARY, new String[] { NEW_HAND }, hand);
 
 		}
@@ -197,46 +192,47 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 
 		}
 		if (nextL.startsWith(phase)) {
-			// Demarrage de la lecture de la phase
+			// Start reading
 			while (input.hasNext()) {
 				nextL = input.nextLine();
-				// Check si on tombe sur la prochaine phase
+				// Check when next phase occurs
 				if (startsWith(nextL, nextPhases)) {
 					break;
 				} else {
-					// Ajout des actions ela phase dans le HanDTO
+					// Adding action to hand
 					final Action action = this.parseAction(nextL, hand.getPlayersByName());
-
-					Round round = null;
-
-					switch (phase) {
-					case PRE_FLOP:
-						round = Round.PRE_FLOP;
-						break;
-					case FLOP:
-						round = Round.FLOP;
-						break;
-					case TURN:
-						round = Round.TURN;
-						break;
-					case RIVER:
-						round = Round.RIVER;
-						break;
-					case SHOW_DOWN:
-						round = Round.SHOWDOWN;
-						break;
-					default:
-						round = null;
-					}
-					action.setPhase(round);
+					action.setPhase(determineRound(phase));
 					actions.add(action);
 				}
 			}
-
 		}
 		// Retourne le nextLine pour pouvoir continuer l'itteration du scanner
 		// comme il faut.
 		return nextL;
+	}
+
+	private boolean isAction(String parsedAction) {
+		return EAction.FOLDS.getValue().equals(parsedAction) || EAction.CALLS.getValue().equals(parsedAction)
+				|| EAction.RAISES.getValue().equals(parsedAction) || EAction.CHECKS.getValue().equals(parsedAction)
+				|| EAction.COLLECTED.getValue().equals(parsedAction) || EAction.BETS.getValue().equals(parsedAction)
+				|| EAction.SHOWS.getValue().equals(parsedAction);
+	}
+
+	private Round determineRound(String phase) {
+		switch (phase) {
+		case PRE_FLOP:
+			return Round.PRE_FLOP;
+		case FLOP:
+			return Round.FLOP;
+		case TURN:
+			return Round.TURN;
+		case RIVER:
+			return Round.RIVER;
+		case SHOW_DOWN:
+			return Round.SHOWDOWN;
+		default:
+			return null;
+		}
 	}
 
 	@Override

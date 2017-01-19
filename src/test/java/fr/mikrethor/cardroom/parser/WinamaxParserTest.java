@@ -191,12 +191,10 @@ public class WinamaxParserTest {
 		// Pas de river dans le fichier
 		final Card river = main1.getRiver();
 		Assert.assertEquals(Card.C_6D, river);
-		//
-		// Assert.assertEquals(Double.valueOf(50),
-		// Double.valueOf(main1.getTotalPot()));
-		//
-		// Assert.assertEquals(Integer.valueOf(9),
-		// Integer.valueOf(main1.getPreflopActions().size()));
+
+		Assert.assertEquals(Double.valueOf(9300), Double.valueOf(main1.getTotalPot()));
+
+		Assert.assertEquals(Integer.valueOf(6), Integer.valueOf(main1.getPreflopActions().size()));
 		//
 		// final List<Action> listPreFlopActions = main1.getPreflopActions();
 		//

@@ -193,9 +193,7 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 		}
 		if (nextL.startsWith(phase)) {
 			if (phase.equals(FLOP) || phase.equals(TURN) || phase.equals(RIVER)) {
-				String phaseCards = nextL.substring(nextL.lastIndexOf(OPENNING_SQUARE_BRACKET) + 1,
-						nextL.lastIndexOf(CLOSING_SQUARE_BRACKET));
-				LOGGER.debug("Lecture des cartes : {}", phaseCards);
+
 				if (phase.equals(FLOP)) {
 					hand.setFlop(parseCards(nextL));
 				}

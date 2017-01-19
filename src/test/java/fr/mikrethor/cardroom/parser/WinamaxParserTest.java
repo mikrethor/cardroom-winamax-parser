@@ -3,6 +3,7 @@ package fr.mikrethor.cardroom.parser;
 import java.io.File;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.List;
 import java.util.Map;
 
 import org.junit.Assert;
@@ -11,7 +12,9 @@ import org.junit.Test;
 import fr.mikrethor.cardroom.enums.Card;
 import fr.mikrethor.cardroom.enums.Currency;
 import fr.mikrethor.cardroom.enums.Domain;
+import fr.mikrethor.cardroom.enums.EAction;
 import fr.mikrethor.cardroom.enums.GameType;
+import fr.mikrethor.cardroom.pojo.Action;
 import fr.mikrethor.cardroom.pojo.Cardroom;
 import fr.mikrethor.cardroom.pojo.Hand;
 import fr.mikrethor.cardroom.pojo.Player;
@@ -69,46 +72,6 @@ public class WinamaxParserTest {
 	@Test
 	public void parsingSNGFile() {
 		final String fileName = "./target/test-classes/20170107_NOCTAMBULE(180688705)_real_holdem_no-limit.txt";
-
-		// Winamax Poker - Tournament "NOCTAMBULE" buyIn: 9€ + 1€ level: 1 -
-		// HandId: #776052078731591685-3-1483835526 - Holdem no limit (50/100) -
-		// 2017/01/08 00:32:06 UTC
-		// Table: 'NOCTAMBULE(180688705)#004' 6-max (real money) Seat #2 is the
-		// button
-		// Seat 1: Schmorbauner (19950)
-		// Seat 2: Gogo yubari (19850)
-		// Seat 3: Brocoline (23050)
-		// Seat 4: ...Thor... (19150)
-		// Seat 5: Dad-Soon (16700)
-		// Seat 6: iLoveFederer (21300)
-		// *** ANTE/BLINDS ***
-		// Brocoline posts small blind 50
-		// ...Thor... posts big blind 100
-		// Dealt to ...Thor... [3d Kc]
-		// *** PRE-FLOP ***
-		// Dad-Soon raises 100 to 200
-		// iLoveFederer folds
-		// Schmorbauner folds
-		// Gogo yubari folds
-		// Brocoline calls 150
-		// ...Thor... folds
-		// *** FLOP *** [5s 9h 5h]
-		// Brocoline checks
-		// Dad-Soon bets 250
-		// Brocoline calls 250
-		// *** TURN *** [5s 9h 5h][Qc]
-		// Brocoline checks
-		// Dad-Soon bets 1000
-		// Brocoline raises 1000 to 2000
-		// Dad-Soon calls 1000
-		// *** RIVER *** [5s 9h 5h Qc][6d]
-		// Brocoline bets 4300
-		// Dad-Soon folds
-		// Brocoline collected 9300 from pot
-		// *** SUMMARY ***
-		// Total pot 9300 | No rake
-		// Board: [5s 9h 5h Qc 6d]
-		// Seat 3: Brocoline (small blind) won 9300
 
 		final File file = new File(fileName);
 		final WinamaxParser siteParsing = new WinamaxParser(file);
@@ -195,84 +158,66 @@ public class WinamaxParserTest {
 		Assert.assertEquals(Double.valueOf(9300), Double.valueOf(main1.getTotalPot()));
 
 		Assert.assertEquals(Integer.valueOf(6), Integer.valueOf(main1.getPreflopActions().size()));
-		//
-		// final List<Action> listPreFlopActions = main1.getPreflopActions();
-		//
-		// Assert.assertEquals(polo21544,
-		// listPreFlopActions.get(0).getPlayer());
-		// Assert.assertEquals(EAction.FOLDS,
-		// listPreFlopActions.get(0).getAction());
-		// Assert.assertEquals(backsidair,
-		// listPreFlopActions.get(1).getPlayer());
-		// Assert.assertEquals(EAction.FOLDS,
-		// listPreFlopActions.get(1).getAction());
-		// Assert.assertEquals(nivekash, listPreFlopActions.get(2).getPlayer());
-		// Assert.assertEquals(EAction.FOLDS,
-		// listPreFlopActions.get(2).getAction());
-		// Assert.assertEquals(mikrethor,
-		// listPreFlopActions.get(3).getPlayer());
-		// Assert.assertEquals(EAction.FOLDS,
-		// listPreFlopActions.get(3).getAction());
-		// Assert.assertEquals(bakoly, listPreFlopActions.get(4).getPlayer());
-		// Assert.assertEquals(EAction.FOLDS,
-		// listPreFlopActions.get(4).getAction());
-		// Assert.assertEquals(misterwill8,
-		// listPreFlopActions.get(5).getPlayer());
-		// Assert.assertEquals(EAction.CALLS,
-		// listPreFlopActions.get(5).getAction());
-		// Assert.assertEquals(dragoonnhead,
-		// listPreFlopActions.get(6).getPlayer());
-		// Assert.assertEquals(EAction.FOLDS,
-		// listPreFlopActions.get(6).getAction());
-		// Assert.assertEquals(sirius369,
-		// listPreFlopActions.get(7).getPlayer());
-		// Assert.assertEquals(EAction.FOLDS,
-		// listPreFlopActions.get(7).getAction());
-		// Assert.assertEquals(acrisdu11,
-		// listPreFlopActions.get(8).getPlayer());
-		// Assert.assertEquals(EAction.CHECKS,
-		// listPreFlopActions.get(8).getAction());
-		//
-		// Assert.assertEquals(Integer.valueOf(4),
-		// Integer.valueOf(main1.getFlopActions().size()));
-		//
-		// final List<Action> listFlopActions = main1.getFlopActions();
-		//
-		// Assert.assertEquals(acrisdu11, listFlopActions.get(0).getPlayer());
-		// Assert.assertEquals(EAction.CHECKS,
-		// listFlopActions.get(0).getAction());
-		// Assert.assertEquals(misterwill8, listFlopActions.get(1).getPlayer());
-		// Assert.assertEquals(EAction.BETS,
-		// listFlopActions.get(1).getAction());
-		// Assert.assertEquals(acrisdu11, listFlopActions.get(2).getPlayer());
-		// Assert.assertEquals(EAction.FOLDS,
-		// listFlopActions.get(2).getAction());
-		// Assert.assertEquals(misterwill8, listFlopActions.get(3).getPlayer());
-		// Assert.assertEquals(EAction.COLLECTED,
-		// listFlopActions.get(3).getAction());
-		//
-		// Assert.assertEquals(Integer.valueOf(0),
-		// Integer.valueOf(main1.getTurnActions().size()));
-		// Assert.assertEquals(Integer.valueOf(0),
-		// Integer.valueOf(main1.getRiverActions().size()));
-		// Assert.assertEquals(Integer.valueOf(0),
-		// Integer.valueOf(main1.getShowdownActions().size()));
-		//
-		// handId = "103357830872";
-		// main1 = hands.get(handId);
-		//
-		// Card[] cards = main1.getMapPlayerCards().get("mikrethor");
-		// Assert.assertEquals(Card.C_2S, cards[0]);
-		// Assert.assertEquals(Card.C_7C, cards[1]);
-		//
-		// cards = main1.getMapPlayerCards().get("dragoonnhead");
-		// Assert.assertEquals(Card.C_6D, cards[0]);
-		// Assert.assertEquals(Card.C_7S, cards[1]);
-		//
-		// cards = main1.getMapPlayerCards().get("misterwill8");
-		// Assert.assertEquals(Card.C_JD, cards[0]);
-		// Assert.assertEquals(Card.C_4D, cards[1]);
 
+		final List<Action> listPreFlopActions = main1.getPreflopActions();
+
+		Assert.assertEquals(dadsoon, listPreFlopActions.get(0).getPlayer());
+		Assert.assertEquals(EAction.RAISES, listPreFlopActions.get(0).getAction());
+		Assert.assertEquals(Double.valueOf(100), Double.valueOf(listPreFlopActions.get(0).getMontant()));
+
+		Assert.assertEquals(iLoveFederer, listPreFlopActions.get(1).getPlayer());
+		Assert.assertEquals(EAction.FOLDS, listPreFlopActions.get(1).getAction());
+
+		Assert.assertEquals(schmorbauner, listPreFlopActions.get(2).getPlayer());
+		Assert.assertEquals(EAction.FOLDS, listPreFlopActions.get(2).getAction());
+
+		Assert.assertEquals(gogoyubari, listPreFlopActions.get(3).getPlayer());
+		Assert.assertEquals(EAction.FOLDS, listPreFlopActions.get(3).getAction());
+
+		Assert.assertEquals(brocoline, listPreFlopActions.get(4).getPlayer());
+		Assert.assertEquals(EAction.CALLS, listPreFlopActions.get(4).getAction());
+		Assert.assertEquals(Double.valueOf(150), Double.valueOf(listPreFlopActions.get(4).getMontant()));
+
+		Assert.assertEquals(thor, listPreFlopActions.get(5).getPlayer());
+		Assert.assertEquals(EAction.FOLDS, listPreFlopActions.get(5).getAction());
+
+		Assert.assertEquals(Integer.valueOf(3), Integer.valueOf(main1.getFlopActions().size()));
+
+		final List<Action> listFlopActions = main1.getFlopActions();
+
+		Assert.assertEquals(brocoline, listFlopActions.get(0).getPlayer());
+		Assert.assertEquals(EAction.CHECKS, listFlopActions.get(0).getAction());
+		Assert.assertEquals(dadsoon, listFlopActions.get(1).getPlayer());
+		Assert.assertEquals(EAction.BETS, listFlopActions.get(1).getAction());
+		Assert.assertEquals(brocoline, listFlopActions.get(2).getPlayer());
+		Assert.assertEquals(EAction.CALLS, listFlopActions.get(2).getAction());
+
+		Assert.assertEquals(Integer.valueOf(4), Integer.valueOf(main1.getTurnActions().size()));
+
+		final List<Action> listTurnActions = main1.getTurnActions();
+
+		Assert.assertEquals(brocoline, listTurnActions.get(0).getPlayer());
+		Assert.assertEquals(EAction.CHECKS, listTurnActions.get(0).getAction());
+		Assert.assertEquals(dadsoon, listTurnActions.get(1).getPlayer());
+		Assert.assertEquals(EAction.BETS, listTurnActions.get(1).getAction());
+		Assert.assertEquals(brocoline, listTurnActions.get(2).getPlayer());
+		Assert.assertEquals(EAction.RAISES, listTurnActions.get(2).getAction());
+		Assert.assertEquals(dadsoon, listTurnActions.get(3).getPlayer());
+		Assert.assertEquals(EAction.CALLS, listTurnActions.get(3).getAction());
+
+		Assert.assertEquals(Integer.valueOf(3), Integer.valueOf(main1.getRiverActions().size()));
+
+		final List<Action> listRiverActions = main1.getRiverActions();
+
+		Assert.assertEquals(brocoline, listRiverActions.get(0).getPlayer());
+		Assert.assertEquals(EAction.BETS, listRiverActions.get(0).getAction());
+		Assert.assertEquals(dadsoon, listRiverActions.get(1).getPlayer());
+		Assert.assertEquals(EAction.FOLDS, listRiverActions.get(1).getAction());
+		Assert.assertEquals(brocoline, listRiverActions.get(2).getPlayer());
+		Assert.assertEquals(EAction.COLLECTED, listRiverActions.get(2).getAction());
+		Assert.assertEquals(Double.valueOf(9300), Double.valueOf(listRiverActions.get(2).getMontant()));
+
+		Assert.assertEquals(Integer.valueOf(0), Integer.valueOf(main1.getShowdownActions().size()));
 	}
 
 	@Test

@@ -49,12 +49,6 @@ public class WinamaxParserTest {
 
 	}
 
-	@Test
-	public void testGetPlayerBlind() {
-		// TODO Auto-generated method stub
-
-	}
-
 	private void assertStringTab(String[] expected, String[] actual) {
 		Assert.assertEquals(expected.length, actual.length);
 		for (int index = 0; index < expected.length; index++) {
@@ -80,13 +74,10 @@ public class WinamaxParserTest {
 
 		Assert.assertEquals(true, file.exists());
 		Assert.assertEquals(true, file.isFile());
-		// Parsing
-		final long debut = System.currentTimeMillis();
 
 		hands = siteParsing.parse();
 
 		Assert.assertNotNull(hands);
-		final long fin = System.currentTimeMillis();
 
 		Assert.assertEquals(112, hands.values().size());
 		// Check fisrt hand
@@ -245,48 +236,6 @@ public class WinamaxParserTest {
 	}
 
 	@Test
-
-	public void testParse() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-
-	public void testReadCards() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-
-	public void testRead() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-
-	public void testParseable() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-
-	public void testNextLine() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-
-	public void testGetTournamentId() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
 	public void testSetDevise() {
 		String nextLine = "Winamax Poker - Tournament \"NOCTAMBULE\" buyIn: 9€ + 1€ level: 1 - HandId: #776052078731591685-1-1483835405 - Holdem no limit (50/100) - 2017/01/08 00:30:05 UTC";
 		final ICardroomParser siteParsing = new WinamaxParser(null);
@@ -300,78 +249,6 @@ public class WinamaxParserTest {
 		} catch (Exception e) {
 			// AN error occur when the devise is not the one of the file parsed
 		}
-	}
-
-	@Test
-	public void testParsing() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-	public void testReadActionsByPhase() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-	public void testReadNewHand() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-	public void testReadTable() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-	public void testReadSeats() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-	public void testReadPreflop() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-	public void testReadFlop() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-	public void testReadTurn() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-	public void testReadRiver() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-	public void testReadShowdown() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-	public void testReadSummary() {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Test
-	public void testReadAntesBlinds() {
-		// TODO Auto-generated method stub
-
 	}
 
 	@Test
@@ -474,52 +351,6 @@ public class WinamaxParserTest {
 		Assert.assertEquals("n00bish", siteParsing.parsePlayerSeat(nextLine).getName());
 
 	}
-
-	// @Test
-	// public void testParsePlayerSummary() {
-	// String nextLine = "Seat 1: dragoonnhead (big blind) mucked [6d 7s]";
-	//
-	// final WinamaxParsing siteParsing = new WinamaxParsing(null);
-	//
-	// Player player = siteParsing.parsePlayerSummary(nextLine);
-	// Assert.assertEquals("dragoonnhead", player.getName());
-	// Assert.assertEquals(Integer.valueOf(1), player.getSeat());
-	// Assert.assertEquals(Card.C_6D, player.getCards()[0]);
-	// Assert.assertEquals(Card.C_7S, player.getCards()[1]);
-	//
-	// nextLine = "Seat 3: acrisdu11 folded before Flop (didn't bet)";
-	// player = siteParsing.parsePlayerSummary(nextLine);
-	// Assert.assertEquals("acrisdu11", player.getName());
-	// Assert.assertEquals(Integer.valueOf(3), player.getSeat());
-	// Assert.assertNull(player.getCards());
-	//
-	// nextLine = "Seat 5: backsidair folded before Flop (didn't bet)";
-	// player = siteParsing.parsePlayerSummary(nextLine);
-	// Assert.assertEquals("backsidair", player.getName());
-	// Assert.assertEquals(Integer.valueOf(5), player.getSeat());
-	// Assert.assertNull(player.getCards());
-	//
-	// nextLine = "Seat 6: nivekash folded before Flop (didn't bet)";
-	// player = siteParsing.parsePlayerSummary(nextLine);
-	// Assert.assertEquals("nivekash", player.getName());
-	// Assert.assertEquals(Integer.valueOf(6), player.getSeat());
-	// Assert.assertNull(player.getCards());
-	//
-	// nextLine = "Seat 7: mikrethor (button) folded before Flop (didn't bet)";
-	// player = siteParsing.parsePlayerSummary(nextLine);
-	// Assert.assertEquals("mikrethor", player.getName());
-	// Assert.assertEquals(Integer.valueOf(7), player.getSeat());
-	// Assert.assertNull(player.getCards());
-	//
-	// nextLine = "Seat 9: misterwill8 (small blind) showed [Jd 4d] and won
-	// (200) with high card Ace";
-	// player = siteParsing.parsePlayerSummary(nextLine);
-	// Assert.assertEquals("misterwill8", player.getName());
-	// Assert.assertEquals(Integer.valueOf(9), player.getSeat());
-	// Assert.assertEquals(Card.C_JD, player.getCards()[0]);
-	// Assert.assertEquals(Card.C_4D, player.getCards()[1]);
-	//
-	// }
 
 	@Test
 	public void testParseTotalPot() {

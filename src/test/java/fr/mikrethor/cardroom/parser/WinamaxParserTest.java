@@ -3,7 +3,6 @@ package fr.mikrethor.cardroom.parser;
 import java.io.File;
 import java.util.Calendar;
 import java.util.Date;
-import java.util.List;
 import java.util.Map;
 
 import org.junit.Assert;
@@ -12,9 +11,7 @@ import org.junit.Test;
 import fr.mikrethor.cardroom.enums.Card;
 import fr.mikrethor.cardroom.enums.Currency;
 import fr.mikrethor.cardroom.enums.Domain;
-import fr.mikrethor.cardroom.enums.EAction;
 import fr.mikrethor.cardroom.enums.GameType;
-import fr.mikrethor.cardroom.pojo.Action;
 import fr.mikrethor.cardroom.pojo.Cardroom;
 import fr.mikrethor.cardroom.pojo.Hand;
 import fr.mikrethor.cardroom.pojo.Player;
@@ -173,20 +170,18 @@ public class WinamaxParserTest {
 
 		Assert.assertEquals(thor, main1.getBigBlindPlayer());
 		Assert.assertEquals(brocoline, main1.getSmallBlindPlayer());
-		// Assert.assertEquals(thor, main1.getDealerPlayer());
-		// Assert.assertEquals(mikrethor, main1.getPlayer());
-		//
-		// Assert.assertEquals("1", main1.getIdTable());
-		// Assert.assertEquals(Double.valueOf(0),
-		// Double.valueOf(main1.getRake()));
-		//
-		// Assert.assertEquals(Integer.valueOf(1),
-		// Integer.valueOf(main1.getLevel()));
+		Assert.assertEquals(thor, main1.getPlayer());
+		Assert.assertEquals(gogoyubari, main1.getDealerPlayer());
+		
+
+		Assert.assertEquals("004", main1.getIdTable());
+		Assert.assertEquals(Double.valueOf(0), Double.valueOf(main1.getRake()));
+
+		Assert.assertEquals(Integer.valueOf(1), Integer.valueOf(main1.getLevel()));
 
 		// [8c 8d Qd]
 		// final Card[] flop = main1.getFlop();
-		// Assert.assertEquals(new WinamaxParsing(null).stringToECards("8c"),
-		// flop[0]);
+		// Assert.assertEquals(siteParsing.stringToECards("8c"), flop[0]);
 		// Assert.assertEquals(new WinamaxParsing(null).stringToECards("8d"),
 		// flop[1]);
 		// Assert.assertEquals(new WinamaxParsing(null).stringToECards("Qd"),

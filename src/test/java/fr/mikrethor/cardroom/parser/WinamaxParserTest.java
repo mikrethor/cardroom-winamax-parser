@@ -172,28 +172,25 @@ public class WinamaxParserTest {
 		Assert.assertEquals(brocoline, main1.getSmallBlindPlayer());
 		Assert.assertEquals(thor, main1.getPlayer());
 		Assert.assertEquals(gogoyubari, main1.getDealerPlayer());
-		
 
 		Assert.assertEquals("004", main1.getIdTable());
 		Assert.assertEquals(Double.valueOf(0), Double.valueOf(main1.getRake()));
 
 		Assert.assertEquals(Integer.valueOf(1), Integer.valueOf(main1.getLevel()));
 
-		// [8c 8d Qd]
-		// final Card[] flop = main1.getFlop();
-		// Assert.assertEquals(siteParsing.stringToECards("8c"), flop[0]);
-		// Assert.assertEquals(new WinamaxParsing(null).stringToECards("8d"),
-		// flop[1]);
-		// Assert.assertEquals(new WinamaxParsing(null).stringToECards("Qd"),
-		// flop[2]);
+		// [5s 9h 5h]
+		final Card[] flop = main1.getFlop();
+		Assert.assertEquals(siteParsing.stringToECards("5s"), flop[0]);
+		Assert.assertEquals(new WinamaxParser(null).stringToECards("9h"), flop[1]);
+		Assert.assertEquals(new WinamaxParser(null).stringToECards("5h"), flop[2]);
 
 		// Pas de turn dans le fichier
 		final Card turn = main1.getTurn();
-		// Assert.assertEquals(null, turn);
+		Assert.assertEquals(Card.C_QC, turn);
 
 		// Pas de river dans le fichier
 		final Card river = main1.getRiver();
-		// Assert.assertEquals(null, river);
+		Assert.assertEquals(Card.C_6D, river);
 		//
 		// Assert.assertEquals(Double.valueOf(50),
 		// Double.valueOf(main1.getTotalPot()));

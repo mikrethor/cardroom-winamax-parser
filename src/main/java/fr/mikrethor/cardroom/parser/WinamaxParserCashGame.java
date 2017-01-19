@@ -44,6 +44,7 @@ public class WinamaxParserCashGame extends WinamaxParser implements ICardroomPar
 			final Date handDate = parseHandDate(nextLine);
 			hand.setDate(handDate.getTime());
 			hand.setLabel(handId);
+			hand.setId(handId);
 			game.setBuyIn(buy + fee);
 			game.setFee(fee);
 			// Pas de level en cash game

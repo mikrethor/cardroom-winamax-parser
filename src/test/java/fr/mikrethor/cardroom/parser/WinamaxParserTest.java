@@ -81,7 +81,7 @@ public class WinamaxParserTest {
 
 		Assert.assertEquals(112, hands.values().size());
 		// Check fisrt hand
-		String handId = "776052078731591685-3";
+		String handId = "776052078731591685-3-1483835526";
 		Hand main1 = hands.get(handId);
 		Assert.assertEquals(6, main1.getNbPlayersOnOneTable());
 
@@ -280,10 +280,10 @@ public class WinamaxParserTest {
 
 		final ICardroomParser siteParsing = new WinamaxParser(null);
 		siteParsing.setCurrency(Currency.EURO);
-		Assert.assertEquals("776052078731591685-1", siteParsing.parseHandIdSite(nextLine));
+		Assert.assertEquals("776052078731591685-1-1483835405", siteParsing.parseHandIdSite(nextLine));
 		nextLine = "Winamax Poker - Tournament \"Freeroll\" buyIn: 0€ + 0€ level: 1 - HandId: #776053126703612144-1-1483812929 - Omaha pot limit (10/20) - 2017/01/07 18:15:29 UTC";
 
-		Assert.assertEquals("776053126703612144-1", siteParsing.parseHandIdSite(nextLine));
+		Assert.assertEquals("776053126703612144-1-1483812929", siteParsing.parseHandIdSite(nextLine));
 	}
 
 	@Test
@@ -447,9 +447,9 @@ public class WinamaxParserTest {
 
 		Assert.assertEquals(112, result.size());
 
-		final Hand hand = result.get("776052078731591685-2");
+		final Hand hand = result.get("776052078731591685-2-1483835484");
 		Assert.assertNotNull("Hand not found", hand);
-		Assert.assertEquals("776052078731591685-2", hand.getLabel());
+		Assert.assertEquals("776052078731591685-2-1483835484", hand.getLabel());
 		Assert.assertEquals(1, hand.getLevel());
 	}
 

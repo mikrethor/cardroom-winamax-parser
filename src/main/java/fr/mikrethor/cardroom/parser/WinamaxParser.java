@@ -552,7 +552,7 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 	@Override
 	public String parseHandIdSite(String chaine) {
 		final int startPosition = chaine.indexOf(HANDID_HASHTAG) + HANDID_HASHTAG.length();
-		final int endPosition = chaine.indexOf(DASH,
+		final int endPosition = chaine.indexOf(SPACE + DASH + SPACE,
 				chaine.indexOf(DASH, chaine.indexOf(HANDID_HASHTAG) + HANDID_HASHTAG.length()) + 1);
 		return chaine.substring(startPosition, endPosition);
 	}

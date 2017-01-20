@@ -113,6 +113,8 @@ public class WinamaxParserCashGameTest {
 		Assert.assertEquals("Moronar", riverActions.get(2).getPlayer().getName());
 		Assert.assertEquals(EAction.COLLECTED, riverActions.get(2).getAction());
 		Assert.assertEquals(Double.valueOf(0.74), Double.valueOf(riverActions.get(2).getMontant()));
+		
+		Assert.assertEquals(0,hand.getShowdownActions().size());
 	}
 
 }

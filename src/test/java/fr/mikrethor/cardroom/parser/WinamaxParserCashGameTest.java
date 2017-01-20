@@ -1,13 +1,17 @@
 package fr.mikrethor.cardroom.parser;
 
 import java.io.File;
+import java.util.List;
 import java.util.Map;
 
 import org.junit.Assert;
 import org.junit.Test;
 
+import fr.mikrethor.cardroom.enums.Card;
 import fr.mikrethor.cardroom.enums.Currency;
 import fr.mikrethor.cardroom.enums.Domain;
+import fr.mikrethor.cardroom.enums.EAction;
+import fr.mikrethor.cardroom.pojo.Action;
 import fr.mikrethor.cardroom.pojo.Cardroom;
 import fr.mikrethor.cardroom.pojo.Hand;
 
@@ -37,40 +41,78 @@ public class WinamaxParserCashGameTest {
 		Assert.assertEquals(Currency.EURO, hand.getCurrency());
 		Assert.assertEquals(siteParsing.getCardroom(), hand.getCardRoom());
 
-	}
+		Assert.assertEquals(Double.valueOf(0.74), Double.valueOf(hand.getTotalPot()));
+		Assert.assertEquals(Double.valueOf(0.03), Double.valueOf(hand.getRake()));
 
-	// Winamax Poker - CashGame - HandId: #9401942-10906-1483851372 - Holdem no
-	// limit (0.01€/0.02€) - 2017/01/08 04:56:12 UTC
-	// Table: 'Nice' 5-max (real money) Seat #5 is the button
-	// Seat 1: bilboquets (5€)
-	// Seat 2: papynelson08 (1.18€)
-	// Seat 3: ...Thor... (2.06€)
-	// Seat 4: Moronar (2.30€)
-	// Seat 5: n00bish (3.03€)
-	// *** ANTE/BLINDS ***
-	// bilboquets posts small blind 0.01€
-	// ...Thor... posts big blind 0.02€
-	// Dealt to ...Thor... [Ts 6d]
-	// *** PRE-FLOP ***
-	// Moronar calls 0.02€
-	// n00bish raises 0.08€ to 0.10€
-	// bilboquets folds
-	// ...Thor... folds
-	// Moronar calls 0.08€
-	// *** FLOP *** [Qc Kd 5d]
-	// Moronar checks
-	// n00bish bets 0.15€
-	// Moronar calls 0.15€
-	// *** TURN *** [Qc Kd 5d][7d]
-	// Moronar checks
-	// n00bish checks
-	// *** RIVER *** [Qc Kd 5d 7d][7s]
-	// Moronar bets 0.24€
-	// n00bish folds
-	// Moronar collected 0.74€ from pot
-	// *** SUMMARY ***
-	// Total pot 0.74€ | Rake 0.03€
-	// Board: [Qc Kd 5d 7d 7s]
-	// Seat 4: Moronar won 0.74€
+		Assert.assertEquals("...Thor...", hand.getBigBlindPlayer().getName());
+		Assert.assertEquals("bilboquets", hand.getSmallBlindPlayer().getName());
+		Assert.assertEquals("...Thor...", hand.getPlayer().getName());
+		Assert.assertEquals("n00bish", hand.getDealerPlayer().getName());
+
+		final Card[] flop = hand.getFlop();
+		Assert.assertEquals(siteParsing.stringToECards("Qc"), flop[0]);
+		Assert.assertEquals(new WinamaxParser(null).stringToECards("Kd"), flop[1]);
+		Assert.assertEquals(new WinamaxParser(null).stringToECards("5d"), flop[2]);
+
+		final Card turn = hand.getTurn();
+		Assert.assertEquals(siteParsing.stringToECards("7d"), turn);
+
+		final Card river = hand.getRiver();
+		Assert.assertEquals(siteParsing.stringToECards("7s"), river);
+
+		List<Action> preflopActions = hand.getPreflopActions();
+		Assert.assertEquals(5, preflopActions.size());
+
+		Assert.assertEquals("Moronar", preflopActions.get(0).getPlayer().getName());
+		Assert.assertEquals(EAction.CALLS, preflopActions.get(0).getAction());
+		Assert.assertEquals(Double.valueOf(0.02), Double.valueOf(preflopActions.get(0).getMontant()));
+
+		Assert.assertEquals("n00bish", preflopActions.get(1).getPlayer().getName());
+		Assert.assertEquals(EAction.RAISES, preflopActions.get(1).getAction());
+		Assert.assertEquals(Double.valueOf(0.08), Double.valueOf(preflopActions.get(1).getMontant()));
+
+		Assert.assertEquals("bilboquets", preflopActions.get(2).getPlayer().getName());
+		Assert.assertEquals(EAction.FOLDS, preflopActions.get(2).getAction());
+
+		Assert.assertEquals("...Thor...", preflopActions.get(3).getPlayer().getName());
+		Assert.assertEquals(EAction.FOLDS, preflopActions.get(3).getAction());
+
+		List<Action> flopActions = hand.getFlopActions();
+		Assert.assertEquals(3, flopActions.size());
+
+		Assert.assertEquals("Moronar", flopActions.get(0).getPlayer().getName());
+		Assert.assertEquals(EAction.CHECKS, flopActions.get(0).getAction());
+
+		Assert.assertEquals("n00bish", flopActions.get(1).getPlayer().getName());
+		Assert.assertEquals(EAction.BETS, flopActions.get(1).getAction());
+		Assert.assertEquals(Double.valueOf(0.15), Double.valueOf(flopActions.get(1).getMontant()));
+
+		Assert.assertEquals("Moronar", flopActions.get(2).getPlayer().getName());
+		Assert.assertEquals(EAction.CALLS, flopActions.get(2).getAction());
+		Assert.assertEquals(Double.valueOf(0.15), Double.valueOf(flopActions.get(1).getMontant()));
+
+		List<Action> turnActions = hand.getTurnActions();
+		Assert.assertEquals(2, turnActions.size());
+
+		Assert.assertEquals("Moronar", turnActions.get(0).getPlayer().getName());
+		Assert.assertEquals(EAction.CHECKS, turnActions.get(0).getAction());
+
+		Assert.assertEquals("n00bish", turnActions.get(1).getPlayer().getName());
+		Assert.assertEquals(EAction.CHECKS, turnActions.get(1).getAction());
+
+		List<Action> riverActions = hand.getRiverActions();
+		Assert.assertEquals(3, riverActions.size());
+
+		Assert.assertEquals("Moronar", riverActions.get(0).getPlayer().getName());
+		Assert.assertEquals(EAction.BETS, riverActions.get(0).getAction());
+		Assert.assertEquals(Double.valueOf(0.24), Double.valueOf(riverActions.get(0).getMontant()));
+
+		Assert.assertEquals("n00bish", riverActions.get(1).getPlayer().getName());
+		Assert.assertEquals(EAction.FOLDS, riverActions.get(1).getAction());
+
+		Assert.assertEquals("Moronar", riverActions.get(2).getPlayer().getName());
+		Assert.assertEquals(EAction.COLLECTED, riverActions.get(2).getAction());
+		Assert.assertEquals(Double.valueOf(0.74), Double.valueOf(riverActions.get(2).getMontant()));
+	}
 
 }

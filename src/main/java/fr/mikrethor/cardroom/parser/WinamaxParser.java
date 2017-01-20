@@ -106,8 +106,8 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 
 			}
 		}
-		return new Action(players.get(joueur), EAction.valueOf(action.toUpperCase()), Double.parseDouble(montant), main,
-				null);
+		return new Action(players.get(joueur), EAction.valueOf(action.toUpperCase()), Double.parseDouble(montant),
+				main);
 	}
 
 	public InfoSession parsing() {

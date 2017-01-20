@@ -49,7 +49,8 @@ public class WinamaxParserCashGame extends WinamaxParser implements ICardroomPar
 			game.setFee(fee);
 			// Pas de level en cash game
 			hand.setLevel(0);
-
+			hand.setCardRoom(cardRoom);
+			hand.setCurrency(money);
 			final Double smallBlind = parseSmallBlind(nextLine);
 			final Double bigBlind = parseBigBlind(nextLine);
 

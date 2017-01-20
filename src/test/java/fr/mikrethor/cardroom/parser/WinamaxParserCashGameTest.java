@@ -34,6 +34,9 @@ public class WinamaxParserCashGameTest {
 
 		Assert.assertNotNull(hand);
 
+		Assert.assertEquals(Currency.EURO, hand.getCurrency());
+		Assert.assertEquals(siteParsing.getCardroom(), hand.getCardRoom());
+
 	}
 
 	// Winamax Poker - CashGame - HandId: #9401942-10906-1483851372 - Holdem no

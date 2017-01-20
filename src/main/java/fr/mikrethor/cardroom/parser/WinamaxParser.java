@@ -283,6 +283,7 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 			final String handId = parseHandIdSite(nextL);
 			hand.setLabel(handId);
 			hand.setCardRoom(cardRoom);
+			hand.setCurrency(money);
 			hand.setId(parseHandIdSite(currentLine));
 			game.setBuyIn(buy + fee);
 			game.setFee(fee);

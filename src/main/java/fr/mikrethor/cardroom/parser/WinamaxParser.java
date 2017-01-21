@@ -253,7 +253,7 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 
 	@Override
 	public String parseNewHandLine(String currentLine, Scanner input, String phase, String[] nextPhases,
-			InfoSession game, Hand hand) {
+			InfoSession infoSession, Hand hand) {
 		final String nextL = currentLine;
 		if (nextL.startsWith(phase)) {
 			if (LOGGER.isDebugEnabled()) {
@@ -280,13 +280,13 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 					LOGGER.debug("Buy in : {}, Fee : {}, Level : {}", buy, fee, level);
 				}
 			}
+			infoSession.setBuyIn(buy + fee);
+			infoSession.setFee(fee);
 			final String handId = parseHandIdSite(nextL);
 			hand.setLabel(handId);
 			hand.setCardRoom(cardRoom);
 			hand.setCurrency(money);
 			hand.setId(parseHandIdSite(currentLine));
-			game.setBuyIn(buy + fee);
-			game.setFee(fee);
 			hand.setLevel(level);
 			final Date handDate = parseHandDate(nextL);
 			hand.setDate(handDate.getTime());
@@ -443,7 +443,7 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 
 	@Override
 	public String parseAntesAndBlinds(String nextLine, Scanner input, String phase, String[] nextPhases,
-			InfoSession game, Hand hand) {
+			InfoSession infoSession, Hand hand) {
 		String nextL = nextLine;
 		if (nextL.startsWith(phase)) {
 			if (LOGGER.isDebugEnabled()) {

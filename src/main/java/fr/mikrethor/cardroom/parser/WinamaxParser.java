@@ -30,15 +30,14 @@ import fr.mikrethor.cardroom.utils.DateUtils;
  * 
  */
 public class WinamaxParser extends CardroomFileParser implements ICardroomParser {
-
-	public WinamaxParser(File fileToParse) {
-		super(fileToParse);
-	}
-
 	/**
 	 * LOGGER.
 	 */
 	private static final Logger LOGGER = LoggerFactory.getLogger(WinamaxParser.class);
+
+	public WinamaxParser(File fileToParse) {
+		super(fileToParse);
+	}
 
 	protected static final String ANTE_BLIND = "*** ANTE/BLINDS ***";
 	protected static final String PRE_FLOP = "*** PRE-FLOP ***";

@@ -755,7 +755,7 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 	}
 
 	@Override
-	public Hand textToHandDto(StringBuffer text) {
+	public Hand textToHandDto(StringBuffer text, InfoSession infoSession) {
 		// TODO Auto-generated method stub
 		return null;
 	}

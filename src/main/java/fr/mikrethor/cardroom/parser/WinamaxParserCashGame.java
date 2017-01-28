@@ -1,6 +1,6 @@
 package fr.mikrethor.cardroom.parser;
 
-import java.io.File;
+import java.nio.file.Path;
 import java.util.Date;
 import java.util.Scanner;
 
@@ -20,7 +20,7 @@ import fr.mikrethor.cardroom.pojo.InfoSession;
  * 
  */
 public class WinamaxParserCashGame extends WinamaxParser implements ICardroomParser {
-	public WinamaxParserCashGame(File fileToParse) {
+	public WinamaxParserCashGame(Path fileToParse) {
 		super(fileToParse);
 	}
 
@@ -191,7 +191,7 @@ public class WinamaxParserCashGame extends WinamaxParser implements ICardroomPar
 	@Override
 	public String getTournamentId() {
 		// 20140709_Nice 02_real_holdem_no-limit.txt
-		final String fileName = this.getFileToParse().getName();
+		final String fileName = this.getFileToParse().getFileName().toString();
 		final String id = fileName.substring(fileName.indexOf(UNDERSCORE) + 1,
 				fileName.indexOf(UNDERSCORE, fileName.indexOf(UNDERSCORE) + 1));
 		return id;

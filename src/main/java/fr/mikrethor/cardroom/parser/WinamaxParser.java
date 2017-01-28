@@ -1,7 +1,7 @@
 package fr.mikrethor.cardroom.parser;
 
-import java.io.File;
-import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.nio.file.Path;
 import java.text.ParseException;
 import java.util.Date;
 import java.util.List;
@@ -35,7 +35,7 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 	 */
 	private static final Logger LOGGER = LoggerFactory.getLogger(WinamaxParser.class);
 
-	public WinamaxParser(File fileToParse) {
+	public WinamaxParser(Path fileToParse) {
 		super(fileToParse);
 	}
 
@@ -117,7 +117,7 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 		Scanner input;
 		try {
 			input = new Scanner(this.getFileToParse(), ENCODING);
-		} catch (final FileNotFoundException e) {
+		} catch (final IOException e) {
 			LOGGER.error(e.getMessage(), e);
 			return null;
 		}
@@ -688,7 +688,7 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 
 	@Override
 	public String getTournamentId() {
-		final String fileName = this.getFileToParse().getName();
+		final String fileName = this.getFileToParse().getFileName().toString();
 		String id;
 		if (fileName.contains(LEFT_PARENTHESIS)) {
 			id = fileName.substring(fileName.indexOf(LEFT_PARENTHESIS) + 1, fileName.indexOf(RIGHT_PARENTHESIS));

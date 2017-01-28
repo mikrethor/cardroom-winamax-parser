@@ -1,6 +1,8 @@
 package fr.mikrethor.cardroom.parser;
 
-import java.io.File;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
@@ -67,13 +69,13 @@ public class WinamaxParserTest {
 	public void parsingSNGFile() {
 		final String fileName = "./target/test-classes/20170107_NOCTAMBULE(180688705)_real_holdem_no-limit.txt";
 
-		final File file = new File(fileName);
+		final Path file = Paths.get(fileName);
 		final WinamaxParser siteParsing = new WinamaxParser(file);
 		siteParsing.setCardroom(new Cardroom("Winamax", Domain.FR));
 		Map<String, Hand> hands = null;
 
-		Assert.assertEquals(true, file.exists());
-		Assert.assertEquals(true, file.isFile());
+		Assert.assertEquals(true, Files.exists(file));
+		Assert.assertEquals(true, Files.isRegularFile(file));
 
 		hands = siteParsing.parse();
 
@@ -440,7 +442,7 @@ public class WinamaxParserTest {
 	@Test
 	public void testFileToMap() {
 
-		final File fichier = new File("./target/test-classes/20170107_NOCTAMBULE(180688705)_real_holdem_no-limit.txt");
+		final Path fichier = Paths.get("./target/test-classes/20170107_NOCTAMBULE(180688705)_real_holdem_no-limit.txt");
 		final WinamaxParser parser = new WinamaxParser(fichier);
 		parser.setCardroom(new Cardroom("Winamax", Domain.FR));
 		final Map<String, Hand> result = parser.parsing().getHands();

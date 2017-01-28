@@ -1,6 +1,8 @@
 package fr.mikrethor.cardroom.parser;
 
-import java.io.File;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.List;
 import java.util.Map;
 
@@ -19,14 +21,14 @@ public class WinamaxParserCashGameTest {
 	@Test
 	public void parsingCashGameFile() {
 		final String fileName = "./target/test-classes/20170107_Nice_real_holdem_no-limit.txt";
-		final File file = new File(fileName);
+		final Path file = Paths.get(fileName);
 		final WinamaxParserCashGame siteParsing = new WinamaxParserCashGame(file);
 		siteParsing.setCardroom(new Cardroom("Winamax", Domain.FR));
 		siteParsing.setCurrency(Currency.EURO);
 		Map<String, Hand> hands = null;
 
-		Assert.assertEquals(true, file.exists());
-		Assert.assertEquals(true, file.isFile());
+		Assert.assertEquals(true, Files.exists(file));
+		Assert.assertEquals(true, Files.isRegularFile(file));
 
 		hands = siteParsing.parse();
 
@@ -113,8 +115,8 @@ public class WinamaxParserCashGameTest {
 		Assert.assertEquals("Moronar", riverActions.get(2).getPlayer().getName());
 		Assert.assertEquals(EAction.COLLECTED, riverActions.get(2).getAction());
 		Assert.assertEquals(Double.valueOf(0.74), Double.valueOf(riverActions.get(2).getMontant()));
-		
-		Assert.assertEquals(0,hand.getShowdownActions().size());
+
+		Assert.assertEquals(0, hand.getShowdownActions().size());
 	}
 
 }

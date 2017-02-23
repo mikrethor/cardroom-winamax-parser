@@ -439,6 +439,7 @@ public class WinamaxParserTest {
 		Assert.assertEquals(48, calendar.get(Calendar.SECOND));
 	}
 
+	// 1.761s
 	@Test
 	public void testFileToMap() {
 

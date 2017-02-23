@@ -3,6 +3,7 @@ package fr.mikrethor.cardroom.parser;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.text.ParseException;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 import java.util.Map;
@@ -109,6 +110,7 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 				main);
 	}
 
+	@Override
 	public InfoSession parsing() {
 		if (LOGGER.isDebugEnabled()) {
 			LOGGER.debug("L'encodage utilis� pour lire le fichier est {}.", ENCODING);
@@ -375,29 +377,35 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 		return nextL;
 	}
 
+	@Override
 	public String parsePreflop(String nextLine, Scanner input, Hand hand) {
 		return parseActionsByPhase(nextLine, input, hand, PRE_FLOP, new String[] { FLOP, SUMMARY },
 				hand.getPreflopActions());
 	}
 
+	@Override
 	public String parseFlop(String nextLine, Scanner input, Hand hand) {
 		return parseActionsByPhase(nextLine, input, hand, FLOP, new String[] { TURN, SUMMARY }, hand.getFlopActions());
 	}
 
+	@Override
 	public String parseTurn(String nextLine, Scanner input, Hand hand) {
 		return parseActionsByPhase(nextLine, input, hand, TURN, new String[] { RIVER, SUMMARY }, hand.getTurnActions());
 	}
 
+	@Override
 	public String parseRiver(String nextLine, Scanner input, Hand hand) {
 		return parseActionsByPhase(nextLine, input, hand, RIVER, new String[] { SHOW_DOWN, SUMMARY },
 				hand.getRiverActions());
 	}
 
+	@Override
 	public String parseShowdown(String nextLine, Scanner input, Hand hand) {
 		return parseActionsByPhase(nextLine, input, hand, SHOW_DOWN, new String[] { SUMMARY },
 				hand.getShowdownActions());
 	}
 
+	@Override
 	public String parseSummary(String nextLine, Scanner input, InfoSession session, String phase, String[] nextPhases,
 			Hand hand) {
 		String nextL = nextLine;
@@ -733,13 +741,9 @@ public class WinamaxParser extends CardroomFileParser implements ICardroomParser
 	@Override
 	public Currency parseCurrency(String chaine) {
 
-		for (Currency currency : Currency.values()) {
-			if (chaine.contains(currency.getSymbol())) {
-				return currency;
-			}
-		}
+		return Arrays.stream(Currency.values()).filter(currency -> chaine.indexOf(currency.getSymbol()) > 0).findFirst()
+				.get();
 
-		return null;
 	}
 
 	@Override
